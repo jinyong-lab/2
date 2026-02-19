@@ -6,11 +6,8 @@ import { useState } from "react"
 import {
   Home,
   BookOpen,
-  TextCursorInput,
-  FolderOpen,
   Sparkles,
   History,
-  Star,
   Settings,
   Menu,
   GraduationCap,
@@ -30,11 +27,8 @@ import { Separator } from "@/components/ui/separator"
 const navItems = [
   { href: "/", label: "홈", icon: Home },
   { href: "/practice", label: "문제 풀기", icon: BookOpen },
-  { href: "/practice/blank", label: "빈칸 채우기", icon: TextCursorInput },
-  { href: "/subjects", label: "과목별 학습", icon: FolderOpen },
-  { href: "/generate", label: "AI 문제 생성", icon: Sparkles },
+  { href: "/generate", label: "AI 생성", icon: Sparkles },
   { href: "/history", label: "학습 기록", icon: History },
-  { href: "/bookmarks", label: "즐겨찾기", icon: Star },
   { href: "/settings", label: "설정", icon: Settings },
 ]
 

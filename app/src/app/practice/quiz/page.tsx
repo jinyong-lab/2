@@ -7,7 +7,6 @@ import {
   ChevronRight,
   Eye,
   Star,
-  Timer,
   Loader2,
   BookOpen,
   Bot,
@@ -55,11 +54,8 @@ function QuizContent() {
   const [userAnswer, setUserAnswer] = useState("")
   const [showAnswer, setShowAnswer] = useState(false)
   const [score, setScore] = useState<number | null>(null)
-  const [bookmarked, setBookmarked] = useState<Set<number>>(new Set())
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState("")
-  const [timerEnabled, setTimerEnabled] = useState(false)
-  const [elapsed, setElapsed] = useState(0)
   const [scores, setScores] = useState<Record<number, number>>({})
   const [answers, setAnswers] = useState<Record<number, string>>({})
   const [grading, setGrading] = useState(false)
@@ -95,31 +91,6 @@ function QuizContent() {
     fetchQuestions()
   }, [subject, mode, count])
 
-  // Fetch bookmarks
-  useEffect(() => {
-    async function fetchBookmarks() {
-      try {
-        const res = await fetch("/api/bookmarks")
-        if (res.ok) {
-          const data = await res.json()
-          const ids = new Set<number>(
-            data.map((b: { questionId: number }) => b.questionId)
-          )
-          setBookmarked(ids)
-        }
-      } catch {
-        // ignore
-      }
-    }
-    fetchBookmarks()
-  }, [])
-
-  // Timer
-  useEffect(() => {
-    if (!timerEnabled) return
-    const interval = setInterval(() => setElapsed((e) => e + 1), 1000)
-    return () => clearInterval(interval)
-  }, [timerEnabled])
 
   const currentQuestion = questions[currentIndex]
 
@@ -219,35 +190,6 @@ function QuizContent() {
     }
   }, [currentIndex, questions, answers, scores, gradeResults])
 
-  const toggleBookmark = useCallback(async () => {
-    if (!currentQuestion) return
-    const qId = currentQuestion.id
-
-    if (bookmarked.has(qId)) {
-      try {
-        await fetch(`/api/bookmarks?questionId=${qId}`, { method: "DELETE" })
-        setBookmarked((prev) => {
-          const next = new Set(prev)
-          next.delete(qId)
-          return next
-        })
-      } catch {
-        // ignore
-      }
-    } else {
-      try {
-        await fetch("/api/bookmarks", {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ questionId: qId }),
-        })
-        setBookmarked((prev) => new Set(prev).add(qId))
-      } catch {
-        // ignore
-      }
-    }
-  }, [currentQuestion, bookmarked])
-
   // Keyboard shortcuts
   useEffect(() => {
     function handleKeyDown(e: KeyboardEvent) {
@@ -272,12 +214,6 @@ function QuizContent() {
     window.addEventListener("keydown", handleKeyDown)
     return () => window.removeEventListener("keydown", handleKeyDown)
   }, [showAnswer, score, gradingMode, handleShowAnswer, handleScore, handleNext, handlePrev])
-
-  const formatTime = (seconds: number) => {
-    const m = Math.floor(seconds / 60)
-    const s = seconds % 60
-    return `${m.toString().padStart(2, "0")}:${s.toString().padStart(2, "0")}`
-  }
 
   const completedCount = Object.keys(scores).length
 
@@ -319,41 +255,13 @@ function QuizContent() {
   return (
     <div className="space-y-4">
       {/* Top bar */}
-      <div className="flex flex-wrap items-center justify-between gap-3">
-        <div className="flex items-center gap-3">
-          <Badge variant="outline" className="text-sm">
-            {currentIndex + 1} / {questions.length}
-          </Badge>
-          <Badge variant="secondary">
-            {completedCount}문제 완료
-          </Badge>
-        </div>
-
-        <div className="flex items-center gap-2">
-          {timerEnabled && (
-            <Badge variant="secondary" className="font-mono">
-              {formatTime(elapsed)}
-            </Badge>
-          )}
-          <Button
-            variant="ghost"
-            size="sm"
-            onClick={() => setTimerEnabled(!timerEnabled)}
-          >
-            <Timer
-              className={`size-4 ${timerEnabled ? "text-primary" : "text-muted-foreground"}`}
-            />
-          </Button>
-          <Button variant="ghost" size="sm" onClick={toggleBookmark}>
-            <Star
-              className={`size-4 ${
-                currentQuestion && bookmarked.has(currentQuestion.id)
-                  ? "fill-yellow-400 text-yellow-400"
-                  : "text-muted-foreground"
-              }`}
-            />
-          </Button>
-        </div>
+      <div className="flex items-center justify-between">
+        <span className="text-sm font-medium text-muted-foreground">
+          {currentIndex + 1} / {questions.length}
+        </span>
+        <span className="text-xs text-muted-foreground">
+          {completedCount}문제 완료
+        </span>
       </div>
 
       {/* Progress */}
@@ -364,21 +272,10 @@ function QuizContent() {
 
       {/* Question Card */}
       <Card>
-        <CardHeader>
-          <div className="flex flex-wrap items-center gap-2">
-            <Badge>{currentQuestion.subject.name}</Badge>
-            {currentQuestion.topic && (
-              <Badge variant="outline">{currentQuestion.topic.name}</Badge>
-            )}
-            {currentQuestion.pageRef && (
-              <Badge variant="secondary" className="text-xs">
-                p.{currentQuestion.pageRef}
-              </Badge>
-            )}
-            <Badge variant="outline" className="text-xs">
-              난이도 {currentQuestion.difficulty}/5
-            </Badge>
-          </div>
+        <CardHeader className="pb-2">
+          <p className="text-xs font-medium text-muted-foreground">
+            {currentQuestion.subject.name}
+          </p>
         </CardHeader>
         <CardContent className="space-y-6">
           {/* Question content */}
@@ -411,7 +308,6 @@ function QuizContent() {
             >
               <Eye className="size-4" />
               정답 보기
-              <span className="text-xs opacity-70 ml-2">(Enter)</span>
             </Button>
           )}
 
@@ -613,10 +509,6 @@ function QuizContent() {
         </Button>
       </div>
 
-      {/* Keyboard hints */}
-      <p className="text-center text-xs text-muted-foreground">
-        단축키: Enter(정답보기) | 1-5(평가) | 좌우 화살표(이동)
-      </p>
     </div>
   )
 }
