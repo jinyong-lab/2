@@ -10,6 +10,10 @@ import {
   Timer,
   Loader2,
   BookOpen,
+  Bot,
+  User,
+  CheckCircle,
+  XCircle,
 } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardHeader } from "@/components/ui/card"
@@ -29,6 +33,13 @@ interface Question {
   topicId: number | null
   subject: { id: number; name: string; category: string }
   topic: { id: number; name: string } | null
+}
+
+interface GradeResult {
+  score: number
+  feedback: string
+  correctPoints: string[]
+  missingPoints: string[]
 }
 
 function QuizContent() {
@@ -51,6 +62,10 @@ function QuizContent() {
   const [elapsed, setElapsed] = useState(0)
   const [scores, setScores] = useState<Record<number, number>>({})
   const [answers, setAnswers] = useState<Record<number, string>>({})
+  const [grading, setGrading] = useState(false)
+  const [gradeResult, setGradeResult] = useState<GradeResult | null>(null)
+  const [gradeResults, setGradeResults] = useState<Record<number, GradeResult>>({})
+  const [gradingMode, setGradingMode] = useState<"none" | "ai" | "self">("none")
 
   // Fetch questions
   useEffect(() => {
@@ -136,6 +151,46 @@ function QuizContent() {
     [currentQuestion, userAnswer]
   )
 
+  const handleAiGrade = useCallback(async () => {
+    if (!currentQuestion || !userAnswer.trim()) return
+    setGrading(true)
+    setGradingMode("ai")
+    try {
+      const res = await fetch("/api/grade", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          questionId: currentQuestion.id,
+          userAnswer,
+        }),
+      })
+      const data = await res.json()
+      if (!res.ok) {
+        if (data.fallbackToSelf) {
+          setGradingMode("self")
+          return
+        }
+        throw new Error(data.error || "채점 실패")
+      }
+      const result: GradeResult = {
+        score: data.score,
+        feedback: data.feedback,
+        correctPoints: data.correctPoints || [],
+        missingPoints: data.missingPoints || [],
+      }
+      setGradeResult(result)
+      setGradeResults((prev) => ({ ...prev, [currentQuestion.id]: result }))
+      setScore(result.score)
+      setScores((prev) => ({ ...prev, [currentQuestion.id]: result.score }))
+      setAnswers((prev) => ({ ...prev, [currentQuestion.id]: userAnswer }))
+    } catch {
+      // Fall back to self-scoring on error
+      setGradingMode("self")
+    } finally {
+      setGrading(false)
+    }
+  }, [currentQuestion, userAnswer])
+
   const handleNext = useCallback(() => {
     if (currentIndex < questions.length - 1) {
       const nextIdx = currentIndex + 1
@@ -144,8 +199,11 @@ function QuizContent() {
       setUserAnswer(answers[nextQ.id] || "")
       setShowAnswer(scores[nextQ.id] !== undefined)
       setScore(scores[nextQ.id] ?? null)
+      setGradeResult(gradeResults[nextQ.id] || null)
+      setGradingMode(scores[nextQ.id] !== undefined ? (gradeResults[nextQ.id] ? "ai" : "self") : "none")
+      setGrading(false)
     }
-  }, [currentIndex, questions, answers, scores])
+  }, [currentIndex, questions, answers, scores, gradeResults])
 
   const handlePrev = useCallback(() => {
     if (currentIndex > 0) {
@@ -155,8 +213,11 @@ function QuizContent() {
       setUserAnswer(answers[prevQ.id] || "")
       setShowAnswer(scores[prevQ.id] !== undefined)
       setScore(scores[prevQ.id] ?? null)
+      setGradeResult(gradeResults[prevQ.id] || null)
+      setGradingMode(scores[prevQ.id] !== undefined ? (gradeResults[prevQ.id] ? "ai" : "self") : "none")
+      setGrading(false)
     }
-  }, [currentIndex, questions, answers, scores])
+  }, [currentIndex, questions, answers, scores, gradeResults])
 
   const toggleBookmark = useCallback(async () => {
     if (!currentQuestion) return
@@ -197,6 +258,7 @@ function QuizContent() {
         handleShowAnswer()
       } else if (
         showAnswer &&
+        gradingMode === "self" &&
         ["1", "2", "3", "4", "5"].includes(e.key) &&
         score === null
       ) {
@@ -209,7 +271,7 @@ function QuizContent() {
     }
     window.addEventListener("keydown", handleKeyDown)
     return () => window.removeEventListener("keydown", handleKeyDown)
-  }, [showAnswer, score, handleShowAnswer, handleScore, handleNext, handlePrev])
+  }, [showAnswer, score, gradingMode, handleShowAnswer, handleScore, handleNext, handlePrev])
 
   const formatTime = (seconds: number) => {
     const m = Math.floor(seconds / 60)
@@ -365,8 +427,45 @@ function QuizContent() {
                 </p>
               </div>
 
-              {/* Self-scoring */}
-              {score === null ? (
+              {/* Grading section */}
+              {score === null && gradingMode === "none" && !grading ? (
+                <div className="space-y-3">
+                  <p className="text-center text-sm font-medium">
+                    채점 방식을 선택하세요
+                  </p>
+                  <div className="flex justify-center gap-3">
+                    <Button
+                      variant="default"
+                      className="flex h-auto gap-2 px-6 py-3"
+                      onClick={handleAiGrade}
+                      disabled={!userAnswer.trim()}
+                    >
+                      <Bot className="size-4" />
+                      AI 채점
+                    </Button>
+                    <Button
+                      variant="outline"
+                      className="flex h-auto gap-2 px-6 py-3"
+                      onClick={() => setGradingMode("self")}
+                    >
+                      <User className="size-4" />
+                      자기 채점
+                    </Button>
+                  </div>
+                  {!userAnswer.trim() && (
+                    <p className="text-center text-xs text-muted-foreground">
+                      AI 채점을 사용하려면 답안을 작성해주세요
+                    </p>
+                  )}
+                </div>
+              ) : grading ? (
+                <div className="flex flex-col items-center gap-3 rounded-lg border border-dashed p-6">
+                  <Loader2 className="size-6 animate-spin text-primary" />
+                  <p className="text-sm text-muted-foreground">
+                    AI가 답안을 채점하고 있습니다...
+                  </p>
+                </div>
+              ) : gradingMode === "self" && score === null ? (
                 <div className="space-y-3">
                   <p className="text-center text-sm font-medium">
                     자기 평가를 선택하세요 (1-5)
@@ -394,7 +493,74 @@ function QuizContent() {
                     ))}
                   </div>
                 </div>
-              ) : (
+              ) : gradeResult ? (
+                <div className="space-y-4 rounded-lg border-2 border-blue-200 bg-blue-50/50 p-4 dark:border-blue-900 dark:bg-blue-950/30 sm:p-5">
+                  {/* AI Score Header */}
+                  <div className="flex items-center justify-between">
+                    <div className="flex items-center gap-2">
+                      <Bot className="size-5 text-blue-600 dark:text-blue-400" />
+                      <span className="text-sm font-semibold text-blue-700 dark:text-blue-300">
+                        AI 채점 결과
+                      </span>
+                    </div>
+                    <div className="flex items-center gap-1.5">
+                      <div className="flex gap-0.5">
+                        {[1, 2, 3, 4, 5].map((s) => (
+                          <Star
+                            key={s}
+                            className={`size-4 ${
+                              s <= gradeResult.score
+                                ? "fill-yellow-400 text-yellow-400"
+                                : "text-muted-foreground/30"
+                            }`}
+                          />
+                        ))}
+                      </div>
+                      <span className="text-sm font-bold">
+                        {gradeResult.score}/5
+                      </span>
+                      <Badge variant="secondary" className="ml-1 text-xs">
+                        {scoreLabels[gradeResult.score - 1]}
+                      </Badge>
+                    </div>
+                  </div>
+
+                  {/* Feedback */}
+                  <p className="text-sm leading-relaxed">
+                    {gradeResult.feedback}
+                  </p>
+
+                  {/* Correct Points */}
+                  {gradeResult.correctPoints.length > 0 && (
+                    <div className="space-y-1.5">
+                      <p className="text-xs font-semibold text-green-700 dark:text-green-400">
+                        잘한 점
+                      </p>
+                      {gradeResult.correctPoints.map((point, i) => (
+                        <div key={i} className="flex items-start gap-2">
+                          <CheckCircle className="mt-0.5 size-4 shrink-0 text-green-500" />
+                          <span className="text-sm">{point}</span>
+                        </div>
+                      ))}
+                    </div>
+                  )}
+
+                  {/* Missing Points */}
+                  {gradeResult.missingPoints.length > 0 && (
+                    <div className="space-y-1.5">
+                      <p className="text-xs font-semibold text-red-700 dark:text-red-400">
+                        보완할 점
+                      </p>
+                      {gradeResult.missingPoints.map((point, i) => (
+                        <div key={i} className="flex items-start gap-2">
+                          <XCircle className="mt-0.5 size-4 shrink-0 text-red-500" />
+                          <span className="text-sm">{point}</span>
+                        </div>
+                      ))}
+                    </div>
+                  )}
+                </div>
+              ) : score !== null ? (
                 <div className="flex items-center justify-center gap-2 rounded-lg bg-muted p-3">
                   <span className="text-sm text-muted-foreground">평가:</span>
                   <div className="flex gap-0.5">
@@ -413,7 +579,7 @@ function QuizContent() {
                     {scoreLabels[score - 1]}
                   </span>
                 </div>
-              )}
+              ) : null}
             </div>
           )}
         </CardContent>

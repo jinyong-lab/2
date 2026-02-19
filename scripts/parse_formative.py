@@ -8,6 +8,75 @@ import json
 import os
 from pathlib import Path
 
+# Subject header keywords that appear as PDF artifacts at the bottom of answer pages
+_SUBJECT_HEADER_KEYWORDS = [
+    '교육의이해', '교육과정', '교육방법', '교육평가', '교육행정',
+    '교육심리', '교육사회', '생활지도와', '교육사', '및공학',
+    '상담', '교육철학',
+]
+
+
+_PAGE_FOOTER_RE = re.compile(r'^-\s*\d+\s*-\s*\S')
+
+
+def _is_only_checkbox_chars(line: str) -> bool:
+    """Returns True if line contains only □ (U+25A1) characters."""
+    stripped = line.strip()
+    return bool(stripped) and all(c == '\u25a1' for c in stripped)
+
+
+def _is_subject_header_line(line: str) -> bool:
+    """Returns True if line is a subject-list artifact (only subject name tokens)."""
+    stripped = line.strip()
+    if not stripped:
+        return False
+    remainder = stripped
+    for kw in _SUBJECT_HEADER_KEYWORDS:
+        remainder = remainder.replace(kw, '')
+    return len(remainder.strip()) <= 2
+
+
+def _is_page_footer_line(line: str) -> bool:
+    """Returns True if line is a page footer like '- 10- 설보연SANTA 교육학'."""
+    return bool(_PAGE_FOOTER_RE.match(line.strip()))
+
+
+def _is_artifact_line(line: str) -> bool:
+    """Returns True if a trailing line is a PDF artifact."""
+    return (
+        _is_only_checkbox_chars(line)
+        or _is_subject_header_line(line)
+        or _is_page_footer_line(line)
+        or not line.strip()
+    )
+
+
+def clean_answer_text(text: str) -> str:
+    """
+    Remove PDF checkbox artifacts and subject header lines from answer text.
+    - Removes lines that are ONLY □ characters anywhere in the text
+    - Removes trailing subject header lines (navigation footer artifacts)
+    - Removes trailing page footer lines like '- 10- 설보연SANTA 교육학'
+    - Strips trailing whitespace
+    """
+    if not text:
+        return text
+
+    lines = text.split('\n')
+
+    # Remove internal □-only lines
+    cleaned = [line for line in lines if not _is_only_checkbox_chars(line)]
+
+    # Strip trailing artifact lines (multi-pass until stable)
+    changed = True
+    while changed and cleaned:
+        changed = False
+        while cleaned and _is_artifact_line(cleaned[-1]):
+            cleaned.pop()
+            changed = True
+
+    return '\n'.join(cleaned).strip()
+
 try:
     import pdfplumber
 except ImportError:
@@ -101,8 +170,8 @@ def parse_questions(text: str, subject: str, category: str, set_number: int) -> 
             # Remove page ref from question text
             question_text = current_q_content[:page_ref_match.start()].strip()
 
-        # Join answer lines
-        answer = "\n".join(current_answer_lines).strip()
+        # Join answer lines and clean PDF artifacts
+        answer = clean_answer_text("\n".join(current_answer_lines))
 
         if question_text and answer:
             questions.append({
