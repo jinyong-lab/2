@@ -1,0 +1,75 @@
+generator client {
+  provider = "prisma-client"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "sqlite"
+}
+
+model Subject {
+  id        Int        @id @default(autoincrement())
+  name      String     @unique
+  category  String
+  topics    Topic[]
+  questions Question[]
+}
+
+model Topic {
+  id        Int        @id @default(autoincrement())
+  name      String
+  subjectId Int
+  subject   Subject    @relation(fields: [subjectId], references: [id])
+  questions Question[]
+
+  @@unique([name, subjectId])
+}
+
+model Question {
+  id          Int         @id @default(autoincrement())
+  content     String
+  modelAnswer String
+  type        String      @default("essay")
+  source      String      @default("formative")
+  difficulty  Int         @default(3)
+  pageRef     String?
+  subjectId   Int
+  topicId     Int?
+  subject     Subject     @relation(fields: [subjectId], references: [id])
+  topic       Topic?      @relation(fields: [topicId], references: [id])
+  attempts    Attempt[]
+  bookmarks   Bookmark[]
+  blankItems  BlankItem[]
+  createdAt   DateTime    @default(now())
+}
+
+model BlankItem {
+  id         Int      @id @default(autoincrement())
+  position   Int
+  answer     String
+  context    String
+  questionId Int
+  question   Question @relation(fields: [questionId], references: [id])
+}
+
+model Attempt {
+  id         Int      @id @default(autoincrement())
+  questionId Int
+  question   Question @relation(fields: [questionId], references: [id])
+  userAnswer String
+  score      Int
+  createdAt  DateTime @default(now())
+}
+
+model Bookmark {
+  id         Int      @id @default(autoincrement())
+  questionId Int
+  question   Question @relation(fields: [questionId], references: [id])
+  note       String?
+  createdAt  DateTime @default(now())
+}
+
+model Setting {
+  key   String @id
+  value String
+}
