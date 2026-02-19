@@ -187,7 +187,7 @@ export default function HistoryPage() {
       </div>
 
       {/* Date filter */}
-      <div className="flex gap-2">
+      <div className="flex flex-wrap gap-2">
         {(
           [
             ["today", "오늘"],
@@ -256,7 +256,7 @@ export default function HistoryPage() {
 
       {/* Charts */}
       <Tabs defaultValue="daily">
-        <TabsList>
+        <TabsList className="w-full grid grid-cols-3">
           <TabsTrigger value="daily">일별 풀이</TabsTrigger>
           <TabsTrigger value="score">점수 분포</TabsTrigger>
           <TabsTrigger value="subject">과목별 성과</TabsTrigger>
@@ -277,7 +277,7 @@ export default function HistoryPage() {
                   <ResponsiveContainer width="100%" height="100%">
                     <BarChart data={dailyData}>
                       <CartesianGrid strokeDasharray="3 3" className="opacity-30" />
-                      <XAxis dataKey="date" fontSize={12} />
+                      <XAxis dataKey="date" fontSize={11} angle={-45} textAnchor="end" height={50} />
                       <YAxis fontSize={12} />
                       <Tooltip
                         labelFormatter={(label) => `${label}`}
@@ -321,8 +321,8 @@ export default function HistoryPage() {
                         cy="50%"
                         outerRadius={100}
                         label={
-                          (({ name, percent }: { name: string; percent: number }) =>
-                            `${name} ${(percent * 100).toFixed(0)}%`) as any
+                          (({ percent }: { percent: number }) =>
+                            `${(percent * 100).toFixed(0)}%`) as any
                         }
                       >
                         {scoreDistribution

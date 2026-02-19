@@ -329,7 +329,7 @@ function QuizContent() {
                   <p className="text-center text-sm font-medium">
                     채점 방식을 선택하세요
                   </p>
-                  <div className="flex justify-center gap-3">
+                  <div className="flex flex-wrap justify-center gap-3">
                     <Button
                       variant="default"
                       className="flex h-auto gap-2 px-6 py-3"
@@ -366,12 +366,12 @@ function QuizContent() {
                   <p className="text-center text-sm font-medium">
                     자기 평가를 선택하세요 (1-5)
                   </p>
-                  <div className="flex justify-center gap-2">
+                  <div className="grid grid-cols-5 gap-1 sm:flex sm:justify-center sm:gap-2">
                     {[1, 2, 3, 4, 5].map((s) => (
                       <Button
                         key={s}
                         variant="outline"
-                        className="flex h-auto flex-col gap-1 px-4 py-3"
+                        className="flex h-auto flex-col gap-1 px-2 py-2 sm:px-4 sm:py-3"
                         onClick={() => handleScore(s)}
                       >
                         <div className="flex gap-0.5">
@@ -392,7 +392,7 @@ function QuizContent() {
               ) : gradeResult ? (
                 <div className="space-y-4 rounded-lg border-2 border-blue-200 bg-blue-50/50 p-4 dark:border-blue-900 dark:bg-blue-950/30 sm:p-5">
                   {/* AI Score Header */}
-                  <div className="flex items-center justify-between">
+                  <div className="flex flex-wrap items-center justify-between gap-2">
                     <div className="flex items-center gap-2">
                       <Bot className="size-5 text-blue-600 dark:text-blue-400" />
                       <span className="text-sm font-semibold text-blue-700 dark:text-blue-300">

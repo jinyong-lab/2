@@ -128,8 +128,8 @@ export default async function HomePage() {
                 return (
                   <div key={subject.id} className="space-y-1.5">
                     <div className="flex items-center justify-between text-sm">
-                      <span className="font-medium">{subject.name}</span>
-                      <span className="text-muted-foreground">
+                      <span className="truncate min-w-0 flex-1 mr-2 font-medium">{subject.name}</span>
+                      <span className="shrink-0 text-muted-foreground">
                         {subject.attempted}/{subject.total}
                       </span>
                     </div>

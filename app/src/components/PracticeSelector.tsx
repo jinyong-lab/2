@@ -79,7 +79,7 @@ export default function PracticeSelector({ subjects }: PracticeSelectorProps) {
       {/* Count selection */}
       <div className="space-y-3">
         <p className="text-sm font-medium text-muted-foreground">문제 수</p>
-        <div className="flex gap-2">
+        <div className="flex flex-wrap gap-2">
           {COUNT_OPTIONS.map((opt) => (
             <button
               key={opt.value}

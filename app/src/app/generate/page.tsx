@@ -308,7 +308,7 @@ export default function GeneratePage() {
       {/* Generated Questions */}
       {questions.length > 0 && (
         <div className="space-y-4">
-          <div className="flex items-center justify-between">
+          <div className="flex flex-wrap items-center justify-between gap-2">
             <h2 className="text-xl font-semibold">
               생성된 문제 ({questions.length}개)
             </h2>
