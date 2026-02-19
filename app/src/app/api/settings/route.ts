@@ -8,6 +8,16 @@ export async function GET() {
     for (const s of settings) {
       settingsMap[s.key] = s.value
     }
+
+    // If no DB key, surface env key (masked) so frontend knows it's available
+    if (!settingsMap.openai_api_key && process.env.OPENAI_API_KEY) {
+      const raw = process.env.OPENAI_API_KEY
+      settingsMap.openai_api_key = `sk-...${raw.slice(-4)}`
+      settingsMap.openai_api_key_source = "env"
+    } else if (settingsMap.openai_api_key) {
+      settingsMap.openai_api_key_source = "db"
+    }
+
     return NextResponse.json(settingsMap)
   } catch (error) {
     console.error("Error fetching settings:", error)

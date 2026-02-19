@@ -7,14 +7,16 @@ export async function POST(request: NextRequest) {
     const body = await request.json()
     const { subjectId, topicId, count = 3, difficulty = 3, save = false } = body
 
-    // Get API key from settings
+    // Get API key: DB setting takes priority, then fall back to env
     const apiKeySetting = await prisma.setting.findUnique({
       where: { key: "openai_api_key" },
     })
 
-    if (!apiKeySetting?.value) {
+    const apiKey = apiKeySetting?.value || process.env.OPENAI_API_KEY
+
+    if (!apiKey) {
       return NextResponse.json(
-        { error: "OpenAI API 키가 설정되지 않았습니다. 설정 페이지에서 API 키를 입력해주세요." },
+        { error: "OpenAI API 키가 설정되지 않았습니다. 설정 페이지에서 API 키를 입력하거나 .env 파일에 OPENAI_API_KEY를 설정해주세요." },
         { status: 400 }
       )
     }
@@ -39,7 +41,7 @@ export async function POST(request: NextRequest) {
       if (topic) topicName = topic.name
     }
 
-    const openai = new OpenAI({ apiKey: apiKeySetting.value })
+    const openai = new OpenAI({ apiKey })
 
     const difficultyLabels = ["매우 쉬움", "쉬움", "보통", "어려움", "매우 어려움"]
     const diffLabel = difficultyLabels[difficulty - 1] || "보통"

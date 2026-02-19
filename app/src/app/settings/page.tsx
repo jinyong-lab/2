@@ -26,6 +26,8 @@ export default function SettingsPage() {
   const { theme, setTheme } = useTheme()
 
   const [apiKey, setApiKey] = useState("")
+  const [apiKeySource, setApiKeySource] = useState<"db" | "env" | null>(null)
+  const [apiKeyPlaceholder, setApiKeyPlaceholder] = useState("sk-...")
   const [showApiKey, setShowApiKey] = useState(false)
   const [timerDefault, setTimerDefault] = useState("off")
   const [questionsPerSession, setQuestionsPerSession] = useState("20")
@@ -45,7 +47,14 @@ export default function SettingsPage() {
         const res = await fetch("/api/settings")
         if (res.ok) {
           const data = await res.json()
-          if (data.openai_api_key) setApiKey(data.openai_api_key)
+          if (data.openai_api_key_source === "env") {
+            // Key comes from .env — show masked as placeholder, leave input empty
+            setApiKeySource("env")
+            setApiKeyPlaceholder(data.openai_api_key)
+          } else if (data.openai_api_key) {
+            setApiKey(data.openai_api_key)
+            setApiKeySource("db")
+          }
           if (data.timer_default) setTimerDefault(data.timer_default)
           if (data.questions_per_session)
             setQuestionsPerSession(data.questions_per_session)
@@ -63,14 +72,16 @@ export default function SettingsPage() {
     setSaving(true)
     setSaved(false)
     try {
+      const payload: Record<string, string> = {
+        timer_default: timerDefault,
+        questions_per_session: questionsPerSession,
+      }
+      // Only save api key to DB if user explicitly typed one
+      if (apiKey) payload.openai_api_key = apiKey
       const res = await fetch("/api/settings", {
         method: "PUT",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          openai_api_key: apiKey,
-          timer_default: timerDefault,
-          questions_per_session: questionsPerSession,
-        }),
+        body: JSON.stringify(payload),
       })
       if (res.ok) {
         setSaved(true)
@@ -117,12 +128,17 @@ export default function SettingsPage() {
           </CardDescription>
         </CardHeader>
         <CardContent className="space-y-3">
+          {apiKeySource === "env" && (
+            <p className="rounded-md bg-blue-50 px-3 py-2 text-sm text-blue-700 dark:bg-blue-950 dark:text-blue-300">
+              환경변수(.env)에서 API 키를 사용 중입니다. 새 키를 입력하면 DB에 저장되어 우선 적용됩니다.
+            </p>
+          )}
           <div className="relative">
             <Input
               type={showApiKey ? "text" : "password"}
               value={apiKey}
               onChange={(e) => setApiKey(e.target.value)}
-              placeholder="sk-..."
+              placeholder={apiKeyPlaceholder}
               className="pr-10"
             />
             <Button
@@ -139,7 +155,9 @@ export default function SettingsPage() {
             </Button>
           </div>
           <p className="text-xs text-muted-foreground">
-            API 키는 로컬 데이터베이스에 저장됩니다
+            {apiKeySource === "env"
+              ? "새 키를 입력하지 않으면 환경변수의 키가 계속 사용됩니다"
+              : "API 키는 로컬 데이터베이스에 저장됩니다"}
           </p>
         </CardContent>
       </Card>
