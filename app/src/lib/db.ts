@@ -21,7 +21,7 @@ export async function getDb(): Promise<PrismaClient> {
   // Cloudflare D1: per-request client
   const { getCloudflareContext } = await import('@opennextjs/cloudflare')
   const { PrismaD1 } = await import('@prisma/adapter-d1')
-  const { env } = await getCloudflareContext()
+  const { env } = await getCloudflareContext({ async: true })
   const adapter = new PrismaD1(env.DB)
   return new PrismaClient({ adapter } as any)
 }

@@ -11,6 +11,8 @@ import { Badge } from "@/components/ui/badge"
 import { Progress } from "@/components/ui/progress"
 import { getDb } from "@/lib/db"
 
+export const dynamic = 'force-dynamic'
+
 async function getSubjectsData() {
   const prisma = await getDb()
   const subjects = await prisma.subject.findMany({

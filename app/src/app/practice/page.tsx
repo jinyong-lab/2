@@ -1,6 +1,8 @@
 import { getDb } from "@/lib/db"
 import PracticeSelector from "@/components/PracticeSelector"
 
+export const dynamic = 'force-dynamic'
+
 async function getSubjects() {
   const prisma = await getDb()
   return prisma.subject.findMany({

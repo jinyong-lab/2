@@ -7,6 +7,8 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Progress } from "@/components/ui/progress"
 import { getDb } from "@/lib/db"
 
+export const dynamic = 'force-dynamic'
+
 async function getStats() {
   const prisma = await getDb()
   const totalQuestions = await prisma.question.count()
