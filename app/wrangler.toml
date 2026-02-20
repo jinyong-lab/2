@@ -7,6 +7,3 @@ pages_build_output_dir = ".open-next"
 binding = "DB"
 database_name = "exam-db"
 database_id = "3f76550b-a328-41ee-a2e2-0d7389050a15"
-
-[vars]
-OPENAI_API_KEY = ""
