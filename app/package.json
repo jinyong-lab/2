@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "build:cf": "npx prisma generate && npx opennextjs-cloudflare build",
+    "build:cf": "npx prisma generate && npx opennextjs-cloudflare build && cp .open-next/worker.js .open-next/assets/_worker.js",
     "preview": "npx wrangler dev",
     "deploy": "npx wrangler deploy"
   },
