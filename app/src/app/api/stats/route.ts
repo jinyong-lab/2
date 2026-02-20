@@ -74,7 +74,7 @@ export async function GET() {
   } catch (error) {
     console.error("Error fetching stats:", error)
     return NextResponse.json(
-      { error: "통계를 불러오는데 실패했습니다" },
+      { error: "통계를 불러오는데 실패했습니다", detail: error instanceof Error ? error.message : String(error), stack: error instanceof Error ? error.stack : undefined },
       { status: 500 }
     )
   }
