@@ -5,9 +5,10 @@ import {
 } from "lucide-react"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Progress } from "@/components/ui/progress"
-import { prisma } from "@/lib/db"
+import { getDb } from "@/lib/db"
 
 async function getStats() {
+  const prisma = await getDb()
   const totalQuestions = await prisma.question.count()
 
   const todayStart = new Date()

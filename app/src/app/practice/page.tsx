@@ -1,7 +1,8 @@
-import { prisma } from "@/lib/db"
+import { getDb } from "@/lib/db"
 import PracticeSelector from "@/components/PracticeSelector"
 
 async function getSubjects() {
+  const prisma = await getDb()
   return prisma.subject.findMany({
     include: { _count: { select: { questions: true } } },
     orderBy: { category: "asc" },

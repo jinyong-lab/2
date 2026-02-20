@@ -1,8 +1,9 @@
 import { NextRequest, NextResponse } from "next/server"
-import { prisma } from "@/lib/db"
+import { getDb } from "@/lib/db"
 
 export async function GET() {
   try {
+    const prisma = await getDb()
     const settings = await prisma.setting.findMany()
     const settingsMap: Record<string, string> = {}
     for (const s of settings) {
@@ -30,6 +31,7 @@ export async function GET() {
 
 export async function PUT(request: NextRequest) {
   try {
+    const prisma = await getDb()
     const body = await request.json()
 
     // body is { key: value, key: value, ... }

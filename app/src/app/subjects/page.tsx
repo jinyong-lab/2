@@ -9,9 +9,10 @@ import {
 } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Progress } from "@/components/ui/progress"
-import { prisma } from "@/lib/db"
+import { getDb } from "@/lib/db"
 
 async function getSubjectsData() {
+  const prisma = await getDb()
   const subjects = await prisma.subject.findMany({
     include: {
       _count: { select: { questions: true } },

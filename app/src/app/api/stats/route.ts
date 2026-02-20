@@ -1,8 +1,9 @@
 import { NextResponse } from "next/server"
-import { prisma } from "@/lib/db"
+import { getDb } from "@/lib/db"
 
 export async function GET() {
   try {
+    const prisma = await getDb()
     // Total questions
     const totalQuestions = await prisma.question.count()
 

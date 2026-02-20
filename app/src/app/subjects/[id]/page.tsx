@@ -10,13 +10,14 @@ import {
 import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
 import { Progress } from "@/components/ui/progress"
-import { prisma } from "@/lib/db"
+import { getDb } from "@/lib/db"
 
 interface PageProps {
   params: Promise<{ id: string }>
 }
 
 async function getSubjectDetail(id: number) {
+  const prisma = await getDb()
   const subject = await prisma.subject.findUnique({
     where: { id },
     include: {

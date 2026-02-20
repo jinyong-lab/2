@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server"
-import { prisma } from "@/lib/db"
+import { getDb } from "@/lib/db"
 import OpenAI from "openai"
 
 interface GradeResult {
@@ -11,6 +11,7 @@ interface GradeResult {
 
 export async function POST(request: NextRequest) {
   try {
+    const prisma = await getDb()
     const body = await request.json()
     const { questionId, userAnswer } = body
 

@@ -1,8 +1,9 @@
 import { NextRequest, NextResponse } from "next/server"
-import { prisma } from "@/lib/db"
+import { getDb } from "@/lib/db"
 
 export async function GET(request: NextRequest) {
   try {
+    const prisma = await getDb()
     const { searchParams } = new URL(request.url)
     const subject = searchParams.get("subject")
     const topic = searchParams.get("topic")

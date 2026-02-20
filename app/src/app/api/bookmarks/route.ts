@@ -1,8 +1,9 @@
 import { NextRequest, NextResponse } from "next/server"
-import { prisma } from "@/lib/db"
+import { getDb } from "@/lib/db"
 
 export async function GET() {
   try {
+    const prisma = await getDb()
     const bookmarks = await prisma.bookmark.findMany({
       include: {
         question: {
@@ -27,6 +28,7 @@ export async function GET() {
 
 export async function POST(request: NextRequest) {
   try {
+    const prisma = await getDb()
     const body = await request.json()
     const { questionId, note } = body
 
@@ -68,6 +70,7 @@ export async function POST(request: NextRequest) {
 
 export async function DELETE(request: NextRequest) {
   try {
+    const prisma = await getDb()
     const { searchParams } = new URL(request.url)
     const questionId = searchParams.get("questionId")
 
