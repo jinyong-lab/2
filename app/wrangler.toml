@@ -10,7 +10,7 @@ binding = "ASSETS"
 [[d1_databases]]
 binding = "DB"
 database_name = "exam-db"
-database_id = "PLACEHOLDER_REPLACE_WITH_ACTUAL_ID"
+database_id = "3f76550b-a328-41ee-a2e2-0d7389050a15"
 
 [vars]
 OPENAI_API_KEY = ""
