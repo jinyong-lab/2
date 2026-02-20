@@ -15,12 +15,12 @@ export async function GET() {
     const { env } = await mod.getCloudflareContext({ async: true })
     info.env_type = typeof env
     info.env_keys_cf = Object.keys(env || {})
-    info.has_DB = !!(env as Record<string, unknown>)?.DB
-    info.DB_type = typeof (env as Record<string, unknown>)?.DB
+    info.has_DB = !!env.DB
+    info.DB_type = typeof env.DB
 
     // Test 3: Can we execute a simple query on D1?
     try {
-      const db = (env as Record<string, unknown>).DB as { prepare: (sql: string) => { first: () => Promise<unknown> } }
+      const db = env.DB as unknown as { prepare: (sql: string) => { first: () => Promise<unknown> } }
       const result = await db.prepare("SELECT COUNT(*) as cnt FROM Subject").first()
       info.d1_query_result = result
       info.d1_works = true
