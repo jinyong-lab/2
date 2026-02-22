@@ -19,11 +19,26 @@ export async function getDb(): Promise<PrismaClient> {
     return cachedPrisma
   }
 
-  // Cloudflare D1: use WASM runtime (supports adapter, no binary engine)
+  // Cloudflare D1: patch fs to prevent binary engine lookup, then use standard import
+  const fs = await import('node:fs')
+  const origReaddir = fs.readdir
+  if (origReaddir && origReaddir.toString && origReaddir.toString().includes('not implemented')) {
+    ;(fs as any).readdir = (...args: any[]) => {
+      const cb = args[args.length - 1]
+      if (typeof cb === 'function') cb(null, [])
+    }
+    ;(fs as any).readdirSync = () => []
+    ;(fs as any).readFileSync = (...args: any[]) => {
+      const p = String(args[0])
+      if (p.includes('os-release') || p.includes('alpine')) throw new Error('ENOENT')
+      return ''
+    }
+  }
+
+  const { PrismaClient: PrismaClientStd } = await import('@/generated/prisma')
   const { getCloudflareContext } = await import('@opennextjs/cloudflare')
   const { PrismaD1 } = await import('@prisma/adapter-d1')
-  const { PrismaClient: PrismaClientWasm } = await import('@/generated/prisma/wasm')
   const { env } = await getCloudflareContext({ async: true })
   const adapter = new PrismaD1(env.DB)
-  return new PrismaClientWasm({ adapter } as any)
+  return new PrismaClientStd({ adapter } as any)
 }
