@@ -18,10 +18,11 @@ export async function getDb(): Promise<PrismaClient> {
     return cachedPrisma
   }
 
-  // Cloudflare D1: per-request client
+  // Cloudflare D1: use edge runtime (no binary engine, no fs.readdir)
   const { getCloudflareContext } = await import('@opennextjs/cloudflare')
   const { PrismaD1 } = await import('@prisma/adapter-d1')
+  const { PrismaClient: PrismaClientEdge } = await import('@/generated/prisma/edge')
   const { env } = await getCloudflareContext({ async: true })
   const adapter = new PrismaD1(env.DB)
-  return new PrismaClient({ adapter } as any)
+  return new PrismaClientEdge({ adapter } as any)
 }
