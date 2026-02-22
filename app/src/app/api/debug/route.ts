@@ -35,7 +35,7 @@ export async function GET() {
 
   // Test 4: Can we import Prisma?
   try {
-    const { PrismaClient } = await import('@/generated/prisma/client')
+    const { PrismaClient } = await import('@/generated/prisma')
     info.has_PrismaClient = typeof PrismaClient === 'function'
   } catch (prismaErr) {
     info.prisma_error = prismaErr instanceof Error ? prismaErr.message : String(prismaErr)
