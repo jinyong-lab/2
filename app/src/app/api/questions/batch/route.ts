@@ -5,7 +5,7 @@ export async function POST(request: NextRequest) {
   try {
     const prisma = await getDb()
     const body = await request.json()
-    const { questions, subjectId, topicId, difficulty } = body
+    const { questions, subjectId, topicId, difficulty, source } = body
 
     if (!Array.isArray(questions) || questions.length === 0 || !subjectId) {
       return NextResponse.json(
@@ -20,13 +20,28 @@ export async function POST(request: NextRequest) {
         data: {
           content: q.content,
           modelAnswer: q.modelAnswer,
-          type: "essay",
-          source: "ai-generated",
+          type: q.type || "essay",
+          source: source || q.source || "ai-generated",
           difficulty: difficulty || 3,
           subjectId: parseInt(subjectId, 10),
           topicId: topicId ? parseInt(topicId, 10) : null,
         },
       })
+
+      // Save blank items for fill-in type questions
+      if (q.type === "fill-in" && Array.isArray(q.blanks)) {
+        for (const blank of q.blanks) {
+          await prisma.blankItem.create({
+            data: {
+              position: blank.position,
+              answer: blank.answer,
+              context: blank.context || "",
+              questionId: saved.id,
+            },
+          })
+        }
+      }
+
       savedQuestions.push(saved)
     }
 

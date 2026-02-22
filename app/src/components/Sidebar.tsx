@@ -11,6 +11,7 @@ import {
   Settings,
   Menu,
   GraduationCap,
+  FileText,
 } from "lucide-react"
 import { cn } from "@/lib/utils"
 import { Button } from "@/components/ui/button"
@@ -27,6 +28,7 @@ import { Separator } from "@/components/ui/separator"
 const navItems = [
   { href: "/", label: "홈", icon: Home },
   { href: "/practice", label: "문제 풀기", icon: BookOpen },
+  { href: "/practice/exam-style", label: "기출유형", icon: FileText },
   { href: "/generate", label: "AI 생성", icon: Sparkles },
   { href: "/history", label: "학습 기록", icon: History },
   { href: "/settings", label: "설정", icon: Settings },
