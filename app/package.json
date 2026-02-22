@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "build:cf": "npx prisma generate && npx opennextjs-cloudflare build && cp .open-next/worker.js .open-next/_worker.js && cp -r .open-next/assets/* .open-next/",
+    "build:cf": "npx prisma generate && npx opennextjs-cloudflare build && cp .open-next/worker.js .open-next/_worker.js && cp -r .open-next/assets/* .open-next/ && echo '{\"version\":1,\"include\":[\"/*\"],\"exclude\":[\"/_next/static/*\"]}' > .open-next/_routes.json",
     "preview": "npx wrangler dev",
     "deploy": "npx wrangler deploy"
   },
