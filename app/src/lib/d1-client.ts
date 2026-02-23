@@ -630,4 +630,37 @@ export class D1Client {
       },
     }
   }
+
+  /* ================================================================ */
+  /*  user                                                             */
+  /* ================================================================ */
+
+  get user() {
+    const db = this.db
+
+    return {
+      async findUnique(opts: any): Promise<any | null> {
+        const w = opts.where
+        if (w.username) {
+          return db.prepare('SELECT * FROM User WHERE username = ?').bind(w.username).first<any>()
+        }
+        if (w.id) {
+          return db.prepare('SELECT * FROM User WHERE id = ?').bind(w.id).first<any>()
+        }
+        return null
+      },
+
+      async create(opts: any): Promise<any> {
+        const d = opts.data
+        await db.prepare(
+          "INSERT INTO User (username, password, name, createdAt) VALUES (?, ?, ?, datetime('now'))"
+        ).bind(d.username, d.password, d.name ?? null).run()
+
+        const row = await db.prepare(
+          'SELECT * FROM User WHERE id = (SELECT MAX(id) FROM User)'
+        ).first<any>()
+        return row
+      },
+    }
+  }
 }
