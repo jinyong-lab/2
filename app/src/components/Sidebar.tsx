@@ -1,7 +1,7 @@
 "use client"
 
 import Link from "next/link"
-import { usePathname, useRouter } from "next/navigation"
+import { usePathname } from "next/navigation"
 import { useState } from "react"
 import {
   Home,
@@ -12,7 +12,6 @@ import {
   Menu,
   GraduationCap,
   FileText,
-  LogOut,
 } from "lucide-react"
 import { cn } from "@/lib/utils"
 import { Button } from "@/components/ui/button"
@@ -37,13 +36,6 @@ const navItems = [
 
 function NavContent({ onItemClick }: { onItemClick?: () => void }) {
   const pathname = usePathname()
-  const router = useRouter()
-
-  async function handleLogout() {
-    await fetch("/api/auth/logout", { method: "POST" })
-    router.push("/login")
-    router.refresh()
-  }
 
   return (
     <div className="flex h-full flex-col">
@@ -62,8 +54,6 @@ function NavContent({ onItemClick }: { onItemClick?: () => void }) {
       <ScrollArea className="flex-1 px-3 py-4">
         <nav className="flex flex-col gap-1">
           {navItems.map((item) => {
-            // Exact match for items, or prefix match but only if no other
-            // more specific nav item matches the pathname
             const isActive =
               pathname === item.href ||
               (item.href !== "/" &&
@@ -95,23 +85,6 @@ function NavContent({ onItemClick }: { onItemClick?: () => void }) {
           })}
         </nav>
       </ScrollArea>
-
-      <Separator />
-
-      <div className="px-3 py-2">
-        <Button
-          variant="ghost"
-          size="sm"
-          className="w-full justify-start gap-3 text-muted-foreground hover:text-destructive"
-          onClick={() => {
-            onItemClick?.()
-            handleLogout()
-          }}
-        >
-          <LogOut className="size-4 shrink-0" />
-          <span>로그아웃</span>
-        </Button>
-      </div>
 
       <Separator />
 
