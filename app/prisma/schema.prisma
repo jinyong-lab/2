@@ -53,12 +53,24 @@ model BlankItem {
   question   Question @relation(fields: [questionId], references: [id])
 }
 
+model User {
+  id        Int        @id @default(autoincrement())
+  username  String     @unique
+  password  String
+  name      String?
+  createdAt DateTime   @default(now())
+  attempts  Attempt[]
+  bookmarks Bookmark[]
+}
+
 model Attempt {
   id         Int      @id @default(autoincrement())
   questionId Int
   question   Question @relation(fields: [questionId], references: [id])
   userAnswer String
   score      Int
+  userId     Int?
+  user       User?    @relation(fields: [userId], references: [id])
   createdAt  DateTime @default(now())
 }
 
@@ -67,6 +79,8 @@ model Bookmark {
   questionId Int
   question   Question @relation(fields: [questionId], references: [id])
   note       String?
+  userId     Int?
+  user       User?    @relation(fields: [userId], references: [id])
   createdAt  DateTime @default(now())
 }
 

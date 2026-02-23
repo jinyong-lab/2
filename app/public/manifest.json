@@ -1,0 +1,22 @@
+{
+  "name": "임용고시 문제은행",
+  "short_name": "임용문제은행",
+  "description": "2027학년도 전문상담교사 임용시험 준비를 위한 문제은행",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6366f1",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icons/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/icons/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}

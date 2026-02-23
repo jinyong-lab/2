@@ -11,6 +11,7 @@ import {
   Sparkles,
   CheckCircle,
   XCircle,
+  Star,
 } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import {
@@ -70,6 +71,9 @@ export default function ExamStylePracticePage() {
   const [showAnswers, setShowAnswers] = useState<Record<number, boolean>>({})
   const [saving, setSaving] = useState(false)
   const [saved, setSaved] = useState(false)
+  const [scores, setScores] = useState<Record<number, number>>({}) // index → earned points
+  const [graded, setGraded] = useState<Record<number, boolean>>({}) // index → graded?
+  const [essayScores, setEssayScores] = useState<Record<number, number>>({}) // index → 1-5 score
 
   useEffect(() => {
     async function fetchData() {
@@ -158,6 +162,47 @@ export default function ExamStylePracticePage() {
   const toggleAnswer = (index: number) => {
     setShowAnswers((prev) => ({ ...prev, [index]: !prev[index] }))
   }
+
+  const gradeFillIn = (qIndex: number, question: ExamQuestion) => {
+    if (question.type !== "fill-in" || !question.blanks) return
+
+    let correctBlanks = 0
+    const totalBlanks = question.blanks.length
+    const userBlankAnswers = userAnswers[qIndex] as Record<number, string> || {}
+
+    question.blanks.forEach((blank, blankIdx) => {
+      const userAnswer = (userBlankAnswers[blankIdx] || "").trim().toLowerCase()
+      const correctAnswer = blank.answer.trim().toLowerCase()
+      if (userAnswer === correctAnswer) {
+        correctBlanks++
+      }
+    })
+
+    const earnedPoints = (correctBlanks / totalBlanks) * question.points
+    setScores((prev) => ({ ...prev, [qIndex]: earnedPoints }))
+    setGraded((prev) => ({ ...prev, [qIndex]: true }))
+  }
+
+  const gradeAllFillIn = () => {
+    questions.forEach((q, idx) => {
+      if (q.type === "fill-in" && !graded[idx]) {
+        gradeFillIn(idx, q)
+        if (!showAnswers[idx]) {
+          setShowAnswers((prev) => ({ ...prev, [idx]: true }))
+        }
+      }
+    })
+  }
+
+  const handleEssayScore = (qIndex: number, question: ExamQuestion, score: number) => {
+    const earnedPoints = (score / 5) * question.points
+    setEssayScores((prev) => ({ ...prev, [qIndex]: score }))
+    setScores((prev) => ({ ...prev, [qIndex]: earnedPoints }))
+    setGraded((prev) => ({ ...prev, [qIndex]: true }))
+  }
+
+  const totalEarnedPoints = Object.values(scores).reduce((sum, pts) => sum + pts, 0)
+  const gradedCount = Object.keys(graded).length
 
   const totalPoints = questions.reduce((sum, q) => sum + q.points, 0)
   const fillInCount = questions.filter((q) => q.type === "fill-in").length
@@ -363,8 +408,21 @@ export default function ExamStylePracticePage() {
                   <div className="text-3xl font-bold text-amber-700 dark:text-amber-400">
                     {totalPoints}점
                   </div>
-                  <div className="text-xs text-muted-foreground">총점</div>
+                  <div className="text-xs text-muted-foreground">만점</div>
                 </div>
+                {gradedCount > 0 && (
+                  <>
+                    <div className="h-12 w-px bg-border" />
+                    <div className="text-center">
+                      <div className="text-3xl font-bold text-green-700 dark:text-green-400">
+                        {totalEarnedPoints.toFixed(1)}점
+                      </div>
+                      <div className="text-xs text-muted-foreground">
+                        득점 ({((totalEarnedPoints / totalPoints) * 100).toFixed(0)}%)
+                      </div>
+                    </div>
+                  </>
+                )}
                 <div className="h-12 w-px bg-border" />
                 <div className="space-y-1 text-sm">
                   {fillInCount > 0 && (
@@ -377,20 +435,36 @@ export default function ExamStylePracticePage() {
                       서술형 {essayCount}문 × 4점 = {essayCount * 4}점
                     </div>
                   )}
+                  {gradedCount > 0 && (
+                    <div className="font-medium text-amber-700 dark:text-amber-400">
+                      {gradedCount} / {questions.length}문제 채점 완료
+                    </div>
+                  )}
                 </div>
               </div>
-              {!saved ? (
-                <Button onClick={handleSave} variant="outline" size="lg" disabled={saving}>
-                  {saving ? (
-                    <Loader2 className="mr-2 size-4 animate-spin" />
-                  ) : (
-                    <Save className="mr-2 size-4" />
-                  )}
-                  {saving ? "저장 중..." : "문제 저장"}
+              <div className="flex flex-wrap gap-2">
+                <Button
+                  onClick={gradeAllFillIn}
+                  variant="default"
+                  size="lg"
+                  className="bg-gradient-to-r from-green-600 to-emerald-600 hover:from-green-700 hover:to-emerald-700"
+                >
+                  <CheckCircle className="mr-2 size-4" />
+                  전체 채점
                 </Button>
-              ) : (
-                <Badge className="bg-green-600 px-4 py-2 text-sm">저장 완료</Badge>
-              )}
+                {!saved ? (
+                  <Button onClick={handleSave} variant="outline" size="lg" disabled={saving}>
+                    {saving ? (
+                      <Loader2 className="mr-2 size-4 animate-spin" />
+                    ) : (
+                      <Save className="mr-2 size-4" />
+                    )}
+                    {saving ? "저장 중..." : "문제 저장"}
+                  </Button>
+                ) : (
+                  <Badge className="bg-green-600 px-4 py-2 text-sm">저장 완료</Badge>
+                )}
+              </div>
             </CardContent>
           </Card>
 
@@ -426,26 +500,49 @@ export default function ExamStylePracticePage() {
                         {question.type === "fill-in" ? "기입형" : "서술형"} (
                         {question.points}점)
                       </Badge>
-                    </div>
-                    <Button
-                      variant="outline"
-                      size="sm"
-                      onClick={() => toggleAnswer(index)}
-                      className="gap-2"
-                    >
-                      {showAnswers[index] ? (
-                        <>
-                          <EyeOff className="size-4" />
-                          답안 숨기기
-                        </>
-                      ) : (
-                        <>
-                          <Eye className="size-4" />
-                          {question.type === "fill-in" ? "정답" : "모범답안"}{" "}
-                          보기
-                        </>
+                      {graded[index] && scores[index] !== undefined && (
+                        <Badge className="bg-green-600 px-3 py-1.5 text-sm font-bold">
+                          득점: {scores[index].toFixed(1)}점
+                        </Badge>
                       )}
-                    </Button>
+                    </div>
+                    <div className="flex gap-2">
+                      {question.type === "fill-in" && !graded[index] && (
+                        <Button
+                          variant="default"
+                          size="sm"
+                          onClick={() => {
+                            gradeFillIn(index, question)
+                            if (!showAnswers[index]) {
+                              setShowAnswers((prev) => ({ ...prev, [index]: true }))
+                            }
+                          }}
+                          className="gap-2 bg-green-600 hover:bg-green-700"
+                        >
+                          <CheckCircle className="size-4" />
+                          채점하기
+                        </Button>
+                      )}
+                      <Button
+                        variant="outline"
+                        size="sm"
+                        onClick={() => toggleAnswer(index)}
+                        className="gap-2"
+                      >
+                        {showAnswers[index] ? (
+                          <>
+                            <EyeOff className="size-4" />
+                            답안 숨기기
+                          </>
+                        ) : (
+                          <>
+                            <Eye className="size-4" />
+                            {question.type === "fill-in" ? "정답" : "모범답안"}{" "}
+                            보기
+                          </>
+                        )}
+                      </Button>
+                    </div>
                   </div>
                 </div>
 
@@ -509,10 +606,39 @@ export default function ExamStylePracticePage() {
                             />
                           </div>
                           {showAnswers[index] && (
-                            <div className="ml-12 rounded-md bg-green-50 px-3 py-2 dark:bg-green-950/30">
-                              <div className="flex items-center gap-2 text-sm font-medium text-green-700 dark:text-green-400">
-                                <CheckCircle className="size-4" />
-                                정답: {blank.answer}
+                            <div className="ml-12 space-y-1">
+                              {graded[index] && (() => {
+                                const userAnswer = (
+                                  typeof userAnswers[index] === "object"
+                                    ? (userAnswers[index] as Record<number, string>)[blankIdx] || ""
+                                    : ""
+                                ).trim().toLowerCase()
+                                const correctAnswer = blank.answer.trim().toLowerCase()
+                                const isCorrect = userAnswer === correctAnswer
+                                return (
+                                  <div className={cn(
+                                    "rounded-md px-3 py-2",
+                                    isCorrect ? "bg-green-50 dark:bg-green-950/30" : "bg-red-50 dark:bg-red-950/30"
+                                  )}>
+                                    <div className={cn(
+                                      "flex items-center gap-2 text-sm font-medium",
+                                      isCorrect ? "text-green-700 dark:text-green-400" : "text-red-700 dark:text-red-400"
+                                    )}>
+                                      {isCorrect ? (
+                                        <CheckCircle className="size-4" />
+                                      ) : (
+                                        <XCircle className="size-4" />
+                                      )}
+                                      {isCorrect ? "정답" : "오답"}
+                                    </div>
+                                  </div>
+                                )
+                              })()}
+                              <div className="rounded-md bg-blue-50 px-3 py-2 dark:bg-blue-950/30">
+                                <div className="flex items-center gap-2 text-sm font-medium text-blue-700 dark:text-blue-400">
+                                  <Eye className="size-4" />
+                                  정답: {blank.answer}
+                                </div>
                               </div>
                             </div>
                           )}
@@ -540,17 +666,86 @@ export default function ExamStylePracticePage() {
                         disabled={showAnswers[index]}
                       />
                       {showAnswers[index] && (
-                        <div className="space-y-3 rounded-lg border-2 border-green-500 bg-green-50 p-4 dark:bg-green-950/30">
-                          <div className="flex items-center gap-2 font-semibold text-green-700 dark:text-green-400">
-                            <CheckCircle className="size-5" />
-                            모범 답안
+                        <div className="space-y-4">
+                          <div className="space-y-3 rounded-lg border-2 border-blue-500 bg-blue-50 p-4 dark:bg-blue-950/30">
+                            <div className="flex items-center gap-2 font-semibold text-blue-700 dark:text-blue-400">
+                              <Eye className="size-5" />
+                              모범 답안
+                            </div>
+                            <div
+                              className="whitespace-pre-wrap rounded-md bg-white p-4 font-serif leading-relaxed text-slate-900 dark:bg-slate-900 dark:text-slate-100"
+                              style={{ lineHeight: "1.8" }}
+                            >
+                              {question.modelAnswer}
+                            </div>
                           </div>
-                          <div
-                            className="whitespace-pre-wrap rounded-md bg-white p-4 font-serif leading-relaxed text-slate-900 dark:bg-slate-900 dark:text-slate-100"
-                            style={{ lineHeight: "1.8" }}
-                          >
-                            {question.modelAnswer}
-                          </div>
+
+                          {!graded[index] ? (
+                            <div className="space-y-3 rounded-lg border-2 border-amber-300 bg-amber-50 p-4 dark:border-amber-700 dark:bg-amber-950/30">
+                              <p className="text-sm font-semibold text-amber-900 dark:text-amber-200">
+                                자기 평가를 선택하세요 (1-5점)
+                              </p>
+                              <div className="grid grid-cols-5 gap-2">
+                                {[
+                                  { score: 1, label: "전혀 모름", color: "red" },
+                                  { score: 2, label: "부분 이해", color: "orange" },
+                                  { score: 3, label: "보통", color: "yellow" },
+                                  { score: 4, label: "거의 완벽", color: "lime" },
+                                  { score: 5, label: "완벽", color: "green" },
+                                ].map(({ score, label, color }) => (
+                                  <Button
+                                    key={score}
+                                    variant="outline"
+                                    className={cn(
+                                      "flex h-auto flex-col gap-1.5 px-2 py-3 hover:shadow-md",
+                                      `hover:border-${color}-500 hover:bg-${color}-50 dark:hover:bg-${color}-950/20`
+                                    )}
+                                    onClick={() => handleEssayScore(index, question, score)}
+                                  >
+                                    <div className="flex gap-0.5">
+                                      {Array.from({ length: score }).map((_, i) => (
+                                        <Star
+                                          key={i}
+                                          className="size-3.5 fill-yellow-400 text-yellow-400"
+                                        />
+                                      ))}
+                                    </div>
+                                    <span className="text-xs font-medium">{score}점</span>
+                                    <span className="text-xs text-muted-foreground">
+                                      {label}
+                                    </span>
+                                  </Button>
+                                ))}
+                              </div>
+                            </div>
+                          ) : (
+                            <div className="rounded-lg border-2 border-green-500 bg-green-50 p-4 dark:bg-green-950/30">
+                              <div className="flex items-center justify-between">
+                                <div className="flex items-center gap-2 font-semibold text-green-700 dark:text-green-400">
+                                  <CheckCircle className="size-5" />
+                                  채점 완료
+                                </div>
+                                <div className="flex items-center gap-2">
+                                  <div className="flex gap-0.5">
+                                    {[1, 2, 3, 4, 5].map((s) => (
+                                      <Star
+                                        key={s}
+                                        className={cn(
+                                          "size-4",
+                                          s <= (essayScores[index] || 0)
+                                            ? "fill-yellow-400 text-yellow-400"
+                                            : "text-muted-foreground/30"
+                                        )}
+                                      />
+                                    ))}
+                                  </div>
+                                  <span className="text-sm font-bold">
+                                    {essayScores[index]}/5점 → {scores[index].toFixed(1)}/{question.points}점
+                                  </span>
+                                </div>
+                              </div>
+                            </div>
+                          )}
                         </div>
                       )}
                     </div>

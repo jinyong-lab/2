@@ -6,7 +6,8 @@ import {
   Loader2,
   Save,
   AlertTriangle,
-  ChevronDown,
+  Eye,
+  Star,
 } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import {
@@ -25,6 +26,8 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select"
+import { Textarea } from "@/components/ui/textarea"
+import { cn } from "@/lib/utils"
 
 interface Subject {
   id: number
@@ -50,6 +53,9 @@ export default function GeneratePage() {
   const [error, setError] = useState("")
   const [saved, setSaved] = useState(false)
   const [hasApiKey, setHasApiKey] = useState<boolean | null>(null)
+  const [userAnswers, setUserAnswers] = useState<Record<number, string>>({})
+  const [showAnswers, setShowAnswers] = useState<Record<number, boolean>>({})
+  const [scores, setScores] = useState<Record<number, number>>({}) // 1-5
 
   // Fetch subjects
   useEffect(() => {
@@ -107,6 +113,9 @@ export default function GeneratePage() {
     setError("")
     setQuestions([])
     setSaved(false)
+    setUserAnswers({})
+    setShowAnswers({})
+    setScores({})
 
     try {
       const res = await fetch("/api/generate", {
@@ -178,6 +187,23 @@ export default function GeneratePage() {
     "4": "어려움",
     "5": "매우 어려움",
   }
+
+  const scoreLabels = [
+    "전혀 모름",
+    "부분 이해",
+    "보통",
+    "거의 완벽",
+    "완벽",
+  ]
+
+  const handleScore = (idx: number, score: number) => {
+    setScores((prev) => ({ ...prev, [idx]: score }))
+  }
+
+  const scoredCount = Object.keys(scores).length
+  const avgScore = scoredCount > 0
+    ? Object.values(scores).reduce((sum, s) => sum + s, 0) / scoredCount
+    : 0
 
   return (
     <div className="space-y-8">
@@ -308,6 +334,46 @@ export default function GeneratePage() {
       {/* Generated Questions */}
       {questions.length > 0 && (
         <div className="space-y-4">
+          {/* Score Summary */}
+          {scoredCount > 0 && (
+            <Card className="border-2 border-primary/50 bg-gradient-to-r from-blue-50 to-indigo-50 dark:from-blue-950/30 dark:to-indigo-950/30">
+              <CardContent className="flex flex-wrap items-center justify-between gap-4 p-5">
+                <div className="flex items-center gap-6">
+                  <div className="text-center">
+                    <div className="text-3xl font-bold text-primary">
+                      {scoredCount} / {questions.length}
+                    </div>
+                    <div className="text-xs text-muted-foreground">문제 채점 완료</div>
+                  </div>
+                  <div className="h-12 w-px bg-border" />
+                  <div className="space-y-1">
+                    <div className="flex items-center gap-2">
+                      <div className="flex gap-0.5">
+                        {[1, 2, 3, 4, 5].map((s) => (
+                          <Star
+                            key={s}
+                            className={cn(
+                              "size-5",
+                              s <= Math.round(avgScore)
+                                ? "fill-yellow-400 text-yellow-400"
+                                : "text-muted-foreground/30"
+                            )}
+                          />
+                        ))}
+                      </div>
+                      <span className="text-lg font-semibold">
+                        평균 {avgScore.toFixed(1)}점
+                      </span>
+                    </div>
+                    <p className="text-xs text-muted-foreground">
+                      {scoreLabels[Math.round(avgScore) - 1]}
+                    </p>
+                  </div>
+                </div>
+              </CardContent>
+            </Card>
+          )}
+
           <div className="flex flex-wrap items-center justify-between gap-2">
             <h2 className="text-xl font-semibold">
               생성된 문제 ({questions.length}개)
@@ -342,22 +408,106 @@ export default function GeneratePage() {
                 </div>
               </CardHeader>
               <CardContent className="space-y-4">
+                {/* Question Content */}
                 <div className="rounded-lg bg-muted/50 p-4">
                   <p className="whitespace-pre-wrap text-base leading-relaxed">
                     {q.content}
                   </p>
                 </div>
-                <details className="group">
-                  <summary className="flex cursor-pointer items-center gap-2 text-sm font-medium text-primary hover:underline">
-                    <ChevronDown className="size-4 transition-transform group-open:rotate-180" />
+
+                {/* User Answer Textarea */}
+                <div className="space-y-2">
+                  <Label className="text-sm font-medium text-muted-foreground">
+                    답안 작성
+                  </Label>
+                  <Textarea
+                    value={userAnswers[idx] || ""}
+                    onChange={(e) =>
+                      setUserAnswers((prev) => ({ ...prev, [idx]: e.target.value }))
+                    }
+                    placeholder="답안을 작성하세요..."
+                    className="min-h-[120px] resize-y text-base"
+                    disabled={showAnswers[idx]}
+                  />
+                </div>
+
+                {/* Show Answer Button */}
+                {!showAnswers[idx] ? (
+                  <Button
+                    onClick={() => setShowAnswers((prev) => ({ ...prev, [idx]: true }))}
+                    variant="outline"
+                    className="w-full gap-2"
+                  >
+                    <Eye className="size-4" />
                     모범 답안 보기
-                  </summary>
-                  <div className="mt-3 rounded-lg border-2 border-primary/20 bg-primary/5 p-4">
-                    <p className="whitespace-pre-wrap text-sm leading-relaxed">
-                      {q.modelAnswer}
-                    </p>
+                  </Button>
+                ) : (
+                  <div className="space-y-4">
+                    {/* Model Answer */}
+                    <div className="rounded-lg border-2 border-primary/20 bg-primary/5 p-4">
+                      <p className="mb-2 text-sm font-semibold text-primary">
+                        모범 답안
+                      </p>
+                      <p className="whitespace-pre-wrap text-sm leading-relaxed">
+                        {q.modelAnswer}
+                      </p>
+                    </div>
+
+                    {/* Self-Scoring */}
+                    {scores[idx] === undefined ? (
+                      <div className="space-y-3 rounded-lg border-2 border-amber-300 bg-amber-50 p-4 dark:border-amber-700 dark:bg-amber-950/30">
+                        <p className="text-sm font-semibold text-amber-900 dark:text-amber-200">
+                          자기 평가를 선택하세요 (1-5)
+                        </p>
+                        <div className="grid grid-cols-5 gap-2">
+                          {[1, 2, 3, 4, 5].map((s) => (
+                            <Button
+                              key={s}
+                              variant="outline"
+                              className="flex h-auto flex-col gap-1.5 px-2 py-3 hover:shadow-md"
+                              onClick={() => handleScore(idx, s)}
+                            >
+                              <div className="flex gap-0.5">
+                                {Array.from({ length: s }).map((_, i) => (
+                                  <Star
+                                    key={i}
+                                    className="size-3.5 fill-yellow-400 text-yellow-400"
+                                  />
+                                ))}
+                              </div>
+                              <span className="text-xs font-medium">{s}점</span>
+                              <span className="text-xs text-muted-foreground">
+                                {scoreLabels[s - 1]}
+                              </span>
+                            </Button>
+                          ))}
+                        </div>
+                      </div>
+                    ) : (
+                      <div className="flex items-center justify-center gap-2 rounded-lg bg-green-50 p-4 dark:bg-green-950/30">
+                        <span className="text-sm font-medium text-green-700 dark:text-green-400">
+                          평가:
+                        </span>
+                        <div className="flex gap-0.5">
+                          {[1, 2, 3, 4, 5].map((s) => (
+                            <Star
+                              key={s}
+                              className={cn(
+                                "size-4",
+                                s <= scores[idx]
+                                  ? "fill-yellow-400 text-yellow-400"
+                                  : "text-muted-foreground/30"
+                              )}
+                            />
+                          ))}
+                        </div>
+                        <span className="text-sm font-semibold">
+                          {scores[idx]}/5 - {scoreLabels[scores[idx] - 1]}
+                        </span>
+                      </div>
+                    )}
                   </div>
-                </details>
+                )}
               </CardContent>
             </Card>
           ))}
