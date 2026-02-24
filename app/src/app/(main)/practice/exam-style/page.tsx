@@ -58,7 +58,8 @@ interface ExamQuestion {
 }
 
 export default function ExamStylePracticePage() {
-  const [subjects, setSubjects] = useState<Subject[]>([])
+  const [allSubjects, setAllSubjects] = useState<Subject[]>([])
+  const [examSession, setExamSession] = useState<string>("전공A")
   const [selectedSubject, setSelectedSubject] = useState<string>("")
   const [examType, setExamType] = useState<"fill-in" | "essay" | "mixed">("mixed")
   const [difficulty, setDifficulty] = useState<string>("3")
@@ -75,6 +76,8 @@ export default function ExamStylePracticePage() {
   const [graded, setGraded] = useState<Record<number, boolean>>({}) // index → graded?
   const [essayScores, setEssayScores] = useState<Record<number, number>>({}) // index → 1-5 score
 
+  const sessionSubjects = allSubjects.filter((s) => s.category === examSession)
+
   useEffect(() => {
     async function fetchData() {
       setLoading(true)
@@ -86,7 +89,7 @@ export default function ExamStylePracticePage() {
 
         if (statsRes.ok) {
           const data = await statsRes.json()
-          setSubjects(data.subjectProgress || [])
+          setAllSubjects(data.subjectProgress || [])
         }
 
         if (settingsRes.ok) {
@@ -262,9 +265,46 @@ export default function ExamStylePracticePage() {
             </div>
           )}
 
+          {/* Exam Session (교시) */}
+          <div className="space-y-3">
+            <Label className="text-base font-semibold">시험 교시 선택</Label>
+            <div className="grid grid-cols-3 gap-3">
+              {[
+                { key: "교육학", label: "1교시", sub: "교육학", desc: "서술형 1문 · 20점" },
+                { key: "전공A", label: "2교시", sub: "전공A", desc: "기입2+서술2 · 40점" },
+                { key: "전공B", label: "3교시", sub: "전공B", desc: "기입2+서술2 · 40점" },
+              ].map((session) => (
+                <button
+                  key={session.key}
+                  onClick={() => {
+                    setExamSession(session.key)
+                    setSelectedSubject("")
+                    if (session.key === "교육학") setExamType("essay")
+                    else setExamType("mixed")
+                  }}
+                  className={cn(
+                    "group relative rounded-xl border-2 p-4 text-center transition-all hover:shadow-md",
+                    examSession === session.key
+                      ? "border-amber-500 bg-amber-50 shadow-md dark:bg-amber-950/50"
+                      : "border-slate-200 hover:border-slate-300 dark:border-slate-700"
+                  )}
+                >
+                  <div className="mb-0.5 text-lg font-bold">{session.label}</div>
+                  <div className="text-sm font-medium">{session.sub}</div>
+                  <div className="mt-1 text-xs text-muted-foreground">{session.desc}</div>
+                  {examSession === session.key && (
+                    <div className="absolute -right-1 -top-1 rounded-full bg-amber-500 p-1">
+                      <CheckCircle className="size-3.5 text-white" />
+                    </div>
+                  )}
+                </button>
+              ))}
+            </div>
+          </div>
+
           {/* Exam Type */}
           <div className="space-y-3">
-            <Label className="text-base font-semibold">시험 유형 선택</Label>
+            <Label className="text-base font-semibold">문제 유형 선택</Label>
             <div className="grid grid-cols-3 gap-3">
               <button
                 onClick={() => setExamType("fill-in")}
@@ -321,7 +361,7 @@ export default function ExamStylePracticePage() {
           </div>
 
           <div className="grid gap-6 sm:grid-cols-2">
-            {/* Subject */}
+            {/* Subject - filtered by exam session */}
             <div className="space-y-2">
               <Label htmlFor="subject">과목 선택</Label>
               <Select value={selectedSubject} onValueChange={setSelectedSubject}>
@@ -329,7 +369,7 @@ export default function ExamStylePracticePage() {
                   <SelectValue placeholder="과목을 선택하세요" />
                 </SelectTrigger>
                 <SelectContent>
-                  {subjects.map((subject) => (
+                  {sessionSubjects.map((subject) => (
                     <SelectItem key={subject.id} value={subject.id.toString()}>
                       {subject.name}
                       <span className="ml-2 text-xs text-muted-foreground">

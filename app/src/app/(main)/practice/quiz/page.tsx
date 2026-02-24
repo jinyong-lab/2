@@ -46,6 +46,7 @@ function QuizContent() {
   const router = useRouter()
 
   const subject = searchParams.get("subject")
+  const subjects = searchParams.get("subjects")
   const mode = searchParams.get("mode") || "random"
   const count = parseInt(searchParams.get("count") || "20", 10)
 
@@ -71,6 +72,7 @@ function QuizContent() {
       try {
         const params = new URLSearchParams()
         if (subject) params.set("subject", subject)
+        else if (subjects) params.set("subjects", subjects)
         params.set("mode", mode)
         params.set("count", count.toString())
 
@@ -89,7 +91,7 @@ function QuizContent() {
     }
 
     fetchQuestions()
-  }, [subject, mode, count])
+  }, [subject, subjects, mode, count])
 
 
   const currentQuestion = questions[currentIndex]

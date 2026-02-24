@@ -73,8 +73,11 @@ export class D1Client {
         const vals: unknown[] = []
         const w = opts.where || {}
 
-        // Simple equality filters
-        if (w.subjectId !== undefined) { where.push('q.subjectId = ?'); vals.push(w.subjectId) }
+        // Simple equality or IN filters
+        if (w.subjectId?.in) {
+          const f = inFragment('q.subjectId', w.subjectId.in)
+          where.push(f.sql); vals.push(...f.vals)
+        } else if (w.subjectId !== undefined) { where.push('q.subjectId = ?'); vals.push(w.subjectId) }
         if (w.topicId !== undefined) { where.push('q.topicId = ?'); vals.push(w.topicId) }
         if (w.type !== undefined) { where.push('q.type = ?'); vals.push(w.type) }
         if (w.source !== undefined) { where.push('q.source = ?'); vals.push(w.source) }

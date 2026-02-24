@@ -6,6 +6,7 @@ export async function GET(request: NextRequest) {
     const prisma = await getDb()
     const { searchParams } = new URL(request.url)
     const subject = searchParams.get("subject")
+    const subjects = searchParams.get("subjects")
     const topic = searchParams.get("topic")
     const type = searchParams.get("type")
     const source = searchParams.get("source")
@@ -17,6 +18,10 @@ export async function GET(request: NextRequest) {
     const where: Record<string, unknown> = {}
 
     if (subject) where.subjectId = parseInt(subject, 10)
+    else if (subjects) {
+      const ids = subjects.split(",").map((id) => parseInt(id, 10))
+      where.subjectId = { in: ids }
+    }
     if (topic) where.topicId = parseInt(topic, 10)
     if (type) where.type = type
     if (source) where.source = source
