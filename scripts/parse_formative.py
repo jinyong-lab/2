@@ -116,7 +116,7 @@ def get_subject_info(filename: str) -> tuple[str, str, int]:
         return "교육평가", "교육학", num
     elif num in (11, 12, 13):
         return "교육행정", "교육학", num
-    elif num == 14:
+    elif num in (14, 15, 16):
         return "교육심리", "교육학", num
     else:
         return "기타", "교육학", num
