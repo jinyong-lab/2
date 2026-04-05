@@ -1,0 +1,5537 @@
+[
+  {
+    "content": "통계적기준의 개념을 설명하시오.",
+    "modelAnswer": "통계적규준의일탈(평균으로부터의일탈)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-1 마인드맵_이상심리학"
+  },
+  {
+    "content": "개인적기준에 대해 설명하시오.",
+    "modelAnswer": "주관적불편감과개인적고통",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-1 마인드맵_이상심리학"
+  },
+  {
+    "content": "기능적기준의 주요 내용을 기술하시오.",
+    "modelAnswer": "적응적기능의저하및손상",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-1 마인드맵_이상심리학"
+  },
+  {
+    "content": "설명의 핵심 개념을 설명하시오.",
+    "modelAnswer": "현상의분석및인과관계규명",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-1 마인드맵_이상심리학"
+  },
+  {
+    "content": "판별기준의 개념을 설명하시오.",
+    "modelAnswer": "기: 연구현상의관찰과기",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-1 마인드맵_이상심리학"
+  },
+  {
+    "content": "통제의 특징을 서술하시오.",
+    "modelAnswer": "현상의조작과변화유발",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-1 마인드맵_이상심리학"
+  },
+  {
+    "content": "정신분석입장의 주요 내용을 기술하시오.",
+    "modelAnswer": "개인의성장과정과무의식적갈등",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-1 마인드맵_이상심리학"
+  },
+  {
+    "content": "행동주의입장의 핵심 개념을 설명하시오.",
+    "modelAnswer": "환경적영향에의한학습과정",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-1 마인드맵_이상심리학"
+  },
+  {
+    "content": "인지적입장의 개념을 설명하시오.",
+    "modelAnswer": "개인의역기능적사고과정과신념체계",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-1 마인드맵_이상심리학"
+  },
+  {
+    "content": "생물학적입장에 대해 설명하시오.",
+    "modelAnswer": "뇌와중추신경계의손상이나기능이상",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-1 마인드맵_이상심리학"
+  },
+  {
+    "content": "범주적분류의 특징을 서술하시오.",
+    "modelAnswer": "증상이나행동이진단기준에따라나누어놓은특정정신장애에해당하는지아닌지에초점을두는접근방식[20, 21]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-1 마인드맵_이상심리학"
+  },
+  {
+    "content": "차원적분류의 주요 내용을 기술하시오.",
+    "modelAnswer": "증상이나행동이정신장애의심각도의연속선상에서어느범위에있는지에초점을두는접근방식[20, 21,25]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-1 마인드맵_이상심리학"
+  },
+  {
+    "content": "신경증의 핵심 개념을 설명하시오.",
+    "modelAnswer": "주관적인불편감과고통을호소하지만현실적판단력과사회적적응에는심각한곤란이없는심리적상태",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-1 마인드맵_이상심리학"
+  },
+  {
+    "content": "정신증의 개념을 설명하시오.",
+    "modelAnswer": "환각이나망상과같은현실왜곡적증상이두드러지는것으로, 사회적적응에심각한곤란을겪는심리적장애",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-1 마인드맵_이상심리학"
+  },
+  {
+    "content": "증상에 대해 설명하시오.",
+    "modelAnswer": "수많은일상활동의지나친불안, 6개월[20,25]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-1 마인드맵_이상심리학"
+  },
+  {
+    "content": "범불안장애 원인의 특징을 서술하시오.",
+    "modelAnswer": "(정) 무의식적갈등으로부동불안경험(행) 조건형성, 일반화(인) 위험에관한인지도식, 인내력부족, 파국화, 4가지인지적특성",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-1 마인드맵_이상심리학"
+  },
+  {
+    "content": "치료의 주요 내용을 기술하시오.",
+    "modelAnswer": "(인행) 걱정사고기록지, 불안조절방법습득(약) 벤조다이아제핀계열",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-1 마인드맵_이상심리학"
+  },
+  {
+    "content": "특정공포증 원인의 개념을 설명하시오.",
+    "modelAnswer": "(정) 무의식적인갈등의투사(행) 고전적조건형성, 준비성, 모우러의2요인이[22], 셀리그만의준비성, 대리학습과정보전이",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-1 마인드맵_이상심리학"
+  },
+  {
+    "content": "광장공포증 원인의 주요 내용을 기술하시오.",
+    "modelAnswer": "(정) 매춘부에대한부러움억압(대) 분리불안(인행) 공포에대한공포이, 생물학적취약성과심리적요인의상호작용, 통합적모델",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-1 마인드맵_이상심리학"
+  },
+  {
+    "content": "원인에 대해 설명하시오.",
+    "modelAnswer": "(정) 공격성투사(대)어린시절불안정•거부적관계(인) 인지적특성4가지, 락과웨스의인지적모델, 라피와하임버그의인지행동모델, 사후반추",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-1 마인드맵_이상심리학"
+  },
+  {
+    "content": "공황장애 원인의 핵심 개념을 설명하시오.",
+    "modelAnswer": "(정) 방어기제실패, 분리불안, 상실경험(인) 파국적오해석[21](생) 과잉호흡이, 질식오경보이, 뇌와신경전달물질, 유전적요인",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-1 마인드맵_이상심리학"
+  },
+  {
+    "content": "분리불안장애 원인의 특징을 서술하시오.",
+    "modelAnswer": "(복합)아동의유전적기질, 부모의양육행동, 아동의인지행동적요인(인행) 애착대상에대한인지적왜곡",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-1 마인드맵_이상심리학"
+  },
+  {
+    "content": "선택적함구증 원인의 개념을 설명하시오.",
+    "modelAnswer": "사회적상황에서의불안, 불안에민감한기질, 애착대상과의분리불안",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-1 마인드맵_이상심리학"
+  },
+  {
+    "content": "불안장애 사회불안장애의 특징을 서술하시오.",
+    "modelAnswer": "사고, 긍정적평가에대한두려움(생) 유전적요인",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-1 마인드맵_이상심리학"
+  },
+  {
+    "content": "증상의 개념을 설명하시오.",
+    "modelAnswer": "불안을유발하는강박사고나강박행동이나타나며,이로인해시간을소모함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-2 마인드맵_이상심리학"
+  },
+  {
+    "content": "강박장애 원인에 대해 설명하시오.",
+    "modelAnswer": "(인)침투적사고와자동적사고,사고-행위융합,파국적해석,추론융합,사고억제의역설적효과[23],불완전함(정)방어기제(생)전두엽손상",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-2 마인드맵_이상심리학"
+  },
+  {
+    "content": "치료의 특징을 서술하시오.",
+    "modelAnswer": "노출및반응방지법[21,25],사고중지기법[23],역설적의도,자동적사고와역기능적신념변화,수용전념치료,약물치료,자기주장훈련,",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-2 마인드맵_이상심리학"
+  },
+  {
+    "content": "신체이형장애 원인의 핵심 개념을 설명하시오.",
+    "modelAnswer": "(인행)신체상에대한부정적평가(정)정서적갈등이신체부위에대치(생)세로토닌,다른정신장애에서기인",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-2 마인드맵_이상심리학"
+  },
+  {
+    "content": "루시아의전문상담교사 이상심리학의 특징을 서술하시오.",
+    "modelAnswer": "책임감을감소시키기위한기법(파이기법,이중기준기법,법정절차기법,행동실험법등),인지행동치료",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-2 마인드맵_이상심리학"
+  },
+  {
+    "content": "수집광 원인의 주요 내용을 기술하시오.",
+    "modelAnswer": "(정)항문기적성격의인색함(대)전이대상(인행)정보처리결함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-2 마인드맵_이상심리학"
+  },
+  {
+    "content": "발모광 원인에 대해 설명하시오.",
+    "modelAnswer": "(정)정서적결핍경험(상실,처벌적인어머니),스트레스관련",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-2 마인드맵_이상심리학"
+  },
+  {
+    "content": "피부뜯기장애 원인의 핵심 개념을 설명하시오.",
+    "modelAnswer": "(정)미해결된아동기의정서적문제(인행)일종의스트레스대처방식,완벽주의적성향,도파민기능의손상",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-2 마인드맵_이상심리학"
+  },
+  {
+    "content": "원인의 특징을 서술하시오.",
+    "modelAnswer": "외상사건의전•중•후요인,스트레스반응이론,박살난가정이론,정서적처리이론,이중표상이론,(통)현재의위협감(정)방어기제퇴행",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-2 마인드맵_이상심리학"
+  },
+  {
+    "content": "급성스트레스장애 원인의 개념을 설명하시오.",
+    "modelAnswer": "외상후스트레스장애와유사한원인",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-2 마인드맵_이상심리학"
+  },
+  {
+    "content": "반응성애착장애 원인의 주요 내용을 기술하시오.",
+    "modelAnswer": "(정)양육자와의관계(대)부모의학대와무관심(애)비일관성또는학대적인양육으로부정적인내적표상형성",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-2 마인드맵_이상심리학"
+  },
+  {
+    "content": "적응장애 원인의 핵심 개념을 설명하시오.",
+    "modelAnswer": "스트레스사건자체의특성,심리적특성,심리적탄력성,환경적요인(정서적인지지와위안,사회적지지자원)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-2 마인드맵_이상심리학"
+  },
+  {
+    "content": "지속적비탄장애 원인의 특징을 서술하시오.",
+    "modelAnswer": "스트로브와슈트(Strobe & Schut)의이중과정모델(1차상실과2차상실)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-2 마인드맵_이상심리학"
+  },
+  {
+    "content": "해리장애 해리성기억상실증 원인의 주요 내용을 기술하시오.",
+    "modelAnswer": "(정)억압과부인의방어기제(행)고통스러운자극의회피(기억상실은학습된것),상태의존적학습이론,의식적자각시스템의손상",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-2 마인드맵_이상심리학"
+  },
+  {
+    "content": "질병불안장애 원인의 특징을 서술하시오.",
+    "modelAnswer": "(정)과도한자기애(인)신체감각증폭•왜곡된평가•구체적인사고,인지와지각의장애(바스키와동료들),인지적설명모델(워윅과살코프스키)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-2 마인드맵_이상심리학"
+  },
+  {
+    "content": "인위성장애 원인의 주요 내용을 기술하시오.",
+    "modelAnswer": "과거에원했던부모-자녀간의관계를재구성하는것,피학적/자기파괴적행동에대한죄책감더는것,타인증오의내면화",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-2 마인드맵_이상심리학"
+  },
+  {
+    "content": "증상의 개념을 설명하시오.",
+    "modelAnswer": "2주연속우울기분,흥미나즐거움의상실[26]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-3 마인드맵_이상심리학"
+  },
+  {
+    "content": "원인[12]에 대해 설명하시오.",
+    "modelAnswer": "(환)부정적인생활사건(정)상실에대한반응으로분노가자기에게향해진현상(행)긍정적강화의약화,학습된무기력이론[17,22],",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-3 마인드맵_이상심리학"
+  },
+  {
+    "content": "치료의 특징을 서술하시오.",
+    "modelAnswer": "대인관계심리치료,약물치료(인)긍정적인사고와신념유도(정)무의식적관계의갈등에대한직면과해석(행)행동활성화치료[25]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-3 마인드맵_이상심리학"
+  },
+  {
+    "content": "지속성우울장애 원인의 핵심 개념을 설명하시오.",
+    "modelAnswer": "유전적요인,기질적취약성,부모이별경험,뇌영역",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-3 마인드맵_이상심리학"
+  },
+  {
+    "content": "주요우울장애에 대해 설명하시오.",
+    "modelAnswer": "귀인이론[24],절망감이론(인)역기능적인인지도식과신념,인지적오류,자동적사고,인지삼제[23],원인객관식",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-3 마인드맵_이상심리학"
+  },
+  {
+    "content": "월경전불쾌감장애 원인의 주요 내용을 기술하시오.",
+    "modelAnswer": "호르몬과신경전달물질의상호작용에의한중추신경계의민감성상승,증상의잘못된귀인과부정적평가",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-3 마인드맵_이상심리학"
+  },
+  {
+    "content": "원인에 대해 설명하시오.",
+    "modelAnswer": "좌절에대한과민반응성,주의능력곤란,부모의이혼이나방임등가족이나환경적요인",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-3 마인드맵_이상심리학"
+  },
+  {
+    "content": "제Ⅰ형양극성장애 원인의 핵심 개념을 설명하시오.",
+    "modelAnswer": "(정)무의식적상실,자존감손상에대한방어나보상(인)인지적왜곡(생)생물학적요인은취약성,발병시기나양상은심리사회적요인으로영향",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-3 마인드맵_이상심리학"
+  },
+  {
+    "content": "제Ⅱ형양극성장애 증상에 대해 설명하시오.",
+    "modelAnswer": "주요우울삽화(2주)+경조증삽화(4일)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-3 마인드맵_이상심리학"
+  },
+  {
+    "content": "순환성장애 증상의 특징을 서술하시오.",
+    "modelAnswer": "경조증+우울증/2년이상(아동·청소년1년)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-3 마인드맵_이상심리학"
+  },
+  {
+    "content": "조현병 원인의 핵심 개념을 설명하시오.",
+    "modelAnswer": "취약성-스트레스모델(생)도파민,뇌의결함(정)자아기능의퇴행(인)주의장애(환)가족관계,이중구속이론",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-3 마인드맵_이상심리학"
+  },
+  {
+    "content": "조현정동장애 증상에 대해 설명하시오.",
+    "modelAnswer": "조현병의증상과주요우울또는조증삽화가동시에나타나는경우",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-3 마인드맵_이상심리학"
+  },
+  {
+    "content": "조현양상장애 증상의 특징을 서술하시오.",
+    "modelAnswer": "조현병과증상동일,증상의지속기간이1개월이상6개월이내[26]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-3 마인드맵_이상심리학"
+  },
+  {
+    "content": "단기정신병적장애 증상의 주요 내용을 기술하시오.",
+    "modelAnswer": "망상,환각,와해된언어,극도로와해된또는긴장성행동중하나이상이1일이상1개월이내",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-3 마인드맵_이상심리학"
+  },
+  {
+    "content": "조현형(성격)장애 증상의 특징을 서술하시오.",
+    "modelAnswer": "친분관계를급작스럽게불편해하고그럴능력의감퇴및인지및지각의왜곡,행동의괴이성양상",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-3 마인드맵_이상심리학"
+  },
+  {
+    "content": "편집성성격장애 원인의 핵심 개념을 설명하시오.",
+    "modelAnswer": "(프)동성애적욕구에대한불안을제거하기위한방어기제,(카메론)기본적신뢰의결여,(인)타인에대한적대적신념",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-3 마인드맵_이상심리학"
+  },
+  {
+    "content": "A군성격장애 조현성성격장애 원인의 특징을 서술하시오.",
+    "modelAnswer": "(카메론)기본적신뢰의결여,(발린트)타인과관계맺는능력의결함,(인)부정적자기개념과대인관계회피에관한사고",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-3 마인드맵_이상심리학"
+  },
+  {
+    "content": "조현형성격장애 원인의 개념을 설명하시오.",
+    "modelAnswer": "(정)유아기에경험한부모와의불안정한애착관계에기인,(인)인지적오류를통해괴이한사고와믿음이생김",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-3 마인드맵_이상심리학"
+  },
+  {
+    "content": "망상장애의 특징을 서술하시오.",
+    "modelAnswer": "캐니와벤탈-사회적귀인과정에의한망상형성과정보처리과정에서의인지적편향)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-3 마인드맵_이상심리학"
+  },
+  {
+    "content": "반사회성성격장애 원인의 핵심 개념을 설명하시오.",
+    "modelAnswer": "유전적상관,뇌의활동이상,어린시절의양육경험,독특한신념체계",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-3 마인드맵_이상심리학"
+  },
+  {
+    "content": "경계성성격장애 원인의 특징을 서술하시오.",
+    "modelAnswer": "오이디푸스갈등이전의어린시절어머니와의관계경험,분리-개별화단계의경험,어린시절충격적외상경험,3가지내면적믿음",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-3 마인드맵_이상심리학"
+  },
+  {
+    "content": "연극성성격장애 원인의 개념을 설명하시오.",
+    "modelAnswer": "(정)어린시절의오이디푸스갈등에기인한것으로여성의경우,아빠의주의를얻기위해과장된감정표현양식을습득(인)독특한신념",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-3 마인드맵_이상심리학"
+  },
+  {
+    "content": "자기애성성격장애 원인의 주요 내용을 기술하시오.",
+    "modelAnswer": "(정)병적인자기애(코헛)웅대한자기상형성과좌절경험(컨버그)이상적자기상과어머니상의혼합(벡과프리먼)자기애적신념의선택적주의",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-3 마인드맵_이상심리학"
+  },
+  {
+    "content": "회피성성격장애 원인에 대해 설명하시오.",
+    "modelAnswer": "수줍고억제적인기질,위험에관한생리적민감성(정)부정적자아상,수치심으로부터숨고자하는소망으로노출되는상황회피",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-3 마인드맵_이상심리학"
+  },
+  {
+    "content": "C군성격장애 의존성성격장애 원인의 핵심 개념을 설명하시오.",
+    "modelAnswer": "보호반응유발및의존적성향강화,(인)벡과프리먼이제시한신념체계,흑백논리적사고",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-3 마인드맵_이상심리학"
+  },
+  {
+    "content": "강박성성격장애 원인의 특징을 서술하시오.",
+    "modelAnswer": "(정)항문기단계의경험과관련,과잉통제적양육방식,(인)역기능적신념및인지적오류",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-3 마인드맵_이상심리학"
+  },
+  {
+    "content": "신경성식욕부진증 원인의 개념을 설명하시오.",
+    "modelAnswer": "(프로이트)성적인욕구에대한방어적행동(브러흐)자기효능감높이고자율성쟁취(행)체중공포증(윌리암슨)신체에대한왜곡된지각",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-3 마인드맵_이상심리학"
+  },
+  {
+    "content": "신경성폭식증 원인의 주요 내용을 기술하시오.",
+    "modelAnswer": "(정)부모에대한무의식적인공격성(대)분리의어려움(홈그렌)체중증가에대한두려움(윌리암슨)몸매불만으로인한절식과반동의반복",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-3 마인드맵_이상심리학"
+  },
+  {
+    "content": "폭식장애 원인에 대해 설명하시오.",
+    "modelAnswer": "엄격한절식에대한반작용,부정정서로폭식행동촉진(스타이스)폭식행동의이중경로모델",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-3 마인드맵_이상심리학"
+  },
+  {
+    "content": "이식증 증상의 주요 내용을 기술하시오.",
+    "modelAnswer": "영양분이없는물질이나먹지못할것(종이,천,흙,머리카락)을적어도1개월이상지속적으로먹는경우",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-3 마인드맵_이상심리학"
+  },
+  {
+    "content": "되새김장애 증상의 핵심 개념을 설명하시오.",
+    "modelAnswer": "음식물을반복적으로토해내거나되씹는행동을1개월이상나타내는경우",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-3 마인드맵_이상심리학"
+  },
+  {
+    "content": "증상의 개념을 설명하시오.",
+    "modelAnswer": "잠을자고싶어도잠을이루지못하는날들이지속되고이로인해낮동안의활동에심각한장애를받게되는경우",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-4 마인드맵_이상심리학"
+  },
+  {
+    "content": "불면장애 원인에 대해 설명하시오.",
+    "modelAnswer": "취약성요인,유발요인,지속요인",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-4 마인드맵_이상심리학"
+  },
+  {
+    "content": "치료의 특징을 서술하시오.",
+    "modelAnswer": "수면제,인지행동치료의4가지구성요소(수면위생교육,자극통제,긴장이완훈련,인지적재구성)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-4 마인드맵_이상심리학"
+  },
+  {
+    "content": "과다수면장애 증상의 주요 내용을 기술하시오.",
+    "modelAnswer": "주요수면시간이7시간이상임에도불구하고과도한졸림으로인해일상생활에어려움을겪는경우",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-4 마인드맵_이상심리학"
+  },
+  {
+    "content": "호흡관련수면장애 증상의 특징을 서술하시오.",
+    "modelAnswer": "수면중의호흡장애로인하여과도한졸음이나불면증이유발되는경우",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-4 마인드맵_이상심리학"
+  },
+  {
+    "content": "비급속안구운동수면각성장애의 핵심 개념을 설명하시오.",
+    "modelAnswer": "주된수면시간의첫1/3기간에수면에서불완전하게깨어나는경험을반복적으로하는경우(수면보행증,야경증)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-4 마인드맵_이상심리학"
+  },
+  {
+    "content": "악몽장애의 개념을 설명하시오.",
+    "modelAnswer": "생존,안전,신체적온전함에대한위협을피하고자노력하는광범위하고극도로불쾌하며생생하게기억나는꿈들의반복",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-4 마인드맵_이상심리학"
+  },
+  {
+    "content": "급속안구운동수면행동장애에 대해 설명하시오.",
+    "modelAnswer": "수면중소리를내거나옆사람을다치게할수있는복잡한동작의행동을반복적으로나타내며깨어나는경우",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-4 마인드맵_이상심리학"
+  },
+  {
+    "content": "하지불안증후군의 특징을 서술하시오.",
+    "modelAnswer": "수면중에다리가불편하거나불쾌한감각때문에다리를움직이고싶은충동을느끼는경우",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-4 마인드맵_이상심리학"
+  },
+  {
+    "content": "지적발달장애 증상의 주요 내용을 기술하시오.",
+    "modelAnswer": "발달시기에시작되며,개념,사회,실행영역에서지적기능과적응기능모두에결함이있는상태[06,13,18]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-4 마인드맵_이상심리학"
+  },
+  {
+    "content": "언어장애의 핵심 개념을 설명하시오.",
+    "modelAnswer": "언어의발달과사용에지속적인곤란을나타내는경우(어휘감소,문장구조의제한,담화의손상등)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-4 마인드맵_이상심리학"
+  },
+  {
+    "content": "말소리장애의 개념을 설명하시오.",
+    "modelAnswer": "말소리의어려움으로인해서언어적의사소통에지장을초래하는경우",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-4 마인드맵_이상심리학"
+  },
+  {
+    "content": "아동기발병유창성장애에 대해 설명하시오.",
+    "modelAnswer": "말더듬기로인해서언어의유창성에장애가있는경우",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-4 마인드맵_이상심리학"
+  },
+  {
+    "content": "사회적(실용적)의사소통장애의 특징을 서술하시오.",
+    "modelAnswer": "언어적․비언어적의사소통의사회적인사용에있어서지속적인어려움을나타내는경우",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-4 마인드맵_이상심리학"
+  },
+  {
+    "content": "자폐스펙트럼장애 증상의 주요 내용을 기술하시오.",
+    "modelAnswer": "사회적상호작용과의사소통에서장애를나타내며,제한된관심과흥미를지니고상동증적인행동을반복적으로나타내는경우[07,13,15,23,26]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-4 마인드맵_이상심리학"
+  },
+  {
+    "content": "특정학습장애 증상의 개념을 설명하시오.",
+    "modelAnswer": "정상적인지능을갖추고있고정서적인문제가없음에도불구하고지능수준에비하여현저한학습부진을보이는경우[07,11,13,16]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-4 마인드맵_이상심리학"
+  },
+  {
+    "content": "발달성협응장애에 대해 설명하시오.",
+    "modelAnswer": "협응된운동의습득과수행이개인의생활연령과기술습득및사용의기회에기대되는수준보다현저하게낮음",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-4 마인드맵_이상심리학"
+  },
+  {
+    "content": "상동증적운동장애의 특징을 서술하시오.",
+    "modelAnswer": "특정한패턴의행동을아무런목적없이반복적으로지속하여적응에문제를야기하는경우",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-4 마인드맵_이상심리학"
+  },
+  {
+    "content": "투렛장애의 주요 내용을 기술하시오.",
+    "modelAnswer": "운동성틱+음성틱,1년이상지속",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-4 마인드맵_이상심리학"
+  },
+  {
+    "content": "틱장애 지속성(만성)운동또는음성틱장애의 핵심 개념을 설명하시오.",
+    "modelAnswer": "운동틱또는음성틱,1년이상지속",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-4 마인드맵_이상심리학"
+  },
+  {
+    "content": "잠정적틱장애의 개념을 설명하시오.",
+    "modelAnswer": "운동틱또는음성틱,1년미만",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-4 마인드맵_이상심리학"
+  },
+  {
+    "content": "적대적반항장애 증상에 대해 설명하시오.",
+    "modelAnswer": "성인(권위자)에게거부적이고적대적이며반항적인행동을지속적으로나타내는경우,6개월이상",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-4 마인드맵_이상심리학"
+  },
+  {
+    "content": "간헐적폭발장애 증상의 특징을 서술하시오.",
+    "modelAnswer": "공격적인충동을통제하지못해서보이는반복적인행동폭발(공격성3개월평균주2회,재산피해나상해12개월이내에3회)[26]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-4 마인드맵_이상심리학"
+  },
+  {
+    "content": "병적도벽 증상의 주요 내용을 기술하시오.",
+    "modelAnswer": "남의물건을훔치고싶은충동을참지못해반복적으로도둑질을하게되는경우",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-4 마인드맵_이상심리학"
+  },
+  {
+    "content": "병적방화 증상의 핵심 개념을 설명하시오.",
+    "modelAnswer": "불을지르고싶은충동을조절하지못해반복적으로방화를하는경우",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-4 마인드맵_이상심리학"
+  },
+  {
+    "content": "품행장애 증상의 개념을 설명하시오.",
+    "modelAnswer": "다른사람의기본적권리를침해하고연령에적절한사회적규범및규칙을위반하는지속적이고반복적인행동양상[10,12,17,18,26]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-4 마인드맵_이상심리학"
+  },
+  {
+    "content": "반사회성성격장애 증상에 대해 설명하시오.",
+    "modelAnswer": "다른사람들의권리를무시하거나침해하는영속적인행동양상",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-4 마인드맵_이상심리학"
+  },
+  {
+    "content": "인터넷게임장애 증상의 특징을 서술하시오.",
+    "modelAnswer": "게임을하기위해,그리고흔히다른사용자들과함께게임을하기위해지속적이고반복적으로인터넷을사용하는행동(12개월)[21]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-4 마인드맵_이상심리학"
+  },
+  {
+    "content": "비자살적자해장애 증상의 주요 내용을 기술하시오.",
+    "modelAnswer": "자살의도가없이신체표면에고의적으로출혈,상처,고통을유발하는자해행동을하는경우(지난1년간,5일이상)[20,25]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-4 마인드맵_이상심리학"
+  },
+  {
+    "content": "약화된정신병증후군 증상의 핵심 개념을 설명하시오.",
+    "modelAnswer": "망상,환각,와해된언어가운데적어도한가지증상의약화된형태가임상적주의가필요한심각도또는빈도로존재하며,현실검증력은온전한경우",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-4 마인드맵_이상심리학"
+  },
+  {
+    "content": "카페인사용장애 증상의 개념을 설명하시오.",
+    "modelAnswer": "임상적으로현저한손상이나고통을일으키는문제적카페인사용양상(12개월)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 13,
+    "pageRef": "1-4 마인드맵_이상심리학"
+  },
+  {
+    "content": "개별화의원리의 개념을 설명하시오.",
+    "modelAnswer": "내담자들의개성과개인차를고려하여상담에임하여야한다.",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "의도적감정표현의원리에 대해 설명하시오.",
+    "modelAnswer": "내담자가감정을솔직하게표현하도록상담자는모든노력을기울여야한다.",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "통제된정서관여의원리의 특징을 서술하시오.",
+    "modelAnswer": "상담자는내담자가표현한감정에민감하고의도적이고적절하게반응하여야한다.",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "수용의원리의 주요 내용을 기술하시오.",
+    "modelAnswer": "내담자를수용한다는말로내담자를인격체로존중한다는의미이다.",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "비심판적태도의원리의 핵심 개념을 설명하시오.",
+    "modelAnswer": "내담자의행위에대하여상담자는판단이나비판을하지않는다.",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "자기결정의원리의 개념을 설명하시오.",
+    "modelAnswer": "어떤경우이든상담에서는내담자가선택하고결정한다는것을의미한다.",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "비밀보장의원리에 대해 설명하시오.",
+    "modelAnswer": "상담과정에있었던모든사항을제3자가알지못하도록하는것을의미한다.[11,24]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "진실성의원리의 특징을 서술하시오.",
+    "modelAnswer": "상담자는내담자에게진실된모습을보여야한다.",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "자해,자살등위급한상황인경우의 주요 내용을 기술하시오.",
+    "modelAnswer": "타인또는사회의안전을위협할가능성이있다고판단되는경우\n비밀보장원칙의 법적으로정보의공개가요구되는경우",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "[08,10,11,14,24,26]의 핵심 개념을 설명하시오.",
+    "modelAnswer": "내담자가감염성있는치명적인질병이있다는사실을알게된경우",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "내담자가심각한학대를당하고있는경우의 개념을 설명하시오.",
+    "modelAnswer": "학교상담에서보호자또는학교장의요청이있는경우",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "정의에 대해 설명하시오.",
+    "modelAnswer": "내담자의문제를해결하기위해생각,감정,행동측면의인간적성장을위해사이버공간에서수행되는만남",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "장점의 특징을 서술하시오.",
+    "modelAnswer": "편의성,익명성,경제성(효율성),문제중심의의사소통,편안함,탈억제,내담자의주도성,친밀성과협동성,인간관계형성및단절의융통성,기록의저장및가공의편리함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "단점의 주요 내용을 기술하시오.",
+    "modelAnswer": "내담자의책임감부족및의존적경향,정보왜곡가능성,상담의안정성부족,내담자정보의제한성,낮은책임감과신뢰감,긴급상담의한계",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "사이버상담의유형의 핵심 개념을 설명하시오.",
+    "modelAnswer": "이메일상담,게시판상담,데이터베이스상담,채팅상담,화상상담",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "호소문제유형의 개념을 설명하시오.",
+    "modelAnswer": "지지호소형,문제해결호소형,정보및조언요구형",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "상담과정1에 대해 설명하시오.",
+    "modelAnswer": "내담자의요구파악하기,제목정하기,맞이하기,호소문제명료화하기,공감하기,내담자의강점지지하기,상담목표설정하기,격려하기,추수상담가능성열어놓기",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "상담과정2의 특징을 서술하시오.",
+    "modelAnswer": "환영하기(첫인사),문제의명료화및공감,상담구조화및목표설정,정보제공,추가정보탐색방법안내,결론,끝인사",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "표현기법의 주요 내용을 기술하시오.",
+    "modelAnswer": "정서적표현에괄호치기,비유적언어사용,글씨체사용,즉시성과현시기법,말줄임표사용등",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "자율성존중의 핵심 개념을 설명하시오.",
+    "modelAnswer": "내담자는자신의행동을스스로결정하고처리할수있는자율적존재이므로,상담자는내담자가자기행동에책임질것을기대하고존중해야한다.",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "비유해성(무해성)의 개념을 설명하시오.",
+    "modelAnswer": "상담자는다른사람에게손해를주거나해를입히거나위험에빠뜨리지않아야한다.",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "상담을위한원칙 선의에 대해 설명하시오.",
+    "modelAnswer": "상담자는다른사람에게선행을베풀겠다는의도를가지고행동해야한다.무능하거나부정직한사람은내담자의성장이나복지에아무런도움을줄수없다.",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "공정성(정의)의 특징을 서술하시오.",
+    "modelAnswer": "상담자는인종,성별,종교를이유로내담자를차별하지말아야한다.모든사람들은서비스를동등하게받을권리가있다.",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "충실성의 주요 내용을 기술하시오.",
+    "modelAnswer": "내담자와의약속과진실에충실한것으로이는상담자와내담자간에신뢰를이끌어내는데있어서핵심적인역할을한다.",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "다중관계의 핵심 개념을 설명하시오.",
+    "modelAnswer": "상담자와내담자가치료적인관계뿐만아니라친인척,사업동반자,친구,이성관계등다른역할의관계가중복되어있는상황을의미한다.[10,11,25]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "사전동의의 개념을 설명하시오.",
+    "modelAnswer": "내담자에게상담과정에서경험하게될활동,위험성,각종필요한정보의공개등에관한사항을알려준다음내담자가상담에참여하기로동의하는것이",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "사례개념화의구성요소Ⅰ에 대해 설명하시오.",
+    "modelAnswer": "진단적공식화,임상적공식화,문화적공식화,치료개입공식화",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "사례개념화의구성요소Ⅱ의 특징을 서술하시오.",
+    "modelAnswer": "주호소문제,촉발요인,유지요인,내담자문제에대한상담자관점,상담목표,상담계획[23]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "사례개념화의세가지형태의 주요 내용을 기술하시오.",
+    "modelAnswer": "잠정형사례개념화,종합형사례개념화,간편형사례개념화",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "사례개념화의세가지방법의 핵심 개념을 설명하시오.",
+    "modelAnswer": "구조화또는표준화된사례개념화방법,비표준화된사례개념화방법,통합적사례개념화방법",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "접수면접의 개념을 설명하시오.",
+    "modelAnswer": "본상담에들어가기전내담자에대한정보수집,수집된정보를종합하여내담자의호소문제개념화,상담의유형과담당상담자배정등의초기과정에서이루어지는면담",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "초기단계에 대해 설명하시오.",
+    "modelAnswer": "내담자문제이해,상담목표및진행방식에대한합의,촉진적관계형성,상담의구조화,개방형질문과비지시적상담기법,심리검사,사례개념화[09,12,20]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "상담의과정 중기단계의 특징을 서술하시오.",
+    "modelAnswer": "문제의원인탐색과해결책모색,과거의재구성작업,시작은순조롭지만중간에복잡하고역동적인상호작용이나타남,전이와저항,침묵다루기[13]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "종결단계의 주요 내용을 기술하시오.",
+    "modelAnswer": "문제해결(목표달성)정도및상담의성공여부에대한평가,종결과관련된감정다루기(이별감정,분리에대한두려움,의존성)[07,21]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "추수상담의 핵심 개념을 설명하시오.",
+    "modelAnswer": "상담효과의지속성및내담자의적응정도확인",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "경청의 개념을 설명하시오.",
+    "modelAnswer": "상담자가내담자의말과행동을적극적으로듣는것[07,13]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "재진술에 대해 설명하시오.",
+    "modelAnswer": "내담자가말한내용을다시한번반복해주는것으로,상담자가내담자를이해하고있다는메시지를전달해주기위한것[13,20,25]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "요약의 특징을 서술하시오.",
+    "modelAnswer": "내담자의여러가지생각과감정을간략하게묶어정리하는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "명료화의 주요 내용을 기술하시오.",
+    "modelAnswer": "내담자가했던말중에서불확실하거나모호한내용을찾아지적하고,내담자가표현한바를상담자가정확히지각하였는지확인하는대화기술[05,07,13,21]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "감정반영의 핵심 개념을 설명하시오.",
+    "modelAnswer": "내담자가말한내용에서감정과관련된부분을바꾸어말하는것[05,11,13]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "질문의 개념을 설명하시오.",
+    "modelAnswer": "생략된정보를보완하고내담자말의의미를구체화하고자할때사용[21,24]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "직면에 대해 설명하시오.",
+    "modelAnswer": "내담자가모르고있거나,인정하기를거부하는생각과느낌에대해서주목하게하는상담자의적극적인개입방법[07,10,13,15]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "해석의 특징을 서술하시오.",
+    "modelAnswer": "내담자가자신의문제를새로운각도에서이해하도록내담자의생활경험과행동의의미를설명해주는것[11,14,15]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "즉시성의 주요 내용을 기술하시오.",
+    "modelAnswer": "상담순간에느껴지는상담자자신의감정과직관을내담자에게내놓음으로써내담자에게새로운안목을제공하는것[06,24]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "자기개방의 핵심 개념을 설명하시오.",
+    "modelAnswer": "상담자가자신의생각,가치,느낌,태도등여러가지정보를내담자에게드러내보이는것[11]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "정보제공의 개념을 설명하시오.",
+    "modelAnswer": "사람,활동,행사,자원,대안,결과나절차에관한자료또는사실을말로전달해주는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "나전달법에 대해 설명하시오.",
+    "modelAnswer": "효과적으로다른사람에게자신의감정과생각을전달하는방법(3요소:행동,영향,감정)[19]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "인간관의 특징을 서술하시오.",
+    "modelAnswer": "결정론적존재,생물학적존재,갈등의존재",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "주요개념의 주요 내용을 기술하시오.",
+    "modelAnswer": "의식수준(지형학적모형),성격구조,이중본능이론,불안,심리성적발달단계,방어기제,전이[08,15],역전이[12,17]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "의식수준의 핵심 개념을 설명하시오.",
+    "modelAnswer": "의식,전의식,무의식",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "성격구조의 개념을 설명하시오.",
+    "modelAnswer": "원초아,자아,초자아(양심,자아이상)[23]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "추동과이중본능이론에 대해 설명하시오.",
+    "modelAnswer": "추동(자기보존적추동,종보존적추동),이중본능(삶의본능,죽음의본능)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "불안의종류[13]의 특징을 서술하시오.",
+    "modelAnswer": "현실적불안,신경증적불안,도덕불안",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "심리성적발달단계의 주요 내용을 기술하시오.",
+    "modelAnswer": "구강기,항문기,남근기(오이디푸스콤플렉스[15]→거세불안→적대감억압,동일시→초자아발달)[23],잠복기,생식기",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "방어기제의 핵심 개념을 설명하시오.",
+    "modelAnswer": "친애행동,이타행동,현실적예측,유머,승화[26],억제[10,17],억압[23],행동화,회피,부인,전치[22],치환,불평과도움거부,이상화,동일시[26],주지화(지성화),수동공격,",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "상담목표의 개념을 설명하시오.",
+    "modelAnswer": "무의식의의식화,성격의재구성(자아기능의강화)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "상담자역할에 대해 설명하시오.",
+    "modelAnswer": "분석가,전문가,해석가,중립성(전이발달촉진),치료동맹",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "상담과정의 특징을 서술하시오.",
+    "modelAnswer": "초기(치료동맹형성),중기(저항,전이[15],통찰,훈습),종결기(현실적응과자기분석돕기)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "상담기법의 주요 내용을 기술하시오.",
+    "modelAnswer": "자유연상,꿈분석,전이분석[08],저항분석,해석,훈습",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "[05,07,10,13]의 핵심 개념을 설명하시오.",
+    "modelAnswer": "투사[26],합리화[22],격리,반동형성,고착,퇴행,저항,신체화,분열,취소[17],평가절하[10],전능감,보상,해리,통제,왜곡,상환,공상,상징화,전환,합일화,함입,반복강박",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "치료의 개념을 설명하시오.",
+    "modelAnswer": "자아의기능강화에초점,자아분석,방어분석",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "클라인에 대해 설명하시오.",
+    "modelAnswer": "어머니의젖가슴을좋은젖가슴과나쁜젖가슴으로분리→편집분열적자기→동일한것인식→우울자리",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "자아심리학의 특징을 서술하시오.",
+    "modelAnswer": "현재의인간관계가과거에형성된인간관계에서영향을받는다는이론",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "위니컷의 주요 내용을 기술하시오.",
+    "modelAnswer": "안아주는환경,그만하면좋은엄마,참자기와거짓자기[21],버텨주기와간직하기[10]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "컨버그의 핵심 개념을 설명하시오.",
+    "modelAnswer": "좋은엄마와나쁜엄마로분리(경계성성격장애,자기애성성격장애),전이초점적분석",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "코헛의 개념을 설명하시오.",
+    "modelAnswer": "건강한자기애발달은부모의공감속에서웅대한자기상에적절한좌절경험을하는것이필요함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "자기심리학에 대해 설명하시오.",
+    "modelAnswer": "부모의공감이부족한상태에서과도한좌절경험을하게되면,웅대한자기상에집착하게되면서병적인자기애로발전하게됨",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-5 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "생활양식의 개념을 설명하시오.",
+    "modelAnswer": "‘성격’과유사한개념.인생의목표를달성하기위하여개인이지닌특성(사회적유용형,지배형,기생형,회피형)[15,18,22]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-6 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "사회적관심에 대해 설명하시오.",
+    "modelAnswer": "개인의이익보다는사회발전을위해다른사람과협력하는것(발달적측면:타고난기질,개인적능력,일반적태도)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-6 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "인생과제의 특징을 서술하시오.",
+    "modelAnswer": "일과여가,우정,사랑(+영성,자기지향)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-6 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "허구적최종목적론의 주요 내용을 기술하시오.",
+    "modelAnswer": "허구속에서목적을추구하며살아가는인간의행동을이해하는개인심리학의주요개념[22]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-6 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "주요개념[07,11] 열등감의 핵심 개념을 설명하시오.",
+    "modelAnswer": "자기완성을위한필수요인이자모든노력의근원[15](열등감콤플렉스의원천:기관열등감,과양보호,양육태만)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-6 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "우월성추구의 개념을 설명하시오.",
+    "modelAnswer": "문제에직면했을때부족한것은보충하며,낮은것은높이고,미완성의것은완성하며,무능한것은유능한것으로만드는경향성[18,22]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-6 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "가족구도와출생순위에 대해 설명하시오.",
+    "modelAnswer": "개인의생활양식형성에영향을미침.이에대한해석은어른이되었을때세상과상호작용하는방식에도영향을줌",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-6 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "루시아의전문상담교사 상담이론과실제의 특징을 서술하시오.",
+    "modelAnswer": "인간관 사회적존재(사회적관심강조),목적론적존재(인간의모든행동은목적이있다)[10],전체적존재,창조적존재",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-6 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "창조적자기의 주요 내용을 기술하시오.",
+    "modelAnswer": "자유와선택을강조하는개념으로인간이스스로자신의삶을만들어나간다는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-6 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "용기와격려의 핵심 개념을 설명하시오.",
+    "modelAnswer": "아들러는용기의중요성과더불어낙담한사람들에게용기를불어넣는격려를강조함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-6 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "아들러의개인심리학의 개념을 설명하시오.",
+    "modelAnswer": "성격평가방법 초기회상,꿈분석,출생순위분석[10],기본적오류,자질,보호기제(변명,철회,공격성)\n상담과정[11] 좋은상담관계형성→평가및분석[15]→해석→재정향\n즉시성,격려[17],역설적의도,과제의설정과이행,마치~인것처럼행동하기[13,26],자기모습파악,내담자의스프에침뱉기[13],악동피",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-6 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "상담기법에 대해 설명하시오.",
+    "modelAnswer": "하기,단추누르기[10,13,17],마이더스기법,심상만들기,직면,타인을즐겁게하기,다른관점취하기,질문\n상담목표 내담자의생활양식을이해하고부적응적인목표와신념을파악하여사회적관심을증가시키고좀더적응적인목표와생활양식으로변화시키는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-6 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "인간관의 특징을 서술하시오.",
+    "modelAnswer": "환경의자극에반응,행동은학습되며,강화의형태와빈도에의해결정됨",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-6 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "조건형성관련개념의 주요 내용을 기술하시오.",
+    "modelAnswer": "소거[13],자발적회복,고차조건형성,역조건형성[20],편향적연합,혐오조건화[25]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-6 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "강화의원리의 핵심 개념을 설명하시오.",
+    "modelAnswer": "즉시강화의원리,일관성의원리,점진적접근의원리",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-6 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "강화와처벌의 개념을 설명하시오.",
+    "modelAnswer": "정적강화,부적강화,부적처벌,정적처벌",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-6 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "차별강화[18,25]에 대해 설명하시오.",
+    "modelAnswer": "대체행동차별강화,저비율행동차별강화,다른행동차별강화,상반행동차별강화",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-6 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "강화계획의 특징을 서술하시오.",
+    "modelAnswer": "고정비율강화계획(일정한수)[23],고정간격강화계획(일정한간격),변동비율강화계획(불규칙한수),변동간격강화계획(불규칙한간격)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-6 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "상담목표의 주요 내용을 기술하시오.",
+    "modelAnswer": "부적응행동의제거와바람직한행동의학습,행동맥락의변화(ABC분석)[06]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-6 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "[10]의 개념을 설명하시오.",
+    "modelAnswer": "다중양식치료[15],행동계약[15],반응대가[13],역할극[13,25],타임아웃,인지행동수정(행동변화3단계:자기관찰,새로운내적대화의시작,새로운기술학습)[12,24],자기지도[24],",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-6 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "성격의구조의 특징을 서술하시오.",
+    "modelAnswer": "유기체,자기,자기개념,현상학적장",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-6 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "주요개념의 주요 내용을 기술하시오.",
+    "modelAnswer": "자기실현화경향성[06,15],가치의조건[12,17,24],유기체적가치화과정[24],충분히기능하는사람[20,24]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-6 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "부적응성격의발달의 핵심 개념을 설명하시오.",
+    "modelAnswer": "긍정적관심의욕구와실존적욕구[11,13],자기와경험의불일치(적응의본질은자기와경험의일치)[07,13,17],이상적자기와현실적자기",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-6 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "방어기제의 개념을 설명하시오.",
+    "modelAnswer": "경험과자기개념의불일치→경험의의미를왜곡하거나경험의존재를부인[11]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-6 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "상담자역할의 특징을 서술하시오.",
+    "modelAnswer": "내담자가자기를실현할수있는환경을조성하는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-6 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "상담기법(태도)의 주요 내용을 기술하시오.",
+    "modelAnswer": "진솔성,공감적이해,무조건적긍정적존중[05,06,12,20],Q분류법[14]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-6 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "치료원리의 핵심 개념을 설명하시오.",
+    "modelAnswer": "자기지각의증가→자기수용의증가→자기표현의증가→방어성의감소→개방성의증가",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-6 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "기본욕구[06,12,16]에 대해 설명하시오.",
+    "modelAnswer": "생존의욕구,소속(사랑)의욕구,힘(권력)에대한욕구,즐거움(재미)에대한욕구,자유의욕구",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-6 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "바람직한방법으로욕구를충족시키기위한3R의 주요 내용을 기술하시오.",
+    "modelAnswer": "책임(responsibility),현실(reality),옳고그름(rightandwrong))",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-6 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "전행동자동차[17,21]의 핵심 개념을 설명하시오.",
+    "modelAnswer": "기본욕구-엔진,바람-핸들,전행동-네바퀴(행동하기와생각하기-앞바퀴,통제가능/느끼기와생리반응-뒷바퀴,앞바퀴를통해간접적으로통제가능)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-6 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "치료적환경조성하기의 특징을 서술하시오.",
+    "modelAnswer": "열세가지권장사항,세가지금지사항(비판,처벌,논쟁하지않는다.내담자의변명을받아들이지않는다.내담자를쉽게포기하지않는다.)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-6 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "우호적관계형성을위한원칙(우볼딩,AB-CDEFG원칙)의 주요 내용을 기술하시오.",
+    "modelAnswer": "항상침착하고예의바를것(Calm&Courteous),확신(Determined),열성적(Enthusiastic),단호(Firm),진실(Genuine)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-6 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "정신건강의퇴행단계의 핵심 개념을 설명하시오.",
+    "modelAnswer": "욕구충족을포기→부정적증상→부정적중독",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-6 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "정신건강의증진단계의 개념을 설명하시오.",
+    "modelAnswer": "변화추구→긍정적증상→긍정적중독",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-6 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "치료에대한내담자의참여수준(Wubbolding)에 대해 설명하시오.",
+    "modelAnswer": "저항단계→지향단계→노력단계→실행단계→전념단계",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-6 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "[05,11]의 특징을 서술하시오.",
+    "modelAnswer": "새로운행동계획이성공적으로실행되기위해서필요한8가지조건(우볼딩):Simple,Attainable,Measurable,Immediate,Involving,Controllable,Consistent,Committed",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-6 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "인간관의 개념을 설명하시오.",
+    "modelAnswer": "인간은합리적인생각과비합리적인생각을할수있는양면성을가지고있으며,인지․정서․행동과정을변화시킬수있는능력이있다.",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-7 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "비합리적신념의요소에 대해 설명하시오.",
+    "modelAnswer": "당위성(자신,타인,세상에대한당위),과장성,인간가치비하,좌절에대한낮은인내심[21]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-7 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "ABCDEF모델[14]의 특징을 서술하시오.",
+    "modelAnswer": "선행사건Ⓐ[05],신념체계Ⓑ,결과Ⓒ,논박Ⓓ[05,07],효과Ⓔ,감정Ⓕ",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-7 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "상담목표의 주요 내용을 기술하시오.",
+    "modelAnswer": "문제행동의제거보다는문제행동의원인이되는자기패배적신념과비합리적신념을극소화시켜서현실적이고융통성있고합리적인가치관을갖게하는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-7 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "상담자역할의 핵심 개념을 설명하시오.",
+    "modelAnswer": "적극적이고지시적인역할,교사,철학자,직면자,유능한토론가역할",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-7 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "상담과정의 개념을 설명하시오.",
+    "modelAnswer": "부적절한정서적․행동적결과탐색(C)→목표설정→사건탐색(A)→결과와사고간의관계교육(B-C)→사고탐색(B)→논박(D)→효과(E)→숙제→종결",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-7 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "인지적기법에 대해 설명하시오.",
+    "modelAnswer": "비합리적신념에대한논박,인지적과제,자신의말바꾸기",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-7 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "상담기법 정서적기법의 특징을 서술하시오.",
+    "modelAnswer": "유머사용,역할연기,수치심공격하기,합리적정서심상법[21],대처진술숙달시키기",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-7 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "행동적기법의 주요 내용을 기술하시오.",
+    "modelAnswer": "주장훈련,기술훈련,둔감법,홍수법,여론조사하기,역설적과제,ABC접근법",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-7 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "주요개념의 개념을 설명하시오.",
+    "modelAnswer": "게슈탈트,전경과배경,미해결과제[13],형태주의지각집단화[26]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-7 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "알아차림의구분에 대해 설명하시오.",
+    "modelAnswer": "현상알아차림,행위알아차림",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-7 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "접촉의구분의 특징을 서술하시오.",
+    "modelAnswer": "자기자신과의접촉,대인관계접촉,환경과의접촉",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-7 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "게슈탈트의형성과해소(알아차림-접촉주기6단계)의 주요 내용을 기술하시오.",
+    "modelAnswer": "배경단계→감각단계→알아차림단계→에너지동원단계→행동단계→접촉단계",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-7 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "접촉경계혼란[11]의 핵심 개념을 설명하시오.",
+    "modelAnswer": "내사[24],투사,융합,반전[22],자의식[16,25],편향[21,25]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-7 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "성격변화단계[22]의 특징을 서술하시오.",
+    "modelAnswer": "피상층→공포층(연기층)→교착층(난국층,막다른골목)→내파층→외파층(폭발층)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-7 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "치료과정에서내담자가성장하는3단계(폴스터)의 주요 내용을 기술하시오.",
+    "modelAnswer": "발견의단계→조절의단계→동화의단계",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-7 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "게슈탈트치료의진행과정의 핵심 개념을 설명하시오.",
+    "modelAnswer": "초기단계→전개단계→변화단계→종결단계",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-7 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "상담기법의 개념을 설명하시오.",
+    "modelAnswer": "자각(욕구와감정자각,신체자각,환경자각,언어자각[13],책임자각),실험,현재화기법,실연,현실검증,빈의자기법[06,07],자기부분과의대화,직면,",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-7 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "[07,09,10]에 대해 설명하시오.",
+    "modelAnswer": "과장하기,머물러있기,알아차림연속,양극성의통합,반대로하기,창조적투사(놀이),꿈작업,통찰과의미발견,숙제",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-7 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "자아상태와구조분석,기능분석[13,23]의 주요 내용을 기술하시오.",
+    "modelAnswer": "부모자아(비판적부모,양육적부모),어른자아,어린이자아(자유아동,적응된아동)/구조적병리(혼합,배타)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-7 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "각본의종류의 개념을 설명하시오.",
+    "modelAnswer": "승리자각본,패배자각본,비승리자(평범한)각본[23]/각본대로살아가기위한행동:디스카운트,재정의,공생",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-7 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "욕구에 대해 설명하시오.",
+    "modelAnswer": "인정자극의욕구,생활시간구조에대한욕구,생활자세에대한욕구",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-7 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "생활자세(인생태도)[13]의 특징을 서술하시오.",
+    "modelAnswer": "자기부정-타인긍정,자기부정-타인부정,자기긍정-타인부정,자기긍정-타인긍정",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-7 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "드라마삼각형의 주요 내용을 기술하시오.",
+    "modelAnswer": "박해자,구원자,희생자역할(어떤역할을하든지디스카운트가일어남)+구경꾼",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-7 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "자율성성취를위한세가지의 개념을 설명하시오.",
+    "modelAnswer": "각성,자발성,친밀성",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-7 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "상담과정[11]의 특징을 서술하시오.",
+    "modelAnswer": "상담계약(관계,구조화)→구조분석→의사교류분석→게임분석[15]→각본분석→재결단",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-7 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "의사교류유형[13,18]의 주요 내용을 기술하시오.",
+    "modelAnswer": "상보교류(갈등X),교차교류(갈등),이면교류(위장된메시지)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-7 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "8가지조작기법의 개념을 설명하시오.",
+    "modelAnswer": "질문,특별세부반응(명료화),직면,설명,예시,확립,해석,구체적종결",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-7 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "시간구조화[13]에 대해 설명하시오.",
+    "modelAnswer": "폐쇄(차단),의례,소일(잡담),활동,게임,친밀",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-7 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "역기능적신념의두가지유형의 개념을 설명하시오.",
+    "modelAnswer": "사회적의존성,자율성",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-7 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "인지적오류유형[11,13]의 주요 내용을 기술하시오.",
+    "modelAnswer": "임의적추론[23],이분법적사고,과잉일반화[06,26],의미확대와의미축소,개인화[16,25],잘못된명명,정서적추론,긍정격하",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-7 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "인지상담[10]의 개념을 설명하시오.",
+    "modelAnswer": "노출치료[22],행동실험[23],이성적-감성적역할연기,활동계획표사용,과제부여방법,증거탐문,재구성,사고표집,세가지질문기법,인지시연,인지타당성평가",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-7 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "인간관의 개념을 설명하시오.",
+    "modelAnswer": "실존적불안을지니고살아가는존재,삶의의미와목적을추구하는존재",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "실존적조건과정신병리에 대해 설명하시오.",
+    "modelAnswer": "죽음(특수성,궁극적구조자),자유와책임(소망차단,결심회피),고독(융합,타인의관심속에존재하기),무의미(실존적공허,실존적신경증[20]/강박적활동)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "실존적세계의네차원의 특징을 서술하시오.",
+    "modelAnswer": "물리적차원의자연세계,사회적차원의인간세계,심리적차원의자기세계,영적차원의초월세계",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "상담목표의 주요 내용을 기술하시오.",
+    "modelAnswer": "내담자로하여금자신의실존적조건에대한인식을증가시킴으로써삶을주체적으로선택하고책임지는진실한인간이되도록돕는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "상담과정의 핵심 개념을 설명하시오.",
+    "modelAnswer": "초기(문제탐색,관계형성,실존적태도의탐색과명료화),중기(실존적조건의직면,자기인식증가,삶의의미발견,실천),종결기(내용정리)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "상담기법의 개념을 설명하시오.",
+    "modelAnswer": "한계상황으로서의죽음을직면시키기,책임을인식하고수용하기,자신의소망을자각하고선택하기,의미발견하고추구하기,자유경험하기,꿈작업",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "주요개념의 특징을 서술하시오.",
+    "modelAnswer": "의지의자유,의미에대한의지,삶의의미",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "의미치료 삶의의미를발견하는방식의 주요 내용을 기술하시오.",
+    "modelAnswer": "창조적가치,경험적가치,태도적가치[16]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "의미의원천의 핵심 개념을 설명하시오.",
+    "modelAnswer": "일,사랑,고통,과거,최상",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "요소에 대해 설명하시오.",
+    "modelAnswer": "Shapiro–의도,주의,태도/Dimidjian&Linehan–알아차림,명명하기,비판단적으로수용하기,현재의순간에집중하기",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "특징의 특징을 서술하시오.",
+    "modelAnswer": "즉시성,들뜨지않음,대상을조작하지않음,보호함/Germer–현재의경험을수용적으로자각하여알아차리는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "요소와특징의 주요 내용을 기술하시오.",
+    "modelAnswer": "존카밧진이제창한프로그램으로마음챙김훈련을통하여신체적․심리적건강을증진시키는프로그램",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "(MBSR)의 핵심 개념을 설명하시오.",
+    "modelAnswer": "마음챙김,바디스캔,하타요가로구성/행복감증진,우울․불안․불면․통증완화에효과적\n합리적마음,감정적마음,지혜로운마음의세가지마음상태를제시하며개인의환경과현재의감정을억지로바꾸려하지않고있는그",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "마음챙김[17] 집단훈련기술의 개념을 설명하시오.",
+    "modelAnswer": "마음챙김명상,고통감내(고통인내),대인관계효율성,감정조절(정서조절)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "타당화의수준[25]에 대해 설명하시오.",
+    "modelAnswer": "관심을표현하기→정확히반영하기→이해를정교화하기→과거사에비추어타당화하기→현재맥락에비추어타",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "당화하기→온전한진솔성의 특징을 서술하시오.",
+    "modelAnswer": "우울증재발방지를위해서개발한치료법으로인지치료이론과마음챙김기반의스트레스감소법(MBSR)을결합한형태",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "인지치료(MBCT)의 핵심 개념을 설명하시오.",
+    "modelAnswer": "상호작용하는인지하위체계이론에근거하여행위양식과존재양식이환경조건에따라적절한양식으로유연하게전환되어야함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "6가지핵심과정[19]의 개념을 설명하시오.",
+    "modelAnswer": "수용,인지적탈융합,맥락적자기,현재에존재하기,가치,전념적행동",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "홀론과4상한에 대해 설명하시오.",
+    "modelAnswer": "좌상상한(나/내면적,개인적,의도적),우상상한(그것/외면적,개인적,행동적),좌하상한(우리/내면적,집단적,문화적),",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "온상한온수준의통합모델(AQAL)모델의범주의 특징을 서술하시오.",
+    "modelAnswer": "상한,발달라인,수준,상태,유형",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "의식의발달단계의 주요 내용을 기술하시오.",
+    "modelAnswer": "가면수준,철학수준,자아수준,생물사회적수준,실존수준,초개인수준,일심수준",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "자기개념의 핵심 개념을 설명하시오.",
+    "modelAnswer": "자기자신에대한개인의주관적인인식과평가를반영하는인지적관념",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "자기개념 자기개념의구조의 개념을 설명하시오.",
+    "modelAnswer": "물질적자기,정신적자기,사회적자기",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "자기복잡성가설에 대해 설명하시오.",
+    "modelAnswer": "자기구조의정교성,변별성,통합정도에개인차가있음",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "(린빌)의 특징을 서술하시오.",
+    "modelAnswer": "자기를구성하는요소나속성들을다양하고정교하게구분하는사람은이러한요소들의관계를통합적으로잘파악함\n정신분석이가정하는인간관을유지한채로거기에상호관계적관점을더함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "(패트리샤드영)의 주요 내용을 기술하시오.",
+    "modelAnswer": "분석가와내담자간의상호작용에의해영향을받으며,분석자는객관적이될수없음(중립성X)\n여러치료에서공통적으로나타나는핵심적인공통요인을찾아내어그러한요인을중심으로이론체계를구성하는것(예:REMA모델-",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "관계,노출,숙달,귀인)[26]의 핵심 개념을 설명하시오.",
+    "modelAnswer": "기술적절충주의 내담자와그의문제에가장효과적이라고알려진최선의치료기법을선택할수있는치료체계를제공하려는시도(예:다중양식치료)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "통합운동[12]의 개념을 설명하시오.",
+    "modelAnswer": "한치료적입장의바탕위에서다른치료의관점이나기법을흡수하거나통합하여사용하는방식(예:정신역동치료에기반을두고,인지",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "행동치료의기법을활용하는것)에 대해 설명하시오.",
+    "modelAnswer": "하나의개별적인치료보다더나은치료효과를거두기위해서두가지혹은그이상의치료를이론적으로통합하는것(예:심리도식치료,",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "특수교육법제15조의 특징을 서술하시오.",
+    "modelAnswer": "시각장애,청각장애,지적장애,지체장애,정서및행동장애[11],자폐성장애,의사소통장애,학습장애,건강장애,발달",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "루시아의전문상담교사 특수아상담의 주요 내용을 기술하시오.",
+    "modelAnswer": "지체,그밖에두가지이상의장애가있는경우등대통령령으로정하는장애",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "특수아부모의변화단계의 개념을 설명하시오.",
+    "modelAnswer": "충격→거부→죄의식→수용",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "특수교육대상자에 대해 설명하시오.",
+    "modelAnswer": "장애아동의부모가자녀의장애를수용하는단계(Klaus&Kennell)[08]:충격→부인→슬픔과분노→적응→재조직",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "죽음수용단계(Kubler-Ross)의 특징을 서술하시오.",
+    "modelAnswer": "부정→분노→타협→절망→수용",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "특수교육법제2조6항의 주요 내용을 기술하시오.",
+    "modelAnswer": "“통합교육”이란특수교육대상자가일반학교에서장애유형•장애정도에따라차별을받지아니하고또래와함께",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "통합교육[08] 통합교육의유형의 핵심 개념을 설명하시오.",
+    "modelAnswer": "사회적통합,주류화,역통합,완전통합",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "통합교육의역사적배경의 개념을 설명하시오.",
+    "modelAnswer": "정상화의원리⇒탈시설수용화⇒최소제한환경⇒일반교육주도⇒완전통합",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "장애수용단계에 대해 설명하시오.",
+    "modelAnswer": "발달장애아부모의장애아동수용단계(Batshaw,Perret,&Trachtenberg):부정→우울→분노와죄책감→치료법탐색-수용\n특수교육및통합교육 개개인의교육적요구에적합한교육을받는것을말한다.\n장애학생들이학교생활을마치고성인사회의생활로옮아가는과정을순조롭게하기위해마련하는교육모형",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "할펀(A.Halpern)의지역사회적응모델[20]의 특징을 서술하시오.",
+    "modelAnswer": "고용(취업)영역,주거환경영역,사회•대인관계기술영역",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "개별화교육[08]의 주요 내용을 기술하시오.",
+    "modelAnswer": "각급학교의장이특수교육대상자개인의능력을계발하기위하여장애유형및장애특성에적합한교육목표ㆍ교육방법",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "순회교육의 핵심 개념을 설명하시오.",
+    "modelAnswer": "특수교육교원및특수교육관련서비스담당인력이각급학교나의료기관,가정또는복지시설(장애인복지시설,아동복지시설",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "전환교육[20]의 개념을 설명하시오.",
+    "modelAnswer": "ㆍ교육내용ㆍ특수교육관련서비스등이포함된계획을수립하여실시하는교육",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "진로및직업교육에 대해 설명하시오.",
+    "modelAnswer": "특수교육대상자의학교에서사회등으로의원활한이동을위하여관련기관의협력을통하여직업재활훈련ㆍ자립생",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "특수교육법정의(일부)의 특징을 서술하시오.",
+    "modelAnswer": "등을말한다.이하같다)등에있는특수교육대상자를직접방문하여실시하는교육",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "학습장애의 주요 내용을 기술하시오.",
+    "modelAnswer": "정상적인지능을갖추고정서적인문제가없음에도불구하고지능수준에비하여현저한학습부진을보이는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "구분 학습부진의 핵심 개념을 설명하시오.",
+    "modelAnswer": "정상적인지적능력을가지고있으나사회환경적요인과불안,우울과같은정서적요인에의해학업이떨어지는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "학습지체의 개념을 설명하시오.",
+    "modelAnswer": "평균이하또는경계선지능정도의지적수준을지닌학생이잠재력의부족으로인해학습에어려움을겪는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "능력-성취불일치접근법에 대해 설명하시오.",
+    "modelAnswer": "지적인잠재능력에서기대되는학업성취수준과실제성취수준간의 차이를비교하는방법",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "진단절차의 특징을 서술하시오.",
+    "modelAnswer": "지적잠재능력과학업성취수준의불일치확인→배제요인확인",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "중재반응모델의 주요 내용을 기술하시오.",
+    "modelAnswer": "학업문제를가진학생(학습장애위험군학생)을조기에선별하여조기중재를실시하고,중재에대한학생",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "3단계모델의 핵심 개념을 설명하시오.",
+    "modelAnswer": "일반교육→학습장애위험군학생으로선별된학생을대상으로실시하는지원교수→학습장애학생을대상으로",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "인지적측면의 개념을 설명하시오.",
+    "modelAnswer": "짧은주의력,단기기억의결손,인지전략의부적절한사용,새로운정보학습시상대적으로소극화된장기기억의역할",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "정의적측면의 특징을 서술하시오.",
+    "modelAnswer": "누적된학습실패로인해학습된무력감,낮은자기존중감,행동통제의외적소제(귀인:외적,안정적,통제불가능),짧은과제의지속력",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "및과제불안,낮은사회적수용(따돌림)등의 주요 내용을 기술하시오.",
+    "modelAnswer": "정의 학생마다지니고있는특성을고려하여모든학생이목표에도달할수있도록교수학습을다양하게설계하는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "참여의원리의 핵심 개념을 설명하시오.",
+    "modelAnswer": "학습자들이수업에참여할수있는다양한방법을제공하는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "3가지원리 표상의원리의 개념을 설명하시오.",
+    "modelAnswer": "학습자들이정보를다양한방식으로표현할수있도록지원하는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "표현의원리에 대해 설명하시오.",
+    "modelAnswer": "학습자들이자신의지식을다양한방식으로표현할수있도록하는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "영재교육진흥법제2조의 특징을 서술하시오.",
+    "modelAnswer": "재능이뛰어난사람으로서타고난잠재력을계발하기위하여특별한교육이필요한사람",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "렌쥴리[17,21]의 주요 내용을 기술하시오.",
+    "modelAnswer": "평균이상의높은능력,과제집착력,창의성",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "영재아의정의 스텐버그의 핵심 개념을 설명하시오.",
+    "modelAnswer": "분석적우수성,종합적우수성,실제적우수성",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "가드너와해치의 개념을 설명하시오.",
+    "modelAnswer": "언어,논리-수학,공간,음악,신체운동,인간관계,개인내적지능,자연친화의여덟가지유형의지능",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "탄넨바움[21]에 대해 설명하시오.",
+    "modelAnswer": "일반적인능력(평균보다높은지능),특별한적성,기회나행운,환경적지원,비인지적요인",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "영재교육대상의선정(5조)의 특징을 서술하시오.",
+    "modelAnswer": "일반지능,특수학문적성,창의적사고능력,예술적재능,신체적재능,그밖의특별한재능",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "영재아교수방법[17]의 주요 내용을 기술하시오.",
+    "modelAnswer": "속진,심화프로그램,특별한소집단구성,문제중심학습,창의성개발",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "발달의비동시성[05,09,21]의 핵심 개념을 설명하시오.",
+    "modelAnswer": "인지적발달이매우빠른반면에신체적,정의적발달은또래와비슷함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "과흥분성의5가지영역[21]의 개념을 설명하시오.",
+    "modelAnswer": "정신운동적과흥분성,감각적과흥분성,지적인과흥분성,상상적과흥분성,정서적과흥분성",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "미성취영재아[09,10]에 대해 설명하시오.",
+    "modelAnswer": "능력을발휘하지못하는영재아로예상되는성취와실제성취간심각한차이를보이는영재아",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "및상담[13]의 특징을 서술하시오.",
+    "modelAnswer": "부모의심리적어려움해소를위한방법제공(다른영재아부모들과대화,전문가의도움을받을것)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 10,
+    "pageRef": "1-8 마인드맵_상담이론과 실제"
+  },
+  {
+    "content": "사례연구의 개념을 설명하시오.",
+    "modelAnswer": "개인에대한심층적연구",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "성격연구방법[08] 상관연구에 대해 설명하시오.",
+    "modelAnswer": "상관분석을통해변인들간에존재하는관계조사",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "실험연구의 특징을 서술하시오.",
+    "modelAnswer": "변인들간의인과관계를확립하기위해관심있는변인을통제하여다른변인에미치는영향을밝혀내는연구방법",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "생활기록자료(L-data)의 주요 내용을 기술하시오.",
+    "modelAnswer": "개인의전기와생활기록으로부터얻어질수있는정보",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "관찰자자료(O-data)의 핵심 개념을 설명하시오.",
+    "modelAnswer": "부모,교사,친구와같은관찰자에의해서제공된정보",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "검사자료(T-data)의 개념을 설명하시오.",
+    "modelAnswer": "실험이나표준화된검사로부터얻어진정보",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "자기보고자료(S-data)에 대해 설명하시오.",
+    "modelAnswer": "피험자자신이제공하는정보",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "구조화-비구조화의 특징을 서술하시오.",
+    "modelAnswer": "피검자가자유롭고개인적인반응을할수있도록허용하는가",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "위장-비위장의 주요 내용을 기술하시오.",
+    "modelAnswer": "피검자가자신의반응이어떻게해석될지의식하는정도",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "자발성-객관성의 핵심 개념을 설명하시오.",
+    "modelAnswer": "피검자가선호나선택을표현하는가혹은정답을하도록요구하는가",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "정신의구조의 개념을 설명하시오.",
+    "modelAnswer": "의식,개인무의식,집단무의식[07]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "주요개념 정신에너지의원리에 대해 설명하시오.",
+    "modelAnswer": "대립원리,등가원리,균형원리",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "원형[10]의 특징을 서술하시오.",
+    "modelAnswer": "페르소나[10],아니마•아니무스[07],그림자[05],자기[19]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "루시아의전문상담교사 성격심리학의 주요 내용을 기술하시오.",
+    "modelAnswer": "개요 인류역사를통해발달해온정신과개인이속한문화적영향을바탕으로형성된타고난정신적소인의중요성을강조\n심리유형론(의식과성격)[10,12,15,23,24,25]:태도(외향성-내향성),기능(사고-감정,감각-직관)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "콤플렉스의 핵심 개념을 설명하시오.",
+    "modelAnswer": "감정적으로강조된심리적내용으로개인무의식의정서,기억,지각,욕구의핵심패턴(관념복합체)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "융의분석심리학의 개념을 설명하시오.",
+    "modelAnswer": "성격발달 자기를실현하는과정,개성화과정[19],분화와통합을통해자기가발달하는과정(인생후반에자기의방향이내부로향하여자아와통합됨)[10,13]\n성격평가방법 단어연상검사,증상분석,사례사,꿈분석[25],적극적상상[25],전이와역전이분석\n상담과정[12] 고백단계→명료화단계[05]→교육단계→변형단계",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "기본적불안에 대해 설명하시오.",
+    "modelAnswer": "신경증의토대가되는것으로개인이맺는관계의불안전감에서비롯된것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "(기본적불안에대한)자아보호기제의 특징을 서술하시오.",
+    "modelAnswer": "애정과사랑확보,복종,힘성취,철회",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "신경증욕구의 주요 내용을 기술하시오.",
+    "modelAnswer": "개인이안전을얻기위해기본적불안을처리하는데사용하는방어적태도(10가지)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "신경증경향성의 개념을 설명하시오.",
+    "modelAnswer": "신경증욕구에따라강박적으로나타나는태도와행동(순응형성격,공격형성격,고립형성격)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "신경증적성격이론 자아의구분에 대해 설명하시오.",
+    "modelAnswer": "주관적현실자아,객관적실제자아,이상적자아",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "여성심리학의 특징을 서술하시오.",
+    "modelAnswer": "자궁선망,여성의열등감은습득된것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "호나이의의 주요 내용을 기술하시오.",
+    "modelAnswer": "성격발달 아동기때발달되는적개심의억압이지속적인영향을미침(적개심억압이유:무기력,두려움,사랑,죄의식)[13]\n상담목표 내담자의주관적현실자아를자유롭게하여,내담자가수용할수있는방법들을찾는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "개요 성격형성에영향의 핵심 개념을 설명하시오.",
+    "modelAnswer": "사회적•문화적요인,경험의중요성,인생초기의대인관계패턴[13]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "성격의본질의 개념을 설명하시오.",
+    "modelAnswer": "생리적욕구-만족성취,사회적불안전-안전성취(두욕구에서야기되는긴장에의해결정,긴장을감소시키는것이행동의일차적목적)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "불안에 대해 설명하시오.",
+    "modelAnswer": "대인관계에서비롯되며경고신호와같은역할[13,14]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "자아체계의 특징을 서술하시오.",
+    "modelAnswer": "불안으로부터자신을보호하고정서적안전감을얻기위해사용하는안전작동기제",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "역동성의 주요 내용을 기술하시오.",
+    "modelAnswer": "개인의대인관계와정서적기능을특징짓는비교적지속되는에너지변형의패턴",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "설리반의 성격의양상 자아상형성의 개념을 설명하시오.",
+    "modelAnswer": "자아에대한상을형성하는것(불안영향:좋은나,나쁜나,나아닌나)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "대인관계이론[11]에 대해 설명하시오.",
+    "modelAnswer": "개인이다른사람들과관계하는인지혹은사고수준을세가지경험양식으로구분",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "성격의방어의 특징을 서술하시오.",
+    "modelAnswer": "불안으로부터성격을방어하는세가지방식(해리[13],병렬적왜곡[15],승화)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "대인관계원형모델 리어리가제시의 주요 내용을 기술하시오.",
+    "modelAnswer": "우호-냉담의‘친애’차원과지배-순종의‘통제’차원이라는두축을기준으로대인관계행동을순서있게배열[18]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "경험양식의 핵심 개념을 설명하시오.",
+    "modelAnswer": "원형적경험,병렬적경험,통합적경험[13]\n성격발달[10,15,25] 유아기→아동기→소년기→청소년전기→청소년중기→청소년후기→성인기(자기의진화,대인관계에의해일생에걸쳐형성됨)\n성격평가방법 꿈분석,면담(개시단계→정찰단계→정밀탐색단계→종결단계)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "성격의원리의 개념을 설명하시오.",
+    "modelAnswer": "뇌에근거를둠,유기체의욕구로유도된긴장감소와관련,시간에따른종단적본질,변화하고발달함,유사성과독특성을내포함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "프로이트와의차이점의 특징을 서술하시오.",
+    "modelAnswer": "머레이의원초아는사회에서용인되고바람직한충동도포함됨",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "성격의구분 초자아의 핵심 개념을 설명하시오.",
+    "modelAnswer": "성격의합리적지배자이며,모든행동의의식적조직자",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "욕구에 대해 설명하시오.",
+    "modelAnswer": "적절한방향으로행동활성화(행동의동기와방향),욕구충족으로긴장감소,20가지욕구목록제시",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "욕구 욕구의유형의 특징을 서술하시오.",
+    "modelAnswer": "일차적욕구•이차적욕구,반응적욕구•발생적욕구,외현적욕구•내현적욕구,결과적욕구•형태적욕구",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "욕구의특성의 주요 내용을 기술하시오.",
+    "modelAnswer": "욕구의우세성,욕구의융합,보조,갈등",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "압력의 핵심 개념을 설명하시오.",
+    "modelAnswer": "인간행동에영향을미치는외부환경(객관적으로지각된α압력과주관적으로지각된β압력으로구분)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "주제의 개념을 설명하시오.",
+    "modelAnswer": "개인적요인인욕구와개인의행동에요구하고강요하는환경적요인인압력을결합시키는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "동기에 대해 설명하시오.",
+    "modelAnswer": "욕구와행동사이를매개하는심리적인상태로,내재해있는욕구가특정한행동에한단계더가깝게다가가구체화된심리적상태[18]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "기능의 특징을 서술하시오.",
+    "modelAnswer": "목표지향적행동을유발•지속•조절",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "도피기제의 핵심 개념을 설명하시오.",
+    "modelAnswer": "자유의부정적인측면으로부터도피하기위해그리고잃어버린안전을되찾기위해사용하는정신적기제(권위주의,파괴성,자동적동조)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "프롬의성격유형에 대해 설명하시오.",
+    "modelAnswer": "생산성격유형:생산지향",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "비생산성격유형의 특징을 서술하시오.",
+    "modelAnswer": "수용지향,착취지향,저장지향,시장지향",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "생산대비생산성격유형의 주요 내용을 기술하시오.",
+    "modelAnswer": "주요개념[10] 성격유형 삶지향대죽음지향",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "기본적욕구의 핵심 개념을 설명하시오.",
+    "modelAnswer": "관계성,초월,소속감,정체감,지향틀,흥분과자극",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "사랑의4요소의 개념을 설명하시오.",
+    "modelAnswer": "보호,책임,존경,이해(스텐버그3요소:열정,친밀감,책임감)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-1 마인드맵_성격심리학"
+  },
+  {
+    "content": "자아심리학의 개념을 설명하시오.",
+    "modelAnswer": "자아의자율적기능과자아형성의역사적환경강조,전생애발달과단계별위기(전환점)경험[21]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "에릭슨의 점성의원리에 대해 설명하시오.",
+    "modelAnswer": "발달은타고난기본계획을바탕으로적절한시기에형성,앞단계의발달에의해예측가능",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "루시아의전문상담교사 성격심리학의 특징을 서술하시오.",
+    "modelAnswer": "개요 성격발달에서심리사회적측면을강조,자아강조,성격형성은미래도중요하며,평생을통해발달함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "심리사회적발달단계의 주요 내용을 기술하시오.",
+    "modelAnswer": "신뢰감대불신감→자율성대수치심→주도성대죄책감→근면성대열등감→자아정체감대역할혼돈→친밀감대고립감→",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "심리사회적 주요개념의 핵심 개념을 설명하시오.",
+    "modelAnswer": "발달이론 생산성대침체감→자아통합대절망감[05,09]\n시간조망대시간혼돈→자아확신대무감각→역할실험대부정적정체감→성취기대대과업마비→자아정체감대역할혼미→성정체성대양성적\n혼미→지도성의극대화대권위혼미→관념의극대화대이상의혼미\n성격평가방법 자유연상,꿈분석(현재몽,정체감유지),전이,심리역사적분석,자아정체감검사등",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "성격의정의의 개념을 설명하시오.",
+    "modelAnswer": "성격은개인의특유한행동과사고를결정하는심리신체적체계인개인내의역동적조직",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "성격의원리에 대해 설명하시오.",
+    "modelAnswer": "동기원리,학습원리,현재성원리,독특성원리,자아원리,연속성-비연속성원리,특질원리",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "특질의 특징을 서술하시오.",
+    "modelAnswer": "다양한종류의자극에같거나유사한방식으로반응할경향혹은사전성향[10,12]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "개인적성향(개인특질)의 주요 내용을 기술하시오.",
+    "modelAnswer": "주특질,중심특질,이차적특질",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "고유자아기능자율성(고유자아조직화과정의세가지원리의 핵심 개념을 설명하시오.",
+    "modelAnswer": "에너지수준조직화,숙달과능력,고유자아패턴화)[11]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "편견된성격을가진사람들이공통적으로가지고있는일곱가지특질의 개념을 설명하시오.",
+    "modelAnswer": "부모에대한양가성,도덕주의,이분주의,명확성을위한요구,외재화,관습화,권위주의",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "성격발달 고유자아의발달단계[11]에 대해 설명하시오.",
+    "modelAnswer": "신체적자아→자아정체감→자아존중감→자아확장→자아상→합리적적응체로서자아→고유자아추구",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "11가지기술의 특징을 서술하시오.",
+    "modelAnswer": "체질적·생리적인진단,사회문화적환경·구성원의식·역할,개인적자료와사례연구,자기평가,행동표본,등급평가,검사와척도,투사기법,",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "가치연구질문지의 주요 내용을 기술하시오.",
+    "modelAnswer": "(6가지가치영역)이론적가치,경제적가치,심미적가치,사회적가치,정치적가치,종교적가치",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "성격의수학적공식의 개념을 설명하시오.",
+    "modelAnswer": "개인의행동R=(성격P,상황S)⇒개인의행동반응이그의성격과주어진상황에의해결정되는함수관계에있다.",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "주요개념 특질에 대해 설명하시오.",
+    "modelAnswer": "개인이갖는상당히지속적인반응경향성(성격구조의기본단위형성,예언,상상적구성개념)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "특질이론의 주요 내용을 기술하시오.",
+    "modelAnswer": "특질의유형 능력특질대기질특질대역동적특질(에르그,감정,태도로구성/역동적격자)\n표면특질대원천특질(체질특질,환경조형특질)[21]\n성격발달 유아기→아동기→청소년기→성인기→성인후기→노년기\n성격평가방법 생활기록법(L-data),질문지법(Q-data),검사법(T-data),16PF검사[10]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "아이젱크의 성격의위계모델의 핵심 개념을 설명하시오.",
+    "modelAnswer": "기저수준(관찰가능),제2수준(습관적반응),제3수준(보편적특질),제4수준(보편적차원)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "[11] 성격유형(ENP모델)[05,08]의 개념을 설명하시오.",
+    "modelAnswer": "내향성/외향성(E),안정성/신경증(N),충동통제/정신증(P)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "생물학적유형론에 대해 설명하시오.",
+    "modelAnswer": "개인의행동과정서에기초가되는동기를행동활성화체계와행동억제체계로설명하며불안과충동성강조[14]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "신경체계의 특징을 서술하시오.",
+    "modelAnswer": "행동활성화체계(충동성,BAS),행동억제체계(불안,BIS),싸움-도피체계(FFS)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "클로닝거의 기질및성격이론의 주요 내용을 기술하시오.",
+    "modelAnswer": "4차원기질모델에성격차원을찾아내어기질및성격모델로발전",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "인성이론 기질및성격차원(TCI척도)[24]의 핵심 개념을 설명하시오.",
+    "modelAnswer": "기질(자극추구,위험회피,사회적민감성,인내력)[26],성격(자율성,연대감,자기초월)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "성격의5요인모델(OCEAN)의 개념을 설명하시오.",
+    "modelAnswer": "신경증,외향성,개방성,우호성,성실성[06,16,23,25]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "주커만의대안적모델(5요인)에 대해 설명하시오.",
+    "modelAnswer": "신경증-불안,사교성,충동적감각추구,활동성,공격성-적대성",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "성격의6요인모델(HEXACO)의 특징을 서술하시오.",
+    "modelAnswer": "정직-겸손,정서성,외향성,우호성,성실성,경험개방성(검은삼인조:반사회성/정신병질,권모술수적교활성,자기애)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "상위욕구와 상위욕구의 주요 내용을 기술하시오.",
+    "modelAnswer": "결핍욕구충족후나타남,긴장증가,자아실현목적",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "[07,20] 하위욕구의 개념을 설명하시오.",
+    "modelAnswer": "타인또는환경에의해충족,긴장감소,기본적욕구의결핍으로인한유기체불안을사전에감소시키는것이목적",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "생리적욕구에 대해 설명하시오.",
+    "modelAnswer": "유기체의생존과유지에관련된욕구로가장기본적이고,강력한욕구",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "안전욕구의 특징을 서술하시오.",
+    "modelAnswer": "질서있고,안정적이며,예언할수있는세계에대한유기체의요구",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "소속감과사랑욕구의 주요 내용을 기술하시오.",
+    "modelAnswer": "친밀한관계,친구관계,연인관계를맺기원하며특별한집단에소속되기를바라는욕구",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "존중욕구의 핵심 개념을 설명하시오.",
+    "modelAnswer": "자신으로부터의존중과타인으로부터의존경을필요로하는욕구",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "매슬로우의의 개념을 설명하시오.",
+    "modelAnswer": "인지적(알욕구와이해할욕구)․심미적욕구(미적으로기쁨을느끼는심리적욕구)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "[07] 자아실현욕구에 대해 설명하시오.",
+    "modelAnswer": "자신의모든잠재력과능력을인식하고충족시키는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "자기초월욕구의 특징을 서술하시오.",
+    "modelAnswer": "자기를넘어선의미와정체성을찾으려는욕구,타인을돕고자기외부의무엇과연결되고자하는욕구",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "ERG이론 엘더퍼가제시한3가지욕구의 주요 내용을 기술하시오.",
+    "modelAnswer": "존재욕구,관계욕구,성장욕구",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "자아실현접근의 핵심 개념을 설명하시오.",
+    "modelAnswer": "결핍과성장 결핍심리학•성장심리학,결핍동기•성장동기,결핍인지•성장인지,결핍가치•성장가치•메타병리[05],결핍사랑•성장사랑\n요나콤플렉스 자신의새로운변화를다른사람들이받아들이지못할것이라는두려움때문에개인적성장을회피하는경향\n자기초월적경험 절정경험,절망경험,고원경험\n성격평가방법 사례연구,개인지향검사(POI)[12]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "기대-강화가치모델의공식의 개념을 설명하시오.",
+    "modelAnswer": "행동잠재력(BP)=f[기대(E),강화가치(RV)][07,12]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "성격의기능을설명하는개념[10,21]에 대해 설명하시오.",
+    "modelAnswer": "행동잠재력,기대(단순한인지혹은자극의명명,행동강화결과에대한기대,강화순서에대한기대),강화가치,심리적상황",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "인정/지위욕구의 특징을 서술하시오.",
+    "modelAnswer": "전문적,사회적,직업적혹은여가활동에있어유능하다는평가를받고싶은욕구",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "보호/의존욕구의 주요 내용을 기술하시오.",
+    "modelAnswer": "타인으로하여금좌절혹은처벌을예방하도록하거나자신의욕구만족을위해타인에게의존하는욕구",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "로터의 주요개념 지배욕구의 핵심 개념을 설명하시오.",
+    "modelAnswer": "가족구성원이나친구를포함한다른사람들의행동을이끌고통제하려는욕구",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "독립욕구에 대해 설명하시오.",
+    "modelAnswer": "자신이결정하고자기자신에게의존하고자하는욕구",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "사랑과애정욕구의 특징을 서술하시오.",
+    "modelAnswer": "타인에게수용되고좋아함을받고자하는욕구",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "신체적안락욕구의 주요 내용을 기술하시오.",
+    "modelAnswer": "안전달성과관련있는신체적만족에대한욕구",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "내적통제소재에의존하는사람의 핵심 개념을 설명하시오.",
+    "modelAnswer": "강화가자신의행동과특성의통제하에있다고믿고,그러한신념에따라행동함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "외적통제소재에의존하는사람의 개념을 설명하시오.",
+    "modelAnswer": "강화가타인,운명,운에의해통제된다고믿고,상황을개선하려는노력에가치를부여하지않음",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "통제소재[07]에 대해 설명하시오.",
+    "modelAnswer": "성격평가방법 통제소재척도(I-EScale)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "상호결정론의 특징을 서술하시오.",
+    "modelAnswer": "인간행동은인지,환경,행동요인을수반하는상호결정론에기인함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "자극(S1)의 주요 내용을 기술하시오.",
+    "modelAnswer": "피험자의과거사와경험에서비롯된기대된강화를품고있는자극",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "주의의 핵심 개념을 설명하시오.",
+    "modelAnswer": "자신에게관련된것들에선택적으로주의를기울임",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "자극(S2)에 대해 설명하시오.",
+    "modelAnswer": "피험자가모델을관찰하는본보기자극",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "[13] 인지적과정의 특징을 서술하시오.",
+    "modelAnswer": "상징적부호화,인지적재구조화,인지적연습포함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "반응의 주요 내용을 기술하시오.",
+    "modelAnswer": "인지적과정에따른반응",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "자극(S3)의 핵심 개념을 설명하시오.",
+    "modelAnswer": "반응에따라비롯되는강화하는자극",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "관찰학습의 개념을 설명하시오.",
+    "modelAnswer": "타인을모델로삼아학습하는것[05]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "관찰학습에서모델링에영향을주는세가지요인에 대해 설명하시오.",
+    "modelAnswer": "모델의특성,관찰자의특성,행동과관련된보상결과[12]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "관찰학습에필요한모델유형의 특징을 서술하시오.",
+    "modelAnswer": "살아있는모델,상징적모델,복합적모델(집단경험)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "공격행동과모델링효과(기능)의 주요 내용을 기술하시오.",
+    "modelAnswer": "관찰학습효과,금지효과,탈제지효과,정서및각성기능",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "학습과수행간의차이의 핵심 개념을 설명하시오.",
+    "modelAnswer": "인지적으로수행의결과를기대하기때문[05]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "관찰학습의과정의 개념을 설명하시오.",
+    "modelAnswer": "주의단계→파지단계→재생단계→동기화단계(직접강화,대리강화,자기강화)[19,24]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "정의에 대해 설명하시오.",
+    "modelAnswer": "개인이특별한상황에서자신의행동능력에대한믿음[07,15,19]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "자기효능감의원천의 특징을 서술하시오.",
+    "modelAnswer": "성취경험,대리경험,언어적설득,정서적각성[09,12,15]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "자기조절과정의 핵심 개념을 설명하시오.",
+    "modelAnswer": "자기관찰(자기수행),자기판단,자기반응",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-2 마인드맵_성격심리학 2"
+  },
+  {
+    "content": "개인구성개념의 개념을 설명하시오.",
+    "modelAnswer": "사건을해석하고예언하는데사용하는인지적구조[08]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "주요개념 구성개념적대안주의에 대해 설명하시오.",
+    "modelAnswer": "어떤상황에적응하기위해대안적인구성개념을갖는인간의적응성",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "11가지추론[10]의 특징을 서술하시오.",
+    "modelAnswer": "구성개념추론,개별성추론,조직화추론,이분법추론,선택추론,범위추론,경험추론,조절추론,분열추론,공통성추론,사회성추론",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "루시아의전문상담교사 성격심리학의 주요 내용을 기술하시오.",
+    "modelAnswer": "개요 개인이자신의환경에대한인지적구성개념을창조하여그러한구성개념에의해사건을예견하고해석함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "개인구성개념이론의 핵심 개념을 설명하시오.",
+    "modelAnswer": "성격평가방법 역할구성개념목록검사(Reptest)-일람형,격자형[15]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "불안의 개념을 설명하시오.",
+    "modelAnswer": "자신의구성개념체계의편의범위밖에있는사건들을직면한것에대한인식",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "불안,공포,위협 공포에 대해 설명하시오.",
+    "modelAnswer": "새로운구성개념이구성개념체계로막들어오려고할때느끼는경험",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "위협의 특징을 서술하시오.",
+    "modelAnswer": "당장자신의핵심구조의포괄적인변화가일어나려고하는것에대한인식",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "[11,12,13]의 주요 내용을 기술하시오.",
+    "modelAnswer": "치료기법 고정역할치료(자기성격묘사→고정역할묘사→고정역할시연)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "실제적자기의 핵심 개념을 설명하시오.",
+    "modelAnswer": "자신이실제로소유하고있다고믿는속성들",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "3가지자기 이상적자기의 개념을 설명하시오.",
+    "modelAnswer": "이상적으로보유하고싶어하는속성들",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "당위적자기에 대해 설명하시오.",
+    "modelAnswer": "보유해야한다고느끼는속성들(의무,책임)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "히긴스의 실제적자기와이상적자기의불일치의 특징을 서술하시오.",
+    "modelAnswer": "실망과불만(우울,낙담,슬픔,불만족)[24]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "실제적자기와당위적자기의불일치의 핵심 개념을 설명하시오.",
+    "modelAnswer": "죄책감과경멸(동요,불안)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "수반되는감정의 특징을 서술하시오.",
+    "modelAnswer": "실제적자기와이상적자기간의불일치를다루기위해 과거의새로운사상들에대한부정적인해석을재평가",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "불일치대응전략의 주요 내용을 기술하시오.",
+    "modelAnswer": "불일치를없애기위해중요한기준에맞춰실제행동을변화시킴\n자기안내 자신이만든기준,즉개인이도달해야할기준[24]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "4가지기본요인의 핵심 개념을 설명하시오.",
+    "modelAnswer": "추동,단서,반응,보상",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "좌절-공격성이론의 개념을 설명하시오.",
+    "modelAnswer": "‘좌절은항상공격성을유발하며,공격성은항상좌절의결과’라는가설제시[13]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "접근-회피갈등(신경증의원인)의 특징을 서술하시오.",
+    "modelAnswer": "긍정적인동기와부정적인동기가상충될경우에나타나는갈등[14]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "접근-접근갈등의 주요 내용을 기술하시오.",
+    "modelAnswer": "두개의긍정적대상사이의갈등",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "회피-회피갈등의 핵심 개념을 설명하시오.",
+    "modelAnswer": "두개의부정적대상사이의갈등",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "이중접근-회피(이중회피)갈등의 개념을 설명하시오.",
+    "modelAnswer": "두가지선택이긍정적인측면과부정적인측면을모두가진경우의갈등",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "동일행동에 대해 설명하시오.",
+    "modelAnswer": "두사람이상이같은장면에서같은식으로반응하는것과같은동일한행동",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "맞춤의존행동의 특징을 서술하시오.",
+    "modelAnswer": "타인이강화받은행동을맹목적으로따라하는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "모사행동의 주요 내용을 기술하시오.",
+    "modelAnswer": "다른사람의행동을본따서자신의행동방법을학습하는것(피드백과지도)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "일반화된의 핵심 개념을 설명하시오.",
+    "modelAnswer": "모방은습관되며,이렇게모방하여학습된경향성을의미함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "경로단계에 대해 설명하시오.",
+    "modelAnswer": "현재내적상태(정서,각성,인지)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "결과단계의 특징을 서술하시오.",
+    "modelAnswer": "평가및의사결정⇒행동선택",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "정화가설(프로이트)의 주요 내용을 기술하시오.",
+    "modelAnswer": "공격적에너지는궁극적으로공격적행동이나공격적인스포츠등을통해방출되어야한다.",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "사회학습이론(반두라)의 핵심 개념을 설명하시오.",
+    "modelAnswer": "공격행동은다른사람의공격성을관찰하여학습한결과이다.",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "좌절-공격성이론(달라드와밀러)의 개념을 설명하시오.",
+    "modelAnswer": "‘좌절은항상공격성을유발하며,공격성은항상좌절의결과’라는가설을제시하였다.",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "유발단서이론(베르코비츠)에 대해 설명하시오.",
+    "modelAnswer": "주변에공격행동과관련된자극들(총,칼등)이있을경우에는그런것들이없을경우보다공격행동이일어날가능성이높다.",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "인지적신연합이론(베르코비츠)의 특징을 서술하시오.",
+    "modelAnswer": "좌절이부정적정서경험을가져오지만반드시공격을야기하는것은아니며,고차적인지과정이중요하다.",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "흥분전이가설(질만)의 주요 내용을 기술하시오.",
+    "modelAnswer": "이전상황으로인한흥분이현상황에더해져서,현상황에서보일수있는공격성보다훨씬더강한공격성을보일수있다.",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "정의의 핵심 개념을 설명하시오.",
+    "modelAnswer": "산업현장에서직무를수행하는데필요한능력(지식,기술,태도)을국가가표준화한것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "직업기초능력[20]의 개념을 설명하시오.",
+    "modelAnswer": "의사소통능력,수리능력,문제해결능력,자기개발능력,자원관리능력,대인관계능력,정보능력,기술능력,조직이해능력,직업윤리",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "루시아의전문상담교사 진로상담에 대해 설명하시오.",
+    "modelAnswer": "인간은저마다다른특성을지니고있고,모든직업은직업의특성들간의특정한조합을필요로함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "파슨스의 특징을 서술하시오.",
+    "modelAnswer": "개인분석,직업분석,과학적조언을통한매칭주장",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "크리츠의진단체계 결정성(우유부단문제)의 핵심 개념을 설명하시오.",
+    "modelAnswer": "우유부단형[08],다재다능형",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "현실성(비현실성문제)의 개념을 설명하시오.",
+    "modelAnswer": "비현실형,강압형,불충족형",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "기본가정에 대해 설명하시오.",
+    "modelAnswer": "윌리암슨변별진단 진로무선택,불확실한선택,현명하지못한선택,흥미와적성간의모순",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "특성-요인이론의3단계진로상담과정의 특징을 서술하시오.",
+    "modelAnswer": "초기면담→검사의실시와해석→직업정보제공",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "윌리엄슨의6단계진로상담과정[08]의 주요 내용을 기술하시오.",
+    "modelAnswer": "분석→종합→진단→예측(처방)→상담→추수지도",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "특성-요인이론의상담기술의 핵심 개념을 설명하시오.",
+    "modelAnswer": "촉진적관계형성,자기이해의신장,행동계획의권고와설계,계획의수행,위임또는의뢰",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "특성-요인이론의검사해석단계의 개념을 설명하시오.",
+    "modelAnswer": "설명,설득,직접충고",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "직업정보가갖는기능(브레이필드)[22]에 대해 설명하시오.",
+    "modelAnswer": "정보제공기능,재조정기능,동기화기능",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "직업정보를제시하는목적(베어와로버)의 특징을 서술하시오.",
+    "modelAnswer": "탐색,확신,평가,놀람",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "인간지향적인직업의 핵심 개념을 설명하시오.",
+    "modelAnswer": "서비스직,비즈니스직,단체직,문화직,예능직",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "비인간지향적인직업에 대해 설명하시오.",
+    "modelAnswer": "기술직,옥외활동직,과학직",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "8가지직업군의 특징을 서술하시오.",
+    "modelAnswer": "책무성에따른분류 고급전문관리,중급전문관리,준전문관리,숙련직,반숙력직,비숙련직",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "정서집중형의 핵심 개념을 설명하시오.",
+    "modelAnswer": "과보호형,요구과잉형",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "따뜻한부모-자녀의관계에서성장한사람[24]에 대해 설명하시오.",
+    "modelAnswer": "인간지향적인성격형성,사람들과의접촉을통해욕구충족,인간지향적인직업선택",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "차가운부모-자녀관계에서성장한사람[12]의 특징을 서술하시오.",
+    "modelAnswer": "공격적이고방어적인성격형성,문제발생시수단을통해서해결,비인간지향적인직업선택",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "작업지향성가설의 주요 내용을 기술하시오.",
+    "modelAnswer": "상담과정 평가하기⇒정보수집⇒탐색적면담⇒활동계획구축",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "실재형(현실형)의 핵심 개념을 설명하시오.",
+    "modelAnswer": "기계,도구,동물에관한체계적인조작활동을좋아함(대표직업:기술자)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "탐구형의 개념을 설명하시오.",
+    "modelAnswer": "분석적이고탐구심과호기심이많음(대표직업:과학자)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "예술형에 대해 설명하시오.",
+    "modelAnswer": "표현이풍부하고독창적이며비순응적임(대표직업:음악가,미술가)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "사회형의 주요 내용을 기술하시오.",
+    "modelAnswer": "다른사람과함께일하거나돕는것을좋아함(대표직업:사회복지사,교육자,상담사)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "기업형의 핵심 개념을 설명하시오.",
+    "modelAnswer": "조직목표나경제적목표를달성하기위해타인을조작하는활동을즐겨함(대표직업:기업경영인,정치인)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "관습형의 개념을 설명하시오.",
+    "modelAnswer": "자료를체계적으로처리하며,기록정리,자료재생산하는것을좋아함(대표직업:사서,회계사)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "[10,11,13] 일관성에 대해 설명하시오.",
+    "modelAnswer": "성격유형과환경모형간의관련정도를의미하는것으로육각형모형상의두유형간근접성에따라설명됨",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "변별성의 특징을 서술하시오.",
+    "modelAnswer": "사람이나환경이얼마나잘구별되는지에관한것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "정체성의 주요 내용을 기술하시오.",
+    "modelAnswer": "자신에게갖는정체성또는환경에대해갖는정체성이얼마나분명하고안정되어있는가에관한것[15]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "일치성의 핵심 개념을 설명하시오.",
+    "modelAnswer": "개인과직업환경간의적합성정도에대한것으로,사람의직업적흥미가직업환경과어느정도맞는지를의미함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "계측성의 개념을 설명하시오.",
+    "modelAnswer": "육각형모형에서의흥미유형또는환경유형간의거리는그들의이론적관계와반비례한다는것을시사함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "1차진로코드에 대해 설명하시오.",
+    "modelAnswer": "RIASEC의가장높은코드점수와두번째로높은코드점수를순서대로기록한것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "1순위,2순위의점수차이가10점미만일경우의 특징을 서술하시오.",
+    "modelAnswer": "1순위와2순위코드의차례를바꾸어놓은것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "1순위,2순위의점수차이가10점이상일경우의 주요 내용을 기술하시오.",
+    "modelAnswer": "1순위와3순위코드를순서대로결합한것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "1순위,3순위의점수차이가10점미만일경우의 핵심 개념을 설명하시오.",
+    "modelAnswer": "1순위와3순위코드의차례를바꾸어놓은것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "1순위,3순위의점수차이가10점이상일경우의 개념을 설명하시오.",
+    "modelAnswer": "3차진로코드는정하지않는것이좋음",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "직업적응에 대해 설명하시오.",
+    "modelAnswer": "개인이직업환경과조화를이루어만족하고유지하도록노력하는계속적이고역동적인과정",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "직업적응 만족의 특징을 서술하시오.",
+    "modelAnswer": "직업환경이개인의욕구를얼마나채워주고있는지에대한개인의평가",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "충족의 주요 내용을 기술하시오.",
+    "modelAnswer": "직업에서요구하는과제와이를수행할수있는개인의능력과관련된개념",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "유연성의 핵심 개념을 설명하시오.",
+    "modelAnswer": "개인이작업환경과개인적환경간의부조화를참아내는정도",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "적극성의 개념을 설명하시오.",
+    "modelAnswer": "작업환경을조화롭게만들어가려고노력하는정도(환경변화)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "반응성의 특징을 서술하시오.",
+    "modelAnswer": "작업환경이변화할때개인이이에반응(적응)하는능력(직업성격변화)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "직업적응이론 인내(끈기)의 주요 내용을 기술하시오.",
+    "modelAnswer": "환경이자신에게맞지않아도개인이얼마나오랫동안견뎌낼수있는가하는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "민첩성(신속성)의 핵심 개념을 설명하시오.",
+    "modelAnswer": "정확성보다속도중시,작업행동을얼마나빨리시작하는지를나타내는속도",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "역량(속도)의 개념을 설명하시오.",
+    "modelAnswer": "작업자의평균활동수준(높은수준의속도:바쁘게움직이는것,작업활동에계속해서개입하는것)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "리듬(규칙성)에 대해 설명하시오.",
+    "modelAnswer": "활동의다양성또는규칙성,작업에투여한노력의특징적인패턴",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "지속성(지구력)의 특징을 서술하시오.",
+    "modelAnswer": "다양한활동수준의기간,환경과상호작용하는시간",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "성취의 주요 내용을 기술하시오.",
+    "modelAnswer": "수행을고무시키는환경",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "편안함의 핵심 개념을 설명하시오.",
+    "modelAnswer": "긴장하지않으며안전하고보상적환경[25]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "이타심에 대해 설명하시오.",
+    "modelAnswer": "타인과조화를이루며봉사하는자세",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "안전의 특징을 서술하시오.",
+    "modelAnswer": "예측가능하고안정적인환경",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "자율성의 주요 내용을 기술하시오.",
+    "modelAnswer": "창조성,책임감중시[22]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "가정의 핵심 개념을 설명하시오.",
+    "modelAnswer": "가정의경제적지위,부모의직업과수입•교육정도,주거지역,가정의가치관,가정에대한개인의태도등",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "학교의 개념을 설명하시오.",
+    "modelAnswer": "교사의관계,동료와의관계,교사의영향,동료의영향,학교의가치등",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "사회학적이론 지역사회의 특징을 서술하시오.",
+    "modelAnswer": "지역사회에서주로하는일,지역사회의목적및가치관,지역사회의경제조건과기술변화등",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "준비단계의 핵심 개념을 설명하시오.",
+    "modelAnswer": "일에대한방향이서는단계",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "시작단계의 개념을 설명하시오.",
+    "modelAnswer": "시간제일의경험과형식교육을포함하는단계",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "직업생애단계 시행단계에 대해 설명하시오.",
+    "modelAnswer": "취업을하고만족스러운직업을찾을때까지몇차례변화를시도하는단계",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "안정단계의 특징을 서술하시오.",
+    "modelAnswer": "직업세계와지역사회에서안정을확립하는단계",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "은퇴단계의 주요 내용을 기술하시오.",
+    "modelAnswer": "일에서물러나다른활동을추구하는단계",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "결정의 핵심 개념을 설명하시오.",
+    "modelAnswer": "확신의정도가높은상태",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "의사결정수준에 결정하지못한사람의 개념을 설명하시오.",
+    "modelAnswer": "정보부족으로인한발달적미결정",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "우유부단한특성의 특징을 서술하시오.",
+    "modelAnswer": "일반적인결정상황에서결정을회피하려는성격특성",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "동기를가진미결정자집단의 주요 내용을 기술하시오.",
+    "modelAnswer": "미결정상태를불편하게여기고결정에이르고싶어하는사람",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "편안한미결정자집단의 핵심 개념을 설명하시오.",
+    "modelAnswer": "미결정상태를변화시키고자하는의지를가지지않은사람",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "직업적자아개념의 개념을 설명하시오.",
+    "modelAnswer": "개인이그자신에게귀인시키는직업적으로관련된태도와특성",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "합리적유형에 대해 설명하시오.",
+    "modelAnswer": "자신과상황에대한정확한정보를수집하고,신중하고논리적으로의사결정수행(책임:자신)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "[08,12,13, 직관적유형의 특징을 서술하시오.",
+    "modelAnswer": "의사결정의기초로상상을사용하고,현재의감정에주의를기울이며,정서적자각을사용(책임:자신)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "의존적유형의 주요 내용을 기술하시오.",
+    "modelAnswer": "의사결정과정에서타인의영향을많이받고수동적이고순종적이며사회적인인정에대한욕구가높은유형(책임회피)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "인식단계의 핵심 개념을 설명하시오.",
+    "modelAnswer": "개인이심리적불안을느끼고어떤결정을해야할필요를인식하는단계(분화가일어나기시작)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "계획단계의 개념을 설명하시오.",
+    "modelAnswer": "여러가지대안을탐색하고그것들을가치의우선순위와관련지으며교체,확장,제한하는과정",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "확신단계에 대해 설명하시오.",
+    "modelAnswer": "자신의선택에대해깊이탐색하고다각도로검토하여선택의장단점을명료화하는단계",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "이행단계의 특징을 서술하시오.",
+    "modelAnswer": "사회적인정에대한욕구와자신이선택한가치사이에조화와균형을추구하며자신의선택에적응하는단계",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "의사결정단계의 주요 내용을 기술하시오.",
+    "modelAnswer": "스콧과브루스 합리적유형,직관적유형,의존적유형,즉흥적유형",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 18,
+    "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
+  },
+  {
+    "content": "지식영역의 개념을 설명하시오.",
+    "modelAnswer": "자기지식영역,직업지식영역",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "실천과정영역(초인지영역)의 특징을 서술하시오.",
+    "modelAnswer": "자기대화,자기인식,모니터링과통제",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "⑴의사소통(Communication)의 주요 내용을 기술하시오.",
+    "modelAnswer": "진로의사결정의필요성을인식하는단계",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "⑵분석(Analysis)의 핵심 개념을 설명하시오.",
+    "modelAnswer": "진로결정을위한자신과직업에대한이해를하는단계(문제를찾아분류,가치확인)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "루시아의전문상담교사 진로상담의 개념을 설명하시오.",
+    "modelAnswer": "개요 인지적정보처리이론에기초한것으로진로이론을개발하는데있어서인지적처리과정이중요하다는것을반영함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "⑷가치부여/평가(Valuing)에 대해 설명하시오.",
+    "modelAnswer": "3~4개의직업의구체적평가,대안의우선순위선정",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "⑸집행/실행(Execution)의 특징을 서술하시오.",
+    "modelAnswer": "가치부여단계에서결정한우선순위에따라준비,전략세워문제해결",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "정보처리이론[09]의 주요 내용을 기술하시오.",
+    "modelAnswer": "CASVE과정[11,17] ⑶통합/종합/합성(Synthesis):적합한직업대안선택.정교화→구체화(3-4개정도로직업대안축소)\n7단계상담과정 접수면접→초기사정→문제정의와원인분석→목표설정→개별적학습계획개발→개별학습계획실행→종합적검토및일반화\n인지적정보처리이론과인지치료를이론적근거로하여부정적인인지를측정함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "척도구성의 핵심 개념을 설명하시오.",
+    "modelAnswer": "의사결정혼란(CASVE),수행불안(CASVE),외적갈등(CASVE)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "의존성에 대해 설명하시오.",
+    "modelAnswer": "내담자가문제해결이나의사결정을위한적극적인노력을못하도록방해하는의존성으로인해갈등하는경우",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "정보의부족의 특징을 서술하시오.",
+    "modelAnswer": "체험의폭제한,체험의부적절성,필요한기술을습득할기회의부족[22]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "내적갈등(자아갈등)의 주요 내용을 기술하시오.",
+    "modelAnswer": "내부의심리적요소간의갈등이나자아개념과환경자극간의차이에서비롯됨",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "개요의 핵심 개념을 설명하시오.",
+    "modelAnswer": "진로선택에서내담자의욕구와발달과정을강조,심리검사의진단이나평가를중시",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "선택에대한불안의 개념을 설명하시오.",
+    "modelAnswer": "여러가지대안중에결정내리지못하고불안한느낌,자신의선택과사회적요구간의충돌에따른불안[06]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "진로상담이론 확신결여(문제없음)에 대해 설명하시오.",
+    "modelAnswer": "직업적대안선택에도불구하고확신을갖지못하고타인으로부터구하려고하는경우",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "탐색과계약체결의단계의 특징을 서술하시오.",
+    "modelAnswer": "내담자가자신의욕구및정신역동적상태를탐색할수있도록도와주고앞으로의상담전략을합의함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "3단계상담과정 비판적결정의단계의 주요 내용을 기술하시오.",
+    "modelAnswer": "자신의성격적한계를받아들이고그성격에맞게직업을선택하느냐,아니면성격을바꾸어직업을선택하느냐를결정하는단계",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "변화를위한노력의단계의 핵심 개념을 설명하시오.",
+    "modelAnswer": "자신이선택하고자하는직업과관련하여자신의욕구,흥미등에서변화를모색해야함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "명료화의 개념을 설명하시오.",
+    "modelAnswer": "현재의진로문제와관련된내담자의생각과감정을언어로명료하게재인식시켜주는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "상담기법 비교에 대해 설명하시오.",
+    "modelAnswer": "내담자의문제와역동적현상간의유사점과차이점을비교하는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "소망-방어체계의해석의 특징을 서술하시오.",
+    "modelAnswer": "내담자의내적동기상태와진로선택과정간의관계를각성하는데도움을주는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "정의의 핵심 개념을 설명하시오.",
+    "modelAnswer": "자기자신이나직업에대한정보가부족하여진로를선택하는데어려움이있으며그결과불안이형성된유형",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "상담과정에 대해 설명하시오.",
+    "modelAnswer": "조작적조건형성의원리를적용하는것부터시작한다.(불안제거과정생략)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "1단계의 개념을 설명하시오.",
+    "modelAnswer": "자신에대해노출을꺼리므로표면적인사실에대해서만이야기함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "2단계에 대해 설명하시오.",
+    "modelAnswer": "자신의문제가아닌외부사건을언급하며과거경험에대해서만이야기함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "3단계의 특징을 서술하시오.",
+    "modelAnswer": "대화의내용에대해신경을덜쓰게되어감정적으로는이완되지만상담자와진실한접촉은이루어지지않음",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "진로상담이론 4단계의 핵심 개념을 설명하시오.",
+    "modelAnswer": "자신의감정을보다진실하고밀도있게다루지만상담자의도움이없으면제대로표현하지못함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "5단계의 개념을 설명하시오.",
+    "modelAnswer": "현재느끼는감정들을표현하고,자신의경험을노출시키며자기문제에대해책임을가지고해결하고자함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "6단계에 대해 설명하시오.",
+    "modelAnswer": "자신의경험을생생하게표현하여감정이자유로워지며,더이상문제를회피하지않고직면하여문제를해결하려고함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "7단계의 특징을 서술하시오.",
+    "modelAnswer": "자신의경험을주관적으로지각하고감정과조화된내적의사소통을할수있으므로새롭고효율적인존재방식을스스로선택할수있음",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "패터슨의상담과정의 주요 내용을 기술하시오.",
+    "modelAnswer": "상담기법 공감적이해,무조건적수용,일치성(인간중심상담의태도강조)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "진로발달과선택과정에서중요하게포함해야할네가지요소의 개념을 설명하시오.",
+    "modelAnswer": "복잡성,변화,구성주의적시각,우연",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "네가지유인[24]의 개념을 설명하시오.",
+    "modelAnswer": "=>목표유인,진동유인,패턴유인은폐쇄적체제의속성에서나타나며,우연유인은개방적체제의속성에서나타남\n의사결정에있어서불확실한미래에대한긍정적인태도인‘긍정적불확실성’의필요성을역설함(겔라트)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "의사결정가이드라인의세가지요소에 대해 설명하시오.",
+    "modelAnswer": "정보,조정/재조정프로세스,행동의선택",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "부모참여진로탐색의 특징을 서술하시오.",
+    "modelAnswer": "(PICE)[24] 학생과부모모두진로탐색에관심과동기를가지고있을때효과적인보조적상담접근(아먼슨과페너)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "5단계과정의 주요 내용을 기술하시오.",
+    "modelAnswer": "도입(소개)→패턴확인연습→학교공부선호와수행에대한논의→교육과노동시장가능성에대한전망→다음단계계획하기",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "가치중심모형[22]의 개념을 설명하시오.",
+    "modelAnswer": "가치가흥미를유발하며,흥미는행동의표준이아니므로행동의기준이되는가치가행동을일으킴\n개요 소수이거나약자이기에경험하는여러가지현상을고려하여개인의진로발달을증진시키기위한진로상담의틀",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "①협력의 특징을 서술하시오.",
+    "modelAnswer": "내담자와상담자의상담관계를의미함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "진로상담모형의 주요 내용을 기술하시오.",
+    "modelAnswer": "6단계:결정하기\n개요 개인이과거,현재,미래의스트레스와역경에대처하기위해서개인적인성장을이루어나가야한다고설명하는모형",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "②역량의 핵심 개념을 설명하시오.",
+    "modelAnswer": "내담자의강점을찾아이를증진시키는데상담의초점을두어야함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "역량 ③맥락의 개념을 설명하시오.",
+    "modelAnswer": "직업적행동은거시체계,외부체계,중간체계,미시체계가서로혼재되어있는맥락속에서일어나는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "④비평적의식에 대해 설명하시오.",
+    "modelAnswer": "자신의편견과고정관념이어떻게작동하는지,사회적권력과제도적차별이어떻게발휘되고영향을미치는지이해함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "⑤공동체의 특징을 서술하시오.",
+    "modelAnswer": "자신을지지해줄공동체를발견하고그들과함께움직이도록도와야함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "목표의 핵심 개념을 설명하시오.",
+    "modelAnswer": "결정된진로준비,합리적인과정으로결정했는지확인",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "우유부단형 정의의 특징을 서술하시오.",
+    "modelAnswer": "생활전반에걸쳐불안을동반한내담자,문제해결과정에서부적응적인성격을지니고있는내담자",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "[13,24]의 핵심 개념을 설명하시오.",
+    "modelAnswer": "필립스의5가지주제 자기탐색과발견,선택의준비도,의사결정과정,선택과결정,실천",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "구조에 대해 설명하시오.",
+    "modelAnswer": "진로사정,일상적인하루,강점과약점,요약",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "생애진로사정의 특징을 서술하시오.",
+    "modelAnswer": "보웬의가계도를응용하여,3세대에걸친내담자가족이어떠한진로를선택해왔는지,그것이내담자에게어떠한영향을주었는지등을살펴봄[16]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "진로가계도의 핵심 개념을 설명하시오.",
+    "modelAnswer": "내담자들의흥미,욕구,가치,능력,선입견,직업선호등을분류하거나우선순위를매기는비표준화된접근법[09,11,14]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "직업카드분류법에 대해 설명하시오.",
+    "modelAnswer": "과거에진로와관련하여어떻게의사결정을했는지알아보기위해학교선택,시간제일을통한경험,중요한타인들에대해내담자스스로기술하게 함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "의사결정일기의 특징을 서술하시오.",
+    "modelAnswer": "매일어떻게결정을하는가하는현재에초점이맞춰져있으며,일상적인자신의의사결정방식을작성하도록함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "진로자서전쓰기의 주요 내용을 기술하시오.",
+    "modelAnswer": "주관적기대효용 선택에있어개인은다른사람이나사회가아닌자신의행복이나즐거움,만족에대한감정을충족함을뜻하며이를기준으로선택을한다는것[16,23]\n근거없는믿음확인하기 엘리스의ABCDE모델을활용한것으로,진로와관련된근거없는믿음(진로신화)에대해합리적으로생각하게하여진로의사결정과정에활용함\n은유로저항감다루기 시,소설,우화,비유,노래,영화,농담,TV광고등의은유를사용하여저항을줄이고의사결정을도울수있음",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "하렌(Harren)의진로의사결정검사척도(ACDM)의 핵심 개념을 설명하시오.",
+    "modelAnswer": "합리적양식,직관적양식,의존적양식",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "합리적양식의의사결정절차의 개념을 설명하시오.",
+    "modelAnswer": "문제상황을명확히하는단계→대안탐색→기준확인→대안의평가와결정→계획의수립과실행[14]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "진로시간전망 코틀의원형검사에 대해 설명하시오.",
+    "modelAnswer": "과거,현재,미래를나타내는세가지원을그리게하여원의형태와위치로개인의시간전망을살펴보는검사",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "의사결정유형검사의 특징을 서술하시오.",
+    "modelAnswer": "진로성숙도검사(CMI) 존크리티스의진로발달모델에기초한진로성숙정도를측정하는검사(태도척도,능력척도)[13]\n진로신념검사(CBI) 크롬볼츠가개발한것으로,진로결정과정에서개인이사용하는비합리적신념이무엇인지확인하는진단도구[13]\n진로발달검사(CDI) 수퍼가개발한것으로학생들의진로발달과직업또는진로성숙도를측정함\n진로결정검사(CDS) 오시포가개발한것으로미결정에대한원인을진단하여진로의사결정에실패하는것에대한필요한정보를얻음\n진로정체성검사(MVS) 홀랜드와대거파워가개발한것으로직업선택에장애가되는개인적,환경적문제와정보문제를파악함\n스트롱직업흥미검사(SII) 직업의흥미에대해알기위해스트롱이개발한체계적인흥미검사로개인의전체적흥미경향성과직업세계와의관련성을파악함[12,13]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "⑴교육정보의 주요 내용을 기술하시오.",
+    "modelAnswer": "진학을위한자료와학교교육을통한교육활동을모두포괄하는정보",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "진로정보의영역(Norris) ⑵직업정보의 핵심 개념을 설명하시오.",
+    "modelAnswer": "직업의세계에관한자료",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "⑶개인•사회적정보의 개념을 설명하시오.",
+    "modelAnswer": "인간관계에작용하는정보와심리검사결과나학업성적과같은자기이해를위한정보[04,24]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "[09,10]의 특징을 서술하시오.",
+    "modelAnswer": "진로계획과정에서내담자가상호작용이가능한프로그램을사용하여진로를계획하거나학업이나직업에관한의사결정과정에필요한",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "자료를제공하는온라인시스템의 주요 내용을 기술하시오.",
+    "modelAnswer": "청소년직업가치관검사,청소년직업흥미검사,흥미로알아보는직업탐색(Job아드림),진로준비진단검사(찾아Dream),직업흥미탐색검\n워크넷청소년심리검사 사(간편형),초등학생진로인식검사,고등학생적성검사,청소년인성검사,중학생진로발달검사,고등학생진로발달검사,중학생진로적",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "성검사의 핵심 개념을 설명하시오.",
+    "modelAnswer": "커리어넷청소년심리검사[12] 직업적성검사,진로성숙도검사,직업가치관검사,직업흥미검사(K),직업흥미검사(H),진로개발역량검사",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "신경세포체에 대해 설명하시오.",
+    "modelAnswer": "핵과세포질로이루어진세포소기관",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "가지돌기(수상돌기)의 특징을 서술하시오.",
+    "modelAnswer": "메시지를받아들이고신경흥분을세포체쪽으로전도하는뉴런의나뭇가지모양의구조",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "구조 축삭돌기(축색,축색돌기,축삭)의 주요 내용을 기술하시오.",
+    "modelAnswer": "신경세포체로부터뻗어나온한개의긴돌기.다른뉴런이나세포들로정보를전달함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "말이집(수초,미엘린,미엘린초)의 핵심 개념을 설명하시오.",
+    "modelAnswer": "뉴런을여러겹으로둘러싸고있는절연체",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "랑비에결절의 개념을 설명하시오.",
+    "modelAnswer": "말이집과말이집사이의축삭돌기에노출된잘록한부분",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "말이집신경에 대해 설명하시오.",
+    "modelAnswer": "도약전도,흥분전도속도가빠름",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "민말이집신경의 특징을 서술하시오.",
+    "modelAnswer": "말이집이없는신경으로흥분전도속도가느림",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "구심성뉴런의 주요 내용을 기술하시오.",
+    "modelAnswer": "감각기관과내장기관으로부터중추신경계로정보를전달하는감각뉴런",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "기능에따른분류 연합뉴런(중간뉴런)의 핵심 개념을 설명하시오.",
+    "modelAnswer": "중추신경계(뇌와척수)를구성하는뉴런.감각뉴런과운동뉴런의중개및정보처리",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "원심성뉴런의 개념을 설명하시오.",
+    "modelAnswer": "중추신경계로부터신체의여러말단부위에정보를전달하는운동뉴런",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "거울뉴런에 대해 설명하시오.",
+    "modelAnswer": "타인의행동을거울처럼반영하는신경네트워크[26]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "종류의 특징을 서술하시오.",
+    "modelAnswer": "정보를보내는뉴런의축색끝부분과받아들이는뉴런의수상돌기나세포체간의접합부분",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "시냅스틈의 주요 내용을 기술하시오.",
+    "modelAnswer": "시냅스사이의미세한간극",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "뇌의구조에 대해 설명하시오.",
+    "modelAnswer": "전뇌(대뇌피질,시상,시상하부,편도체,해마),중뇌,후뇌(연수,교,소뇌)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "대뇌피질의두개의반구의 특징을 서술하시오.",
+    "modelAnswer": "좌반구(오른쪽통제,논리적,분석적,언어에기초),우반구(왼쪽통제,공간지각능력,비언어적,부정적정서표현 등)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "뇌의편측성의 주요 내용을 기술하시오.",
+    "modelAnswer": "뇌의좌반구와우반구가각기다른기능을맡아하는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "뇌가소성의 핵심 개념을 설명하시오.",
+    "modelAnswer": "환경이나경험이변함에따라뇌의구조와기능이조절되고적응하는능력",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "루시아의전문상담교사 심리학개론의 개념을 설명하시오.",
+    "modelAnswer": "반응범위모형 유전이어떤특성이나행동을결정하는것이아니라,서로다른환경이아동발달의가능성의범위를결정한다는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "유전과환경의에 대해 설명하시오.",
+    "modelAnswer": "수로화모형 유전과환경이상호작용하여발달의방향이결정되며,유전이나환경어느쪽이든다른한쪽이영향을줄수있는범위를제한한다는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "상호작용모형의 특징을 서술하시오.",
+    "modelAnswer": "유전적으로유사한사람들은환경을선택할때에도서로유사한환경을선택한다는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "감각의 주요 내용을 기술하시오.",
+    "modelAnswer": "감각수용기와신경시스템이환경으로부터자극에너지를받아들이고표상하는과정",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "상호관계모형의 핵심 개념을 설명하시오.",
+    "modelAnswer": "수동적유전․환경상호관계,능동적유전․환경상호관계,유발적유전․환경상호관계",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "감각상호작용의 개념을 설명하시오.",
+    "modelAnswer": "하나의감각이다른감각에영향을미치는원리(음식냄새가맛에영향을미치는것)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "지각에 대해 설명하시오.",
+    "modelAnswer": "감각정보를체제화하고해석하는과정☞의미있는사물과사건을재인할수있게함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "지각 지각과정의 특징을 서술하시오.",
+    "modelAnswer": "감각정보의통합과해석을수행하는과정(형태지각,깊이지각,운동지각)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "지각순응의 주요 내용을 기술하시오.",
+    "modelAnswer": "시각에서인위적으로이동되거나심지어는도치된세상에도적응할수있는능력",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  },
+  {
+    "content": "감각과지각의 핵심 개념을 설명하시오.",
+    "modelAnswer": "형태재인 기억활동의한형태로,개인이현재대하고있는인물,사물,현상정보등을과거에보았거나접촉했던경험이있음을기억해내는인지활동",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-5 마인드맵_진로상담"
+  }
+]
