@@ -4734,6 +4734,780 @@
     "pageRef": "2-3 마인드맵_성격심리학, 진로상담"
   },
   {
+    "content": "루시아의전문상담교사 진로상담의 개념을 설명하시오.",
+    "modelAnswer": "진로의사결정과정이어릴적부터시작하여20대초반까지계속되는일련의과정이며,비가역적인과정이라고주장함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "개요에 대해 설명하시오.",
+    "modelAnswer": "진로선택과정은바람과가능성과의타협과정이라고보았음[07,12,13]\n환상기 일의세계와관련된상상적역할놀이를하는시기(경찰놀이,의사놀이등)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "진로선택발달이론 흥미단계의 특징을 서술하시오.",
+    "modelAnswer": "좋아하는것과싫어하는것,흥미등에대하여보다구체적인결정",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "능력단계의 주요 내용을 기술하시오.",
+    "modelAnswer": "미래에하고싶은직업분야에서구체적으로어떤능력이요구되는지,자신이그능력을가지고있는지에대한이해",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "가치단계의 핵심 개념을 설명하시오.",
+    "modelAnswer": "자신이추구하는개인적인가치나삶의우선순위에대한고려(직업인들의생활양식과가치관고려)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "(전환단계의 개념을 설명하시오.",
+    "modelAnswer": "자신을둘러싸고있는현실적인외부요인파악)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "탐색에 대해 설명하시오.",
+    "modelAnswer": "잠정적인진로선택을좁히기위해관심직업분야탐색",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "현실기 결정화(구체화)의 특징을 서술하시오.",
+    "modelAnswer": "구체적인진로분야에보다헌신하면서자신의진로결정과관련된내적,외적요소종합",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "구체화(특수화)의 주요 내용을 기술하시오.",
+    "modelAnswer": "진로결정을보다구체화하고세밀한계획수립",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "환상기의 핵심 개념을 설명하시오.",
+    "modelAnswer": "욕구가지배적이며환상적인역할수행중시",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "흥미기에 대해 설명하시오.",
+    "modelAnswer": "활동의목표와내용을결정하는데있어서흥미중시",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "능력기의 특징을 서술하시오.",
+    "modelAnswer": "능력중시.직업의훈련조건중시",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "결정화의 주요 내용을 기술하시오.",
+    "modelAnswer": "자신과직업에대한정보가축적되면서진로에대한선호가점차분명하게드러나는시기",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "(15~24세) 구체화의 핵심 개념을 설명하시오.",
+    "modelAnswer": "결정화기에서도드라져서나타난몇가지직업적선호들중에서특정한직업선호로구체화되는시기",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "실행의 개념을 설명하시오.",
+    "modelAnswer": "선택한특정직업에대하여노력을기울이는시기로특정한진로를결정하고이를향하여몰입하는시기",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "정착에 대해 설명하시오.",
+    "modelAnswer": "조직문화에적응하고일과관련된의무들을조직이요구하는수준으로수행함으로써자신의직업지위를안정화하는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "공고화의 특징을 서술하시오.",
+    "modelAnswer": "일과관련된긍정적인태도와작업습관형성,직장동료들과좋은관계를이루어가면서직업인으로서의자기정체감을공고히함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "발전의 주요 내용을 기술하시오.",
+    "modelAnswer": "직업속에서자신의역할과정체성을확장하고더욱높은수준의직업적책임감을발전시킴",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "보유의 핵심 개념을 설명하시오.",
+    "modelAnswer": "지금까지성취한것들을계속유지해나감",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "수퍼의전생애 갱신의 개념을 설명하시오.",
+    "modelAnswer": "지금까지익숙했던직업관련기술과지식을새로운내용으로갱신",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "[06,07,09,10] 혁신에 대해 설명하시오.",
+    "modelAnswer": "이전과다른방식으로시도해보고,이전과는다른종류와수준의과제수행,새로운도전적인과제발견",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "감소의 특징을 서술하시오.",
+    "modelAnswer": "작업활동을축소하게되는시기",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "쇠퇴기 은퇴계획의 주요 내용을 기술하시오.",
+    "modelAnswer": "은퇴후의생활방식이나활동,신체적·정신적·경제적상황에대한계획을세우는시기",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "은퇴생활의 핵심 개념을 설명하시오.",
+    "modelAnswer": "직업전선에서은퇴하고다른새로운역할과활동을하는시기",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "남성의 개념을 설명하시오.",
+    "modelAnswer": "안정된진로유형,전통적인진로유형,불안정한진로유형,다면적진로유형",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "진로발달이론에 대해 설명하시오.",
+    "modelAnswer": "(재탐색기) 진로에적응하게하고직업성공으로이끌었던자기개념에대한재평가가이루어지는단계(직업을지속하지않으면앞단계로회귀)\n주요한생애역할 자녀,학생,여가인,시민,직업인,주부/배우자/부모로서의역할[14,22,25]\n수퍼의평가유형 문제평가,개인적평가,예언적평가(평가라는개념이진단이라는개념보다포괄적이고긍정적이기때문에평가라는개념중시[15])\n발달적상담과정 문제탐색및자아개념묘사,심층적탐색,자아수용및자아통찰,현실검증,태도와감정의탐색과처리,의사결정",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "여성의 특징을 서술하시오.",
+    "modelAnswer": "안정적가정관리유형,관습적진로유형,안정적직업진로형,복선진로유형,단절된진로유형,불안정형,다중시도형",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "진로성숙의 주요 내용을 기술하시오.",
+    "modelAnswer": "비슷한연령대사람들의진로행동을비교함으로써한개인의진로발달정도를평가하고자수퍼가제안한개념[21]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "진로적응의 핵심 개념을 설명하시오.",
+    "modelAnswer": "끊임없이변하는일의세계와자신을둘러싼환경의요구에대처하는준비도[21]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "진로성숙,진로적응의 개념을 설명하시오.",
+    "modelAnswer": "C-DAC모형 생의구조와직업역할의중요성[22]→진로발달의수준→활용가능한자원→가치·흥미·능력을포함한직업적정체성→ 직업적자아개념과생애주제에대한평가",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "진로선택과정에 대해 설명하시오.",
+    "modelAnswer": "직업정체감(직업적자아정체성)을지속적으로구별해내고발달과제를처리하는과정",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "직업자아정체감의 특징을 서술하시오.",
+    "modelAnswer": "개인이자신의제반특성을파악하고자기를실현시킬수있는일을추정하는자기나름대로의인식또는생각",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "분화의 주요 내용을 기술하시오.",
+    "modelAnswer": "개인의인지구조발달에따라내적으로일어나는것으로다양한직업을구체적으로학습함으로써나타나는자아의발달과정(분리된경험의문제)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "통합의 개념을 설명하시오.",
+    "modelAnswer": "개인이사회의일원이자직업세계의일원으로서자신의고유성과직업세계의고유성을일치시키는과정(확장된경험을모아구조화하는문제)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "[07,10] 탐색기에 대해 설명하시오.",
+    "modelAnswer": "자신의진로목표및대안탐색",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "구체화기의 특징을 서술하시오.",
+    "modelAnswer": "구체적으로진로준비시작(목표가더명확해지고구체화됨)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "선택기의 주요 내용을 기술하시오.",
+    "modelAnswer": "구체적인의사결정,특정한목표선택",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "명료화기의 핵심 개념을 설명하시오.",
+    "modelAnswer": "이미내린선택을보다신중히분석,검토후결론을내리는과정",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "순응기의 개념을 설명하시오.",
+    "modelAnswer": "새로운상황에들어가인정과승인을받고자수용적인자세로업무에임하는시기",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "실천기 개혁기에 대해 설명하시오.",
+    "modelAnswer": "수용적이던이전과달리자신의역할에대해보다강력하게주장적인태도를드러냄",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "통합기의 특징을 서술하시오.",
+    "modelAnswer": "집단에소속된일원으로서의자기자신에대해새로운자아개념형성.타협과통합을이루는단계(집단과개인의목표일치)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "정의의 주요 내용을 기술하시오.",
+    "modelAnswer": "일이자신에게맞도록자신을일에맞추어나가는과정에동원되는개인의태도,능력,행동",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "진로적응도 진로적응도의하위차원(4C)의 핵심 개념을 설명하시오.",
+    "modelAnswer": "관심,통제,호기심,자신감[18,22]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "진로적응도를구성하는요소(진로적응도의ABC)의 개념을 설명하시오.",
+    "modelAnswer": "태도,신념,역량[22]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "생애주제의 특징을 서술하시오.",
+    "modelAnswer": "직업의선택을통해자아개념을구체화하고,일을통해자신을드러내는진로관련행동의이유",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "진로이야기의 주요 내용을 기술하시오.",
+    "modelAnswer": "생애주제를담은개인의진로관련경험담",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "이야기하기의 핵심 개념을 설명하시오.",
+    "modelAnswer": "표준화검사의사용이나검사결과의해석을최소화하고,진로유형면접을활용하여내담자의진로이야기를이끌어냄",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "진로유형면접의 개념을 설명하시오.",
+    "modelAnswer": "준비도파악및목표설정을위한질문,역할모델,잡지/TV프로그램,책/영화,여가와취미,명언,교과목,생애초기기억[23]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "에피소드상담기법[25]에 대해 설명하시오.",
+    "modelAnswer": "진로문제정교화하기,생애사구성하기,미래내러티브이끌어내기,실재구성,삶의구조바꾸기,역할실연하기,결정확고화하기",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "4단계[25]의 주요 내용을 기술하시오.",
+    "modelAnswer": "구성하기⇒해체하기⇒재구성하기⇒상호구성하기",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "6단계의 핵심 개념을 설명하시오.",
+    "modelAnswer": "문제확인⇒주관적정체성탐색⇒관점확대⇒문제재정의⇒정체성실현을위한행동정의⇒추수지도",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "1.일방적의존성단계(유치원-초1)의 개념을 설명하시오.",
+    "modelAnswer": "외적통제에의존함.일에대해듣게되는이야기와가정에서사용하는도구들을중심으로진로의식형성",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "2.자기주장단계(초1-2)의 특징을 서술하시오.",
+    "modelAnswer": "점차자율성을갖게되며단순한형태의선택이가능하게됨.일에대한간단한지식이나개념을이해함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "3.조건적의존성단계(초2-3)의 주요 내용을 기술하시오.",
+    "modelAnswer": "자아를인식(동기와욕구,친구와의관계형성)하기시작하고독립적존재가됨",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "4.독립성단계(초4)의 핵심 개념을 설명하시오.",
+    "modelAnswer": "일의세계를이론적으로탐색하며기술과직업세계,사회내에서의자신의위치등을생각해보며진로결정에관심을갖게됨",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "5.외부지원단계(초5-6)의 개념을 설명하시오.",
+    "modelAnswer": "외부의승인이나인정을구하게됨.아울러직업적흥미와목표,작업조건,직무내용등에관심을가짐",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "6.자기결정단계(중1-2)에 대해 설명하시오.",
+    "modelAnswer": "자신의규칙과규범설정.자아인식을위해노력하며직업군을탐색하고,직업관을갖기시작함.현실적관점에서탐색[12]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "7.상호관계단계(중3-고1)의 특징을 서술하시오.",
+    "modelAnswer": "동료집단문화와교우관계를중시하는관점에서진로선택.가치,기대와보상,의사결정의효율성등에대하여관심을가짐",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "8.자율성단계(고2-3)의 주요 내용을 기술하시오.",
+    "modelAnswer": "직업에대한탐색과자신에대한인식을확고히하게됨.적합성여부,교육조건,선택가능성등에초점을두며대안을줄여나감[26]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "개요 직업포부의 핵심 개념을 설명하시오.",
+    "modelAnswer": "개인이갖고싶은직업에대한열망으로개인의직업선택을예언해줌[08]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "매칭과정에서중요한네가지발달과정의 개념을 설명하시오.",
+    "modelAnswer": "인지적성장,자기창조,제한[26],타협",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "[07,12,13] 3단계(9-13세)의 핵심 개념을 설명하시오.",
+    "modelAnswer": "사회적가치지향[08,22,26]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "4단계(14세이상)의 개념을 설명하시오.",
+    "modelAnswer": "내적고유자아지향[08,15]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "작은경우에 대해 설명하시오.",
+    "modelAnswer": "흥미>사회적지위>성역할",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "타협의우선순위[11,15,21,23] 중간인경우의 특징을 서술하시오.",
+    "modelAnswer": "사회적지위>흥미>성역할",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "큰경우(타협의기본원리)의 주요 내용을 기술하시오.",
+    "modelAnswer": "성역할>사회적지위>흥미",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "진로선택에영향을미치는네가지요인의 핵심 개념을 설명하시오.",
+    "modelAnswer": "개인의타고난유전적재능,환경적조건과사건,학습경험,과제접근기술[13,14]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "주요개념 진로결정요인의결과의 개념을 설명하시오.",
+    "modelAnswer": "자기관찰일반화,세계관일반화,과제접근기술,행위의산출[22]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "우연한일들을자신의진로에유리하게활용하기위해도움되는기술에 대해 설명하시오.",
+    "modelAnswer": "호기심,인내심,융통성,낙관성,위험감수[16.25]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "크롬볼츠의사회학습의 주요 내용을 기술하시오.",
+    "modelAnswer": "진로이론[06,11,12] 진로선택과진로행동에영향을주는인지적인요소확인",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "척도의 핵심 개념을 설명하시오.",
+    "modelAnswer": "나의현재진로상황,나의행복을위해필요하다고생각하는것,나의결정에영향을미치는것,내가기꺼이변화할수있는것,내가기꺼이노력할수있는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "1단계의 개념을 설명하시오.",
+    "modelAnswer": "내담자의기대에대해안내하기",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "2단계에 대해 설명하시오.",
+    "modelAnswer": "내담자의관심을출발점으로확인하기",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "상담과정 3단계의 특징을 서술하시오.",
+    "modelAnswer": "계획하지않은일이현재의기반이된내담자의성공경험활용하기",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "4단계의 주요 내용을 기술하시오.",
+    "modelAnswer": "잠재적인기회를알아차릴수있는내담자의감수성키우기",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "개요 SCCT를구성하는세가지요인의 개념을 설명하시오.",
+    "modelAnswer": "자기효능감,결과기대,개인적목표",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "최근SCCT모델을설명하는다섯가지요인에 대해 설명하시오.",
+    "modelAnswer": "진로흥미,선택,수행과진로만족,진로자기관리과정에해당하는진로탐색,의사결정과정",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "자기효능감의 특징을 서술하시오.",
+    "modelAnswer": "어떤정해진수행을해내기위해필요한활동들을조직화하고실행해낼수있는자신의능력에대한개인의판단[21,25]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "결과기대의 주요 내용을 기술하시오.",
+    "modelAnswer": "행동의결과로얻게될어떤것에대한기대[18,21]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "목표의 개념을 설명하시오.",
+    "modelAnswer": "어떤특정한활동에열중하거나어떤미래의결과를이루겠다는것에대한결심",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "배경맥락요인에 대해 설명하시오.",
+    "modelAnswer": "제도화된인종차별,거시적경제조건과같은보다큰사회적맥락",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "근접맥락요인의 특징을 서술하시오.",
+    "modelAnswer": "진로선택의시점과비교적근접한시기에직접적으로영향을줄수있는사회적•재정적지지및자원,진로장벽",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "흥미모형의 주요 내용을 기술하시오.",
+    "modelAnswer": "자기효능감과결과기대는흥미를예언하고,흥미는목표를예언하고,목표는활동의선택및실행을가져오고,나아가수행결과로이어짐[25]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "진로행동모형 선택모형의 핵심 개념을 설명하시오.",
+    "modelAnswer": "흥미모형의인과관계고리를가지고오지만,활동목표와선택변인이구체적인진로/학업선택목표와실행이라는점에서차이가있음[15,21]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "수행모형의 개념을 설명하시오.",
+    "modelAnswer": "개인이그목표를추구함에있어어느정도지속할것이고,어떤정도수준의수행을해낼것인지예측하는모형[17]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
+    "content": "상담과정[14] 2단계의 특징을 서술하시오.",
+    "modelAnswer": "진로장벽지각에대한분석",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 1,
+    "pageRef": "2-4 마인드맵_진로상담"
+  },
+  {
     "content": "지식영역의 개념을 설명하시오.",
     "modelAnswer": "자기지식영역,직업지식영역",
     "type": "essay",
