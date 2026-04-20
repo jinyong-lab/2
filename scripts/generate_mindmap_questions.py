@@ -27,14 +27,18 @@ DB_NAME = "exam-db"
 
 # 파일명 → (subject_name, subjectId)
 FILE_SUBJECT_MAP = {
+    "심리학개론":    ("심리학개론",    19),
+    "가족상담":      ("심리학개론",    19),  # 2-6은 심리학개론 주 과목
     "이상심리학":    ("이상심리학",    13),
     "상담이론과 실제": ("상담이론 및 실제", 10),
     "상담이론":      ("상담이론 및 실제", 10),
     "성격심리학":    ("성격심리학",    18),
+    "진로상담":      ("진로상담",      12),
 }
 
 
 def get_subject_from_filename(filename: str):
+    # 우선순위: 심리학개론 > 가족상담 > 성격심리학 > 이상심리학 > ...
     for key, val in FILE_SUBJECT_MAP.items():
         if key in filename:
             return val

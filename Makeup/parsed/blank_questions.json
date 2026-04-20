@@ -10869,6 +10869,688 @@
   },
   {
     "id": 989,
+    "content": "규칙적이고자연적이며,가역적인의식의상실로,혼수상태나마취등으로인해서초래되는에 해당하는 것은 ( )이다.",
+    "modelAnswer": "수면",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 990,
+    "content": "보호기능,회복기능,기억의강화,창의적사고배양,성장지원에 해당하는 것은 ( )이다.",
+    "modelAnswer": "수면의기능",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 991,
+    "content": "귀인이론에서, 행동을설명하는방법,즉상황이나개인의성향에원인을돌리는방법에대한이론에 해당하는 것은 ( )이다.",
+    "modelAnswer": "귀인이론",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 992,
+    "content": "귀인이론에서, 대상과사람그리고사건에특정한방식으로반응하도록만드는감정에 해당하는 것은 ( )이다.",
+    "modelAnswer": "태도",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 993,
+    "content": "귀인이론에서, 본능,욕구좌절,짜증등에 해당하는 것은 ( )이다.",
+    "modelAnswer": "폭력충동의원인",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 994,
+    "content": "귀인이론에서, 정화,처벌의위협,학습된억제에 해당하는 것은 ( )이다.",
+    "modelAnswer": "폭력행동의감소방안",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 995,
+    "content": "귀인이론에서, 집단의압력하에서집단이기대하는바대로개인의생각이나행동을바꾸는것에 해당하는 것은 ( )이다.",
+    "modelAnswer": "동조",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 996,
+    "content": "귀인이론에서, 집단속에서일을하면개인의작업능률이높아지는현상에 해당하는 것은 ( )이다.",
+    "modelAnswer": "사회촉진",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 997,
+    "content": "귀인이론에서, 집단에들어있는사람들이공동의목표를달성하기위해서노력을합해야할때적은노에 해당하는 것은 ( )이다.",
+    "modelAnswer": "사회태만",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 998,
+    "content": "귀인이론에서, 흥분과익명성을조장하는집단상황에서자각과자기억제가상실되는현상에 해당하는 것은 ( )이다.",
+    "modelAnswer": "몰개인화",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 999,
+    "content": "귀인이론에서, 주관적으로혐오스럽거나위협적인심리상태를견디는능력에 해당하는 것은 ( )이다.",
+    "modelAnswer": "고통감내력",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1000,
+    "content": "귀인이론에서, 특정 음식물을 섭취한 후 복통이나 신체적 이상을 경험한 후 해당 음식물 때문에 해당하는 것은 ( )이다.",
+    "modelAnswer": "가르시아효과",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1001,
+    "content": "귀인이론에서, Pavlov식 조건 형성을 통해 습득되는 것으로 특정한 맛을 가진에 해당하는 것은 ( )이다.",
+    "modelAnswer": "맛혐오학습(조건맛혐오)",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1002,
+    "content": "귀인이론에서, 돈이나 노력,시간 등을 투자한 경우 성공 가능성에 관계없이 투자한 대상을에 해당하는 것은 ( )이다.",
+    "modelAnswer": "매몰비용효과",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1003,
+    "content": "귀인이론에서, 어떤 선택으로 인해 포기된 기회들 가운데 가장 큰 가치를 갖는 기회 자체 또는 그러에 해당하는 것은 ( )이다.",
+    "modelAnswer": "기회비용",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1004,
+    "content": "귀인이론에서, 한 대상을 그것의 가장 일반적인 한 가지 사용법만 가지고 있는 것으로 지각하여에 해당하는 것은 ( )이다.",
+    "modelAnswer": "기능적고착",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1005,
+    "content": "귀인이론에서, 물체가 망막에 비치는 모습이 바뀌어도 그것을 일정한 것으로 지각하는 현상에 해당하는 것은 ( )이다.",
+    "modelAnswer": "지각 항상성",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1006,
+    "content": "귀인이론에서, 지나치게 믿음)에 해당하는 것은 ( )이다.",
+    "modelAnswer": "과신오류와 자기과신의함정(과신",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1007,
+    "content": "귀인이론에서, 집중적인 공부나 연습보다 분산된 공부나 연습이 더 우수한 장기 파지를 초래하에 해당하는 것은 ( )이다.",
+    "modelAnswer": "간격두기효과",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1008,
+    "content": "귀인이론에서, 정보를 단지 읽어보는 것보다는 인출을 시도한 후에 기억에 증진되는 효과에 해당하는 것은 ( )이다.",
+    "modelAnswer": "검증효과",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1009,
+    "content": "귀인이론에서, 사람들이 언어 정보를 상이한 수준에서 처리하며,처리 깊이가 장기파지에 영향을 미친에 해당하는 것은 ( )이다.",
+    "modelAnswer": "처리수준",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1010,
+    "content": "귀인이론에서, 한 사람이 둘 이상의 모순되거나 서로 용납되지 않는 방법으로 해석될 수 있는 메시지에 해당하는 것은 ( )이다.",
+    "modelAnswer": "이중구속",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1011,
+    "content": "귀인이론에서, 가족이 기존의 평형상태의 균형을 유지하려고 변화에 저항하는 성향에 해당하는 것은 ( )이다.",
+    "modelAnswer": "가족항상성",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1012,
+    "content": "귀인이론에서, 가족항상성을 유지하기 위해 가족의 행동을 통제하는 규칙으로 오랜 시간에 걸쳐 가족에 해당하는 것은 ( )이다.",
+    "modelAnswer": "가족규칙",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1013,
+    "content": "귀인이론에서, 가족들이 가지는 기대와 신념으로,특히 현실에 대한 왜곡이나 부정의 요소를 갖는 것에 해당하는 것은 ( )이다.",
+    "modelAnswer": "가족신화",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1014,
+    "content": "귀인이론에서, 가족문화의 핵심적 요소로서 대부분 세대를 통하여 전수된다.가족의식에는 역기능적에 해당하는 것은 ( )이다.",
+    "modelAnswer": "가족의식",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1015,
+    "content": "귀인이론에서, 가족 내 2인 체계 속에서 긴장을 느끼는 사람이 긴장의 정도를 감소시키기위해에 해당하는 것은 ( )이다.",
+    "modelAnswer": "가족삼각관계",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1016,
+    "content": "귀인이론에서, 자녀가 가족 내에서 부모나 배우자의 역할을 대신 수행하는 것에 해당하는 것은 ( )이다.",
+    "modelAnswer": "부모화",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1017,
+    "content": "귀인이론에서, 정신분석훈련을 받은 개인 치료사로서,가족치료를 할 때도 여러 명의 가족에 해당하는 것은 ( )이다.",
+    "modelAnswer": "A유형의 치료사",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1018,
+    "content": "귀인이론에서, 체계를 먼저 생각한다.이러한 부류의 치료사는 환자를 역기능에 처한 가족의에 해당하는 것은 ( )이다.",
+    "modelAnswer": "Z유형의 치료사",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1019,
+    "content": "귀인이론에서, 개인적 접근과 체계적 접근 모두에 동등한 타당성을 부여하는 치료사로 개인에 해당하는 것은 ( )이다.",
+    "modelAnswer": "N유형의 치료사",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1020,
+    "content": "귀인이론에서, 치료사 자신이 보다 건전하며 건설적이라고 생각하는 방법을 치료대상인 가족이 실행에 해당하는 것은 ( )이다.",
+    "modelAnswer": "지휘자",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1021,
+    "content": "귀인이론에서, 가족을 이루고 있는 개인이 성장의 능력을 가지고 있듯이 전체로서의 가족 역에 해당하는 것은 ( )이다.",
+    "modelAnswer": "반응형분석자",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1022,
+    "content": "귀인이론에서, 가족의 규칙,즉 가족의 행동을 규정하는 암묵의 습관 등의 가족체계 특정의에 해당하는 것은 ( )이다.",
+    "modelAnswer": "순수체계론자",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1023,
+    "content": "귀인이론에서, FamilyAdaptability&CohesionEvaluationScale)에 해당하는 것은 ( )이다.",
+    "modelAnswer": "가족 적응력,응집성평가척도(FACES",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1024,
+    "content": "귀인이론에서, FamilySystemTest)에 해당하는 것은 ( )이다.",
+    "modelAnswer": "가족체계검사(FAST",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1025,
+    "content": "귀인이론에서, 언어를 통하지 않고도 가족을 그림으로 나타내는 것에 해당하는 것은 ( )이다.",
+    "modelAnswer": "가족화",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1026,
+    "content": "귀인이론에서, 가족구성원들이 다양한 인형을 가지고 놀이하는 활동을 통하여 그들의 기능과 관계에 해당하는 것은 ( )이다.",
+    "modelAnswer": "가족인형극",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1027,
+    "content": "귀인이론에서, 현실의 공간에 사람들을 놓고 자세나 표정도 자신이 인식한 대로 표현하게 함으로써에 해당하는 것은 ( )이다.",
+    "modelAnswer": "가족조각",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1028,
+    "content": "귀인이론에서, 가족과 가족의 생활공간 안에 있는 사람 및 기관 간의 연계를 그림으로 나타내는 방법에 해당하는 것은 ( )이다.",
+    "modelAnswer": "생태도",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1029,
+    "content": "귀인이론에서, 가족생활 단계에 따른 발달,사건 등을 수집하여 연도별로 수평적으에 해당하는 것은 ( )이다.",
+    "modelAnswer": "가족의 수평적연대기작성",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1030,
+    "content": "귀인이론에서, 가족에게 원가족 집의 평면을 그리게 하여 세대 간의 경계와 하위체계 등을에 해당하는 것은 ( )이다.",
+    "modelAnswer": "집평면도그리기",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1031,
+    "content": "귀인이론에서, '아동에게 ‘가족이 뭔가 하고 있는 것’을 그리라고 주문하는 것이다.그림에'을/를 주장한 학자는 ( )이다.",
+    "modelAnswer": "동적가족화(KFD)",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1032,
+    "content": "기억에서 단기기억, 장기기억, 망각과/와 함께 제시되는 것으로, '시각,청각,후각등감각시스템으로부터들어온정보를순간적으로저장하는기억'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "감각기억",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1033,
+    "content": "기억에서 감각기억, 장기기억, 망각과/와 함께 제시되는 것으로, '능동적으로 정보를 처리하는 활동 중인 기억으로,감각기억으로부터 들어온'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "단기기억",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1034,
+    "content": "기억에서 감각기억, 단기기억, 망각과/와 함께 제시되는 것으로, '감각기억과 단기기억의 과정을 거쳐 들어온 정보를 무제한적⋅영구적으로'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "장기기억",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1035,
+    "content": "기억에서 감각기억, 단기기억, 장기기억과/와 함께 제시되는 것으로, '전에경험또는학습한것을상기하거나재생하는능력이일시적또는영속적으로감퇴및상'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "망각",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1036,
+    "content": "언어에서 브로카실어증, 베르니케실어증, 전도성실어증과/와 함께 제시되는 것으로, '일반적으로좌반구의브로카영역(말하기장애)이나베르니케영역(말이해장애)의손상'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "실어증",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1037,
+    "content": "언어에서 실어증, 베르니케실어증, 전도성실어증과/와 함께 제시되는 것으로, '브로카영역(좌반구하측전두엽)이손상되어,언어를이해하고의미를파악하는'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "브로카실어증",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1038,
+    "content": "언어에서 실어증, 브로카실어증, 전도성실어증과/와 함께 제시되는 것으로, '언어를 이해하고 처리하는 영역인 베르니케 영역(좌반구 측두엽 및 후두엽'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "베르니케실어증",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1039,
+    "content": "언어에서 실어증, 브로카실어증, 베르니케실어증과/와 함께 제시되는 것으로, '이해력과표현력이비교적양호하지만상대방의말을따라하지못하는특징을보'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "전도성실어증",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1040,
+    "content": "언어에서 실어증, 브로카실어증, 베르니케실어증과/와 함께 제시되는 것으로, '뇌의언어담당영역의앞뒤부분이모두손상되고모든언어처리구성요소에이'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "전반적실어증",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1041,
+    "content": "언어에서, arcuatefasciculus의 한국어 용어는 ( )이다.",
+    "modelAnswer": "양의섬유다발인궁형소속",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1042,
+    "content": "귀인이론에서, 질문,문제의재정의,보상,경험적개입,직면,위계구조의변화,과제등에 해당하는 것은 ( )이다.",
+    "modelAnswer": "상담기법",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1043,
+    "content": "귀인이론에서, 가족구조의 도식화,가족에 관한 정보의 기록,가족관계의 도식화에 해당하는 것은 ( )이다.",
+    "modelAnswer": "실시방법",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1044,
+    "content": "귀인이론에서, '인출 단서의 효과는 그 단서가 특정 항목에 대한 초기의 부호화와 갖는'에 해당하는 원리는 ( )이다.",
+    "modelAnswer": "부호화특수성의원리",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1045,
+    "content": "귀인이론에서, 활기찬부부,조화로운부부,전통적인부부,갈등있는에 해당하는 유형은 ( )이다.",
+    "modelAnswer": "PCA점수바탕의다섯가지부부유형",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "id": 1046,
+    "content": "귀인이론에서, 집단에들어있는사람들이공동의목표를달성하기위해서노력을합해야에 해당하는 것은 ( )이다.",
+    "modelAnswer": "사회태만(링겔만효과)",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담.pdf"
+  },
+  {
+    "id": 1047,
+    "content": "언어에서 브로카실어증, 베르니케 실어증, 전도성실어증과/와 함께 제시되는 것으로, '일반적으로좌반구의브로카영역(말하기장애)이나베르니케영역(말이해장애)의손상'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "실어증",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담.pdf"
+  },
+  {
+    "id": 1048,
+    "content": "언어에서 실어증, 베르니케 실어증, 전도성실어증과/와 함께 제시되는 것으로, '브로카영역(좌반구하측전두엽)이손상되어,언어를이해하고의미를파악하는'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "브로카실어증",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담.pdf"
+  },
+  {
+    "id": 1049,
+    "content": "언어에서 실어증, 브로카실어증, 베르니케 실어증과/와 함께 제시되는 것으로, '이해력과표현력이비교적양호하지만상대방의말을따라하지못하는특징을보'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "전도성실어증",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담.pdf"
+  },
+  {
+    "id": 1050,
+    "content": "언어에서 실어증, 브로카실어증, 베르니케 실어증과/와 함께 제시되는 것으로, '뇌의언어담당영역의앞뒤부분이모두손상되고모든언어처리구성요소에이'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "전반적실어증",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "2-6 서브노트_심리학개론, 가족상담.pdf"
+  },
+  {
+    "id": 1051,
     "content": "지적장애 지능수준이 현저하게 낮아서 학습 및 사회적 적응에 어려움을 나타내는 경우에서, ADHD의 한국어 용어는 ( )이다.",
     "modelAnswer": "과잉행동장애",
     "type": "fill-in",
@@ -10879,7 +11561,7 @@
     "pageRef": "day1"
   },
   {
-    "id": 990,
+    "id": 1052,
     "content": "21번 삼염색체, 순서바꾸기에 해당하는 유형은 ( )이다.",
     "modelAnswer": "(다운 증후군) 유형",
     "type": "fill-in",
@@ -10890,7 +11572,7 @@
     "pageRef": "day2"
   },
   {
-    "id": 991,
+    "id": 1053,
     "content": "평가도구에서, MFFT의 한국어 용어는 ( )이다.",
     "modelAnswer": "그림찾기검사",
     "type": "fill-in",
@@ -10901,7 +11583,7 @@
     "pageRef": "day4"
   },
   {
-    "id": 992,
+    "id": 1054,
     "content": "평가도구에서, WCST의 한국어 용어는 ( )이다.",
     "modelAnswer": "위스콘신카드분류검사",
     "type": "fill-in",
@@ -10912,7 +11594,7 @@
     "pageRef": "day4"
   },
   {
-    "id": 993,
+    "id": 1055,
     "content": "개인적능력, 일반적태도, 아들러학파의심리치료가지향하는목표과/와 함께 제시되는 것으로, '다른사람과의관계를추구하고협동하는기질적측면을의미하며선천적인개인차를나'에 해당하는 것은 ( )이다.",
     "modelAnswer": "타고난기질",
     "type": "fill-in",
@@ -10923,7 +11605,7 @@
     "pageRef": "보충_0207 보충프린트_상담이론과실제(B5)"
   },
   {
-    "id": 994,
+    "id": 1056,
     "content": "타고난기질, 일반적태도, 아들러학파의심리치료가지향하는목표과/와 함께 제시되는 것으로, '타인을이해하고공감하여협동과기여를할수있는사회적능력을의미한다.이러한능'에 해당하는 것은 ( )이다.",
     "modelAnswer": "개인적능력",
     "type": "fill-in",
@@ -10934,7 +11616,7 @@
     "pageRef": "보충_0207 보충프린트_상담이론과실제(B5)"
   },
   {
-    "id": 995,
+    "id": 1057,
     "content": "타고난기질, 개인적능력, 아들러학파의심리치료가지향하는목표과/와 함께 제시되는 것으로, '다른사람과의협동을소중하게여기고사회적이익을위해헌신하는의지를의미한다'에 해당하는 것은 ( )이다.",
     "modelAnswer": "일반적태도",
     "type": "fill-in",
@@ -10945,7 +11627,7 @@
     "pageRef": "보충_0207 보충프린트_상담이론과실제(B5)"
   },
   {
-    "id": 996,
+    "id": 1058,
     "content": "타고난기질, 개인적능력, 일반적태도과/와 함께 제시되는 것으로, '모삭과마니아치(Mosak과Maniacci)'에 해당하는 것은 ( )이다.",
     "modelAnswer": "아들러학파의심리치료가지향하는목표",
     "type": "fill-in",
@@ -10956,7 +11638,7 @@
     "pageRef": "보충_0207 보충프린트_상담이론과실제(B5)"
   },
   {
-    "id": 997,
+    "id": 1059,
     "content": "Goldstein의 한국어 용어는 ( )이다.",
     "modelAnswer": "골드슈타인",
     "type": "fill-in",
@@ -10967,7 +11649,7 @@
     "pageRef": "보충_0221 보충프린트_상담이론과실제(B5)"
   },
   {
-    "id": 998,
+    "id": 1060,
     "content": "MartinBuber의 한국어 용어는 ( )이다.",
     "modelAnswer": "부버",
     "type": "fill-in",
@@ -10978,7 +11660,7 @@
     "pageRef": "보충_0221 보충프린트_상담이론과실제(B5)"
   },
   {
-    "id": 999,
+    "id": 1061,
     "content": "'사르트르는인간이자신의자유와선택의책임을회피하고,외부의가'을/를 주장한 학자는 ( )이다.",
     "modelAnswer": "나쁜신앙(BadFaith)",
     "type": "fill-in",
@@ -10989,7 +11671,7 @@
     "pageRef": "보충_0228 보충프린트_상담이론, 특수아(B5, 단면)"
   },
   {
-    "id": 1000,
+    "id": 1062,
     "content": "'사르트르는타인이나를보는시선이나의자유를제약하고,나를대'을/를 주장한 학자는 ( )이다.",
     "modelAnswer": "타인의시선(TheLook)",
     "type": "fill-in",
@@ -11000,7 +11682,7 @@
     "pageRef": "보충_0228 보충프린트_상담이론, 특수아(B5, 단면)"
   },
   {
-    "id": 1001,
+    "id": 1063,
     "content": "거부의단계, 죄의식의단계, 수용의단계과/와 함께 제시되는 것으로, '주로수용과이해로부모의'부정'방어를다루어야한다.상담자로서답답하겠지만인'에 해당하는 것은 ( )이다.",
     "modelAnswer": "충격의단계",
     "type": "fill-in",
@@ -11011,7 +11693,7 @@
     "pageRef": "보충_0228 보충프린트_상담이론, 특수아(B5, 단면)"
   },
   {
-    "id": 1002,
+    "id": 1064,
     "content": "충격의단계, 죄의식의단계, 수용의단계과/와 함께 제시되는 것으로, '부모가분노와원망의감정을표현한다.부모가감정을표현하도록돕고,주변사람이'에 해당하는 것은 ( )이다.",
     "modelAnswer": "거부의단계",
     "type": "fill-in",
@@ -11022,7 +11704,7 @@
     "pageRef": "보충_0228 보충프린트_상담이론, 특수아(B5, 단면)"
   },
   {
-    "id": 1003,
+    "id": 1065,
     "content": "충격의단계, 거부의단계, 수용의단계과/와 함께 제시되는 것으로, '충격과격한감정이가라앉으면서자녀가가진장애를받아들이는타협을하게되'에 해당하는 것은 ( )이다.",
     "modelAnswer": "죄의식의단계",
     "type": "fill-in",
@@ -11033,7 +11715,7 @@
     "pageRef": "보충_0228 보충프린트_상담이론, 특수아(B5, 단면)"
   },
   {
-    "id": 1004,
+    "id": 1066,
     "content": "충격의단계, 거부의단계, 죄의식의단계과/와 함께 제시되는 것으로, '구체적이고실제적인정보제공과문제해결을위한계획을의논한다'에 해당하는 것은 ( )이다.",
     "modelAnswer": "수용의단계",
     "type": "fill-in",
@@ -11044,7 +11726,7 @@
     "pageRef": "보충_0228 보충프린트_상담이론, 특수아(B5, 단면)"
   },
   {
-    "id": 1005,
+    "id": 1067,
     "content": "충격의단계, 거부의단계, 죄의식의단계과/와 함께 제시되는 것으로, '특수학생들을 일반 교육과정에 포함시키는 것을 의미한다.특수학생'에 해당하는 것은 ( )이다.",
     "modelAnswer": "주류화(mainstreaming)",
     "type": "fill-in",
@@ -11055,7 +11737,7 @@
     "pageRef": "보충_0228 보충프린트_상담이론, 특수아(B5, 단면)"
   },
   {
-    "id": 1006,
+    "id": 1068,
     "content": "충격의단계, 거부의단계, 죄의식의단계과/와 함께 제시되는 것으로, '먼저 분리된 상태에서 교육을 하다가 나중에 통합을 하는 방법이'에 해당하는 것은 ( )이다.",
     "modelAnswer": "모음식통합교육(integration)",
     "type": "fill-in",
@@ -11066,7 +11748,7 @@
     "pageRef": "보충_0228 보충프린트_상담이론, 특수아(B5, 단면)"
   },
   {
-    "id": 1007,
+    "id": 1069,
     "content": "충격의단계, 거부의단계, 죄의식의단계과/와 함께 제시되는 것으로, '먼저통합교육을한후에필요에따라분리하는방법이다.학'에 해당하는 것은 ( )이다.",
     "modelAnswer": "포함식통합교육/통합교육(inclusion)",
     "type": "fill-in",
@@ -11077,7 +11759,7 @@
     "pageRef": "보충_0228 보충프린트_상담이론, 특수아(B5, 단면)"
   },
   {
-    "id": 1008,
+    "id": 1070,
     "content": "Jean-PaulSartre의 한국어 용어는 ( )이다.",
     "modelAnswer": "장폴사르트르",
     "type": "fill-in",
@@ -11088,7 +11770,7 @@
     "pageRef": "보충_0228 보충프린트_상담이론, 특수아(B5, 단면)"
   },
   {
-    "id": 1009,
+    "id": 1071,
     "content": "BadFaith의 한국어 용어는 ( )이다.",
     "modelAnswer": "나쁜신앙",
     "type": "fill-in",
@@ -11099,7 +11781,7 @@
     "pageRef": "보충_0228 보충프린트_상담이론, 특수아(B5, 단면)"
   },
   {
-    "id": 1010,
+    "id": 1072,
     "content": "TheLook의 한국어 용어는 ( )이다.",
     "modelAnswer": "타인의시선",
     "type": "fill-in",
@@ -11110,7 +11792,7 @@
     "pageRef": "보충_0228 보충프린트_상담이론, 특수아(B5, 단면)"
   },
   {
-    "id": 1011,
+    "id": 1073,
     "content": "mainstreaming의 한국어 용어는 ( )이다.",
     "modelAnswer": "주류화",
     "type": "fill-in",
@@ -11121,7 +11803,7 @@
     "pageRef": "보충_0228 보충프린트_상담이론, 특수아(B5, 단면)"
   },
   {
-    "id": 1012,
+    "id": 1074,
     "content": "integration의 한국어 용어는 ( )이다.",
     "modelAnswer": "모음식통합교육",
     "type": "fill-in",
@@ -11132,7 +11814,7 @@
     "pageRef": "보충_0228 보충프린트_상담이론, 특수아(B5, 단면)"
   },
   {
-    "id": 1013,
+    "id": 1075,
     "content": "inclusion의 한국어 용어는 ( )이다.",
     "modelAnswer": "통합교육",
     "type": "fill-in",
@@ -11143,7 +11825,7 @@
     "pageRef": "보충_0228 보충프린트_상담이론, 특수아(B5, 단면)"
   },
   {
-    "id": 1014,
+    "id": 1076,
     "content": "위협적인상황에서자신을벗어나게하는심리적도피기술이다.즉,현실에서비현에 해당하는 것은 ( )이다.",
     "modelAnswer": "회피형(도피형)",
     "type": "fill-in",
@@ -11154,7 +11836,7 @@
     "pageRef": "보충_1.31 보충프린트_상담이론과 실제(B5, 단면)"
   },
   {
-    "id": 1015,
+    "id": 1077,
     "content": "Eells의 한국어 용어는 ( )이다.",
     "modelAnswer": "일스",
     "type": "fill-in",
@@ -11165,7 +11847,7 @@
     "pageRef": "보충_1.31 보충프린트_상담이론과 실제(B5, 단면)"
   },
   {
-    "id": 1016,
+    "id": 1078,
     "content": "'개인으로서처우받고싶은욕구'에 해당하는 원리는 ( )이다.",
     "modelAnswer": "개별화의원리",
     "type": "fill-in",
@@ -11176,7 +11858,7 @@
     "pageRef": "보충_1.31 보충프린트_상담이론과 실제(B5, 단면)"
   },
   {
-    "id": 1017,
+    "id": 1079,
     "content": "'자신의감정,특히부정적인감정을자유롭게표명하려는욕구'에 해당하는 원리는 ( )이다.",
     "modelAnswer": "의도적인감정(정서)표현의원리",
     "type": "fill-in",
@@ -11187,7 +11869,7 @@
     "pageRef": "보충_1.31 보충프린트_상담이론과 실제(B5, 단면)"
   },
   {
-    "id": 1018,
+    "id": 1080,
     "content": "'문제에대해공감을얻고싶은욕구'에 해당하는 원리는 ( )이다.",
     "modelAnswer": "통제된정서관여의원리",
     "type": "fill-in",
@@ -11198,7 +11880,7 @@
     "pageRef": "보충_1.31 보충프린트_상담이론과 실제(B5, 단면)"
   },
   {
-    "id": 1019,
+    "id": 1081,
     "content": "'가치있는개인으로인정받고싶은욕구'에 해당하는 원리는 ( )이다.",
     "modelAnswer": "수용의원리",
     "type": "fill-in",
@@ -11209,7 +11891,7 @@
     "pageRef": "보충_1.31 보충프린트_상담이론과 실제(B5, 단면)"
   },
   {
-    "id": 1020,
+    "id": 1082,
     "content": "'심판받지않으려는욕구'에 해당하는 원리는 ( )이다.",
     "modelAnswer": "비심판적태도의원리",
     "type": "fill-in",
@@ -11220,7 +11902,7 @@
     "pageRef": "보충_1.31 보충프린트_상담이론과 실제(B5, 단면)"
   },
   {
-    "id": 1021,
+    "id": 1083,
     "content": "'자신이선택과결정을내리고싶은욕구'에 해당하는 원리는 ( )이다.",
     "modelAnswer": "자기결정의원리",
     "type": "fill-in",
@@ -11231,7 +11913,7 @@
     "pageRef": "보충_1.31 보충프린트_상담이론과 실제(B5, 단면)"
   },
   {
-    "id": 1022,
+    "id": 1084,
     "content": "'자신의비밀을간직하려는욕구'에 해당하는 원리는 ( )이다.",
     "modelAnswer": "비밀보장의원리",
     "type": "fill-in",
@@ -11242,7 +11924,7 @@
     "pageRef": "보충_1.31 보충프린트_상담이론과 실제(B5, 단면)"
   },
   {
-    "id": 1023,
+    "id": 1085,
     "content": "자기감정이나태도를바꾸어서불안이나긴장에대한자신의인식을바꾸는방식이다.(합리에 해당하는 유형은 ( )이다.",
     "modelAnswer": "기만형",
     "type": "fill-in",
@@ -11253,7 +11935,7 @@
     "pageRef": "보충_1.31 보충프린트_상담이론과 실제(B5, 단면)"
   },
   {
-    "id": 1024,
+    "id": 1086,
     "content": "자기와목표사이에장애가있을때다른목표를세워서불안을해소하는방식이다.지각을에 해당하는 유형은 ( )이다.",
     "modelAnswer": "대체형",
     "type": "fill-in",
@@ -11264,7 +11946,7 @@
     "pageRef": "보충_1.31 보충프린트_상담이론과 실제(B5, 단면)"
   },
   {
-    "id": 1025,
+    "id": 1087,
     "content": "'자아가원초아의충동과소원을억압할때생기는저항이다.자아는고통을피하기위해욕'에 해당하는 개념은 ( )이다.",
     "modelAnswer": "억압저항",
     "type": "fill-in",
@@ -11275,7 +11957,7 @@
     "pageRef": "보충_1.31 보충프린트_상담이론과 실제(B5, 단면)"
   },
   {
-    "id": 1026,
+    "id": 1088,
     "content": "'정신질환의증상덕분에얻은이득을포기하지않으려고하는것이다.내담자는증상'에 해당하는 개념은 ( )이다.",
     "modelAnswer": "이차획득저항",
     "type": "fill-in",
@@ -11286,7 +11968,7 @@
     "pageRef": "보충_1.31 보충프린트_상담이론과 실제(B5, 단면)"
   },
   {
-    "id": 1027,
+    "id": 1089,
     "content": "'정신분석치료가성공적으로진행될때내담자가자기파괴적인행동으로분석을다시'에 해당하는 개념은 ( )이다.",
     "modelAnswer": "초자아저항",
     "type": "fill-in",
@@ -11297,7 +11979,7 @@
     "pageRef": "보충_1.31 보충프린트_상담이론과 실제(B5, 단면)"
   },
   {
-    "id": 1028,
+    "id": 1090,
     "content": "'반복강박과리비도의집착성때문에일어나는저항이다.분석치료중에고통스러웠던'에 해당하는 개념은 ( )이다.",
     "modelAnswer": "원초아저항",
     "type": "fill-in",
@@ -11308,7 +11990,7 @@
     "pageRef": "보충_1.31 보충프린트_상담이론과 실제(B5, 단면)"
   },
   {
-    "id": 1029,
+    "id": 1091,
     "content": "'치료자를지나치게좋아한다든지혹은너무두려워한나머지자유연상이일어나지않는'에 해당하는 개념은 ( )이다.",
     "modelAnswer": "전이저항",
     "type": "fill-in",
@@ -11319,7 +12001,7 @@
     "pageRef": "보충_1.31 보충프린트_상담이론과 실제(B5, 단면)"
   },
   {
-    "id": 1030,
+    "id": 1092,
     "content": "Sternberg의 한국어 용어는 ( )이다.",
     "modelAnswer": "이론",
     "type": "fill-in",
@@ -11330,7 +12012,7 @@
     "pageRef": "보충_2-1 보충프린트_성격심리학(B5, 단면)"
   },
   {
-    "id": 1031,
+    "id": 1093,
     "content": "Zukerman의 한국어 용어는 ( )이다.",
     "modelAnswer": "주커만",
     "type": "fill-in",
@@ -11341,7 +12023,7 @@
     "pageRef": "보충_2-2 보충프린트_성격심리학(B5, 단면)"
   },
   {
-    "id": 1032,
+    "id": 1094,
     "content": "정보수집, 탐색적면담, 활동계획구축과/와 함께 제시되는 것으로, '내담자가현재진로와관련하여어떤욕구를가지고있는지파악한다'에 해당하는 것은 ( )이다.",
     "modelAnswer": "평가하기",
     "type": "fill-in",
@@ -11352,7 +12034,7 @@
     "pageRef": "보충_2-3 보충프린트_성격심리학, 진로상담(B5) 2"
   },
   {
-    "id": 1033,
+    "id": 1095,
     "content": "평가하기, 탐색적면담, 활동계획구축과/와 함께 제시되는 것으로, '내담자의진로욕구가어떻게형성되었는지파악한다'에 해당하는 것은 ( )이다.",
     "modelAnswer": "정보수집",
     "type": "fill-in",
@@ -11363,7 +12045,7 @@
     "pageRef": "보충_2-3 보충프린트_성격심리학, 진로상담(B5) 2"
   },
   {
-    "id": 1034,
+    "id": 1096,
     "content": "평가하기, 정보수집, 활동계획구축과/와 함께 제시되는 것으로, '내담자가원하는직업에실제종사하는사람을만나서면담한다'에 해당하는 것은 ( )이다.",
     "modelAnswer": "탐색적면담",
     "type": "fill-in",
@@ -11374,7 +12056,7 @@
     "pageRef": "보충_2-3 보충프린트_성격심리학, 진로상담(B5) 2"
   },
   {
-    "id": 1035,
+    "id": 1097,
     "content": "평가하기, 정보수집, 탐색적면담과/와 함께 제시되는 것으로, '목표에도달하기위한구체적인계획수립한다'에 해당하는 것은 ( )이다.",
     "modelAnswer": "활동계획구축",
     "type": "fill-in",
@@ -11385,7 +12067,7 @@
     "pageRef": "보충_2-3 보충프린트_성격심리학, 진로상담(B5) 2"
   },
   {
-    "id": 1036,
+    "id": 1098,
     "content": "controlledelaboration의 한국어 용어는 ( )이다.",
     "modelAnswer": "통제된정교",
     "type": "fill-in",
@@ -11396,7 +12078,7 @@
     "pageRef": "보충_2-3 보충프린트_성격심리학, 진로상담(B5) 2"
   },
   {
-    "id": 1037,
+    "id": 1099,
     "content": "contrastreconstruction의 한국어 용어는 ( )이다.",
     "modelAnswer": "대비적재구성",
     "type": "fill-in",
@@ -11407,7 +12089,7 @@
     "pageRef": "보충_2-3 보충프린트_성격심리학, 진로상담(B5) 2"
   },
   {
-    "id": 1038,
+    "id": 1100,
     "content": "reputation의 한국어 용어는 ( )이다.",
     "modelAnswer": "이미지",
     "type": "fill-in",
@@ -11418,7 +12100,7 @@
     "pageRef": "보충_2-4 보충프린트_진로상담"
   },
   {
-    "id": 1039,
+    "id": 1101,
     "content": "plot의 한국어 용어는 ( )이다.",
     "modelAnswer": "구상",
     "type": "fill-in",
@@ -11429,7 +12111,7 @@
     "pageRef": "보충_2-4 보충프린트_진로상담"
   },
   {
-    "id": 1040,
+    "id": 1102,
     "content": "self-regulating의 한국어 용어는 ( )이다.",
     "modelAnswer": "규제",
     "type": "fill-in",
@@ -11440,7 +12122,7 @@
     "pageRef": "보충_2-4 보충프린트_진로상담"
   },
   {
-    "id": 1041,
+    "id": 1103,
     "content": "identitynarratives의 한국어 용어는 ( )이다.",
     "modelAnswer": "내러티브",
     "type": "fill-in",
@@ -11451,7 +12133,7 @@
     "pageRef": "보충_2-4 보충프린트_진로상담"
   },
   {
-    "id": 1042,
+    "id": 1104,
     "content": "DanielKahneman의 한국어 용어는 ( )이다.",
     "modelAnswer": "대니얼카너먼",
     "type": "fill-in",
@@ -11462,7 +12144,7 @@
     "pageRef": "보충_2-5 보충프린트_진로상담"
   },
   {
-    "id": 1043,
+    "id": 1105,
     "content": "AmosTversky의 한국어 용어는 ( )이다.",
     "modelAnswer": "과아모스트버스키",
     "type": "fill-in",
@@ -11473,7 +12155,7 @@
     "pageRef": "보충_2-5 보충프린트_진로상담"
   },
   {
-    "id": 1044,
+    "id": 1106,
     "content": "다음은 수퍼(Super)의 진로발달이론에 관한 설명이다.글을 읽고 물음에 답하시오.에서, Super의 한국어 용어는 ( )이다.",
     "modelAnswer": "수퍼",
     "type": "fill-in",
@@ -11484,7 +12166,7 @@
     "pageRef": "복습_2-5 복습테스트_진로상담"
   },
   {
-    "id": 1045,
+    "id": 1107,
     "content": "Know의 한국어 용어는 ( )이다.",
     "modelAnswer": "지식",
     "type": "fill-in",
@@ -11495,7 +12177,7 @@
     "pageRef": "필기_ACHIEVE 필기노트 02 교육과정"
   },
   {
-    "id": 1046,
+    "id": 1108,
     "content": "goal-free의 한국어 용어는 ( )이다.",
     "modelAnswer": "탈목표",
     "type": "fill-in",

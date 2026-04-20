@@ -4,7 +4,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -14,7 +14,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -24,7 +24,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -34,7 +34,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -54,7 +54,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -74,7 +74,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -94,7 +94,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -154,7 +154,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -164,7 +164,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -174,7 +174,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -184,7 +184,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -224,7 +224,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -234,7 +234,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -254,7 +254,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 4,
     "subjectId": 13,
     "strategy": "person_theory",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -274,7 +274,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 4,
     "subjectId": 13,
     "strategy": "person_theory",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -284,7 +284,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 4,
     "subjectId": 13,
     "strategy": "person_theory",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -314,7 +314,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 4,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "person_theory",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -344,7 +344,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 4,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "person_theory",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -384,7 +384,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 4,
     "subjectId": 13,
     "strategy": "person_theory",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -394,7 +394,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 4,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "person_theory",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -404,7 +404,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 4,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "person_theory",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -414,7 +414,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 4,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "person_theory",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -424,7 +424,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 4,
     "subjectId": 13,
     "strategy": "person_theory",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -474,7 +474,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "concept_description",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -504,7 +504,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 13,
     "strategy": "concept_description",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -534,7 +534,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "concept_description",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -564,7 +564,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 13,
     "strategy": "concept_description",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -574,7 +574,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 13,
     "strategy": "concept_description",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -584,7 +584,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 13,
     "strategy": "concept_description",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -604,7 +604,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "concept_description",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -624,7 +624,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "concept_description",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -634,7 +634,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "concept_description",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -644,7 +644,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "concept_description",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -654,7 +654,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "concept_description",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -674,7 +674,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 13,
     "strategy": "concept_description",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -684,7 +684,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 13,
     "strategy": "concept_description",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -704,7 +704,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "concept_description",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -754,7 +754,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "concept_description",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -764,7 +764,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 13,
     "strategy": "true_false",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -794,7 +794,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 13,
     "strategy": "true_false",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -804,7 +804,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 13,
     "strategy": "true_false",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -814,7 +814,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 13,
     "strategy": "true_false",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -834,7 +834,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "true_false",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -874,7 +874,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 4,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "which_is_correct",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -914,7 +914,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 4,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "which_is_correct",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -934,7 +934,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 4,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "which_is_correct",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -944,7 +944,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 4,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "odd_one_out_curated",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -964,7 +964,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 4,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "odd_one_out_curated",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -974,7 +974,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 4,
     "subjectId": 13,
     "strategy": "which_is_correct",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -994,7 +994,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 4,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "which_is_correct",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -1004,7 +1004,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 4,
     "subjectId": 13,
     "strategy": "odd_one_out_curated",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -1024,7 +1024,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 4,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "odd_one_out_curated",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -1074,7 +1074,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 4,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "which_is_correct",
     "source_file": "1-1 서브노트_이상심리학(빈칸).pdf"
@@ -1104,7 +1104,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-2 서브노트_이상심리학(빈칸).pdf"
@@ -1164,7 +1164,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-2 서브노트_이상심리학(빈칸).pdf"
@@ -1174,7 +1174,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-2 서브노트_이상심리학(빈칸).pdf"
@@ -1184,7 +1184,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-2 서브노트_이상심리학(빈칸).pdf"
@@ -1194,7 +1194,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-2 서브노트_이상심리학(빈칸).pdf"
@@ -1264,7 +1264,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-2 서브노트_이상심리학(빈칸).pdf"
@@ -1294,7 +1294,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-3 서브노트_이상심리학(빈칸).pdf"
@@ -1304,7 +1304,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-3 서브노트_이상심리학(빈칸).pdf"
@@ -1314,7 +1314,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-3 서브노트_이상심리학(빈칸).pdf"
@@ -1414,7 +1414,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-3 서브노트_이상심리학(빈칸).pdf"
@@ -1434,7 +1434,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-3 서브노트_이상심리학(빈칸).pdf"
@@ -1454,7 +1454,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-3 서브노트_이상심리학(빈칸).pdf"
@@ -1474,7 +1474,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-3 서브노트_이상심리학(빈칸).pdf"
@@ -1484,7 +1484,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-3 서브노트_이상심리학(빈칸).pdf"
@@ -1514,7 +1514,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-3 서브노트_이상심리학(빈칸).pdf"
@@ -1524,7 +1524,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-4 서브노트_이상심리학(빈칸).pdf"
@@ -1564,7 +1564,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-4 서브노트_이상심리학(빈칸).pdf"
@@ -1574,7 +1574,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-4 서브노트_이상심리학(빈칸).pdf"
@@ -1594,7 +1594,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-4 서브노트_이상심리학(빈칸).pdf"
@@ -1614,7 +1614,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-4 서브노트_이상심리학(빈칸).pdf"
@@ -1624,7 +1624,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-4 서브노트_이상심리학(빈칸).pdf"
@@ -1644,7 +1644,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-4 서브노트_이상심리학(빈칸).pdf"
@@ -1654,7 +1654,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-4 서브노트_이상심리학(빈칸).pdf"
@@ -1694,7 +1694,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-4 서브노트_이상심리학(빈칸).pdf"
@@ -1754,7 +1754,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -1784,7 +1784,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -1794,7 +1794,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -1804,7 +1804,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -1814,7 +1814,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -1834,7 +1834,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -1854,7 +1854,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -1924,7 +1924,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -1954,7 +1954,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -1984,7 +1984,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -1994,7 +1994,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2004,7 +2004,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2014,7 +2014,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2034,7 +2034,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2074,7 +2074,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2094,7 +2094,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2134,7 +2134,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2164,7 +2164,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2174,7 +2174,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2184,7 +2184,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2204,7 +2204,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2234,7 +2234,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2244,7 +2244,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2264,7 +2264,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2274,7 +2274,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2324,7 +2324,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2344,7 +2344,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2364,7 +2364,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2384,7 +2384,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2414,7 +2414,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2434,7 +2434,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2444,7 +2444,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2454,7 +2454,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2464,7 +2464,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2514,7 +2514,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2524,7 +2524,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2554,7 +2554,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2584,7 +2584,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 4,
     "subjectId": 10,
     "strategy": "person_theory",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2604,7 +2604,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 4,
     "subjectId": 10,
     "strategy": "person_theory",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2614,7 +2614,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 4,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "person_theory",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2634,7 +2634,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 4,
     "subjectId": 10,
     "strategy": "person_theory",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2674,7 +2674,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 4,
     "subjectId": 10,
     "strategy": "person_theory",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2684,7 +2684,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 4,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "person_theory",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2694,7 +2694,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 4,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "person_theory",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2704,7 +2704,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 4,
     "subjectId": 10,
     "strategy": "person_theory",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2714,7 +2714,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 4,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "person_theory",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2724,7 +2724,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 4,
     "subjectId": 10,
     "strategy": "person_theory",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2734,7 +2734,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 4,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "person_theory",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2744,7 +2744,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 4,
     "subjectId": 10,
     "strategy": "person_theory",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2774,7 +2774,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 4,
     "subjectId": 10,
     "strategy": "person_theory",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2784,7 +2784,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 4,
     "subjectId": 10,
     "strategy": "person_theory",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2794,7 +2794,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 4,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "person_theory",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2804,7 +2804,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 4,
     "subjectId": 10,
     "strategy": "person_theory",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2834,7 +2834,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 4,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "person_theory",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2844,7 +2844,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 4,
     "subjectId": 10,
     "strategy": "person_theory",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2854,7 +2854,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 4,
     "subjectId": 10,
     "strategy": "person_theory",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2874,7 +2874,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 4,
     "subjectId": 10,
     "strategy": "person_theory",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2884,7 +2884,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 4,
     "subjectId": 10,
     "strategy": "person_theory",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2894,7 +2894,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 4,
     "subjectId": 10,
     "strategy": "person_theory",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2904,7 +2904,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 4,
     "subjectId": 10,
     "strategy": "person_theory",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2924,7 +2924,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 4,
     "subjectId": 10,
     "strategy": "person_theory",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2944,7 +2944,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 4,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "person_theory",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -2964,7 +2964,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 4,
     "subjectId": 10,
     "strategy": "person_theory",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3004,7 +3004,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 4,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "person_theory",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3014,7 +3014,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 4,
     "subjectId": 10,
     "strategy": "person_theory",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3034,7 +3034,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "concept_description",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3054,7 +3054,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "concept_description",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3064,7 +3064,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "concept_description",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3084,7 +3084,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "concept_description",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3094,7 +3094,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "concept_description",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3104,7 +3104,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "concept_description",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3124,7 +3124,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "concept_description",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3134,7 +3134,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "concept_description",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3144,7 +3144,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "concept_description",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3154,7 +3154,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "concept_description",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3164,7 +3164,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "concept_description",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3174,7 +3174,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "concept_description",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3184,7 +3184,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "concept_description",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3204,7 +3204,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "concept_description",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3224,7 +3224,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "concept_description",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3244,7 +3244,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "concept_description",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3264,7 +3264,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "concept_description",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3324,7 +3324,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "concept_description",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3414,7 +3414,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "true_false",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3424,7 +3424,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "true_false",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3444,7 +3444,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "true_false",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3454,7 +3454,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "true_false",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3464,7 +3464,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "true_false",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3484,7 +3484,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "true_false",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3494,7 +3494,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 4,
     "subjectId": 10,
     "strategy": "odd_one_out_curated",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3504,7 +3504,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 4,
     "subjectId": 10,
     "strategy": "which_is_correct",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3544,7 +3544,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 4,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "which_is_correct",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3564,7 +3564,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 4,
     "subjectId": 10,
     "strategy": "which_is_correct",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3574,7 +3574,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 4,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "odd_one_out_curated",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3584,7 +3584,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 4,
     "subjectId": 10,
     "strategy": "which_is_correct",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3594,7 +3594,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 4,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "odd_one_out_curated",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3604,7 +3604,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 4,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "which_is_correct",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3654,7 +3654,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 4,
     "subjectId": 10,
     "strategy": "odd_one_out_curated",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3704,7 +3704,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 4,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "which_is_correct",
     "source_file": "1-5 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3734,7 +3734,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3754,7 +3754,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3774,7 +3774,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3784,7 +3784,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3824,7 +3824,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3834,7 +3834,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3844,7 +3844,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3874,7 +3874,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3884,7 +3884,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3914,7 +3914,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3924,7 +3924,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3934,7 +3934,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -3974,7 +3974,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -4004,7 +4004,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -4014,7 +4014,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -4024,7 +4024,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -4034,7 +4034,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -4044,7 +4044,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -4064,7 +4064,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -4114,7 +4114,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -4164,7 +4164,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -4184,7 +4184,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -4214,7 +4214,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -4234,7 +4234,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -4264,7 +4264,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -4324,7 +4324,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -4334,7 +4334,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -4344,7 +4344,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -4354,7 +4354,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -4394,7 +4394,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -4404,7 +4404,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -4444,7 +4444,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -4454,7 +4454,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -4474,7 +4474,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -4504,7 +4504,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -4514,7 +4514,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -4534,7 +4534,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -4554,7 +4554,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제(빈칸).pdf"
@@ -4574,7 +4574,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -4584,7 +4584,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -4604,7 +4604,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -4624,7 +4624,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -4674,7 +4674,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -4684,7 +4684,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -4714,7 +4714,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -4734,7 +4734,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -4744,7 +4744,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -4774,7 +4774,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -4784,7 +4784,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -4794,7 +4794,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -4824,7 +4824,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -4834,7 +4834,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -4864,7 +4864,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -4904,7 +4904,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -4914,7 +4914,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -4944,7 +4944,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -4974,7 +4974,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -4984,7 +4984,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -5014,7 +5014,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -5034,7 +5034,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -5044,7 +5044,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -5074,7 +5074,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -5084,7 +5084,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -5094,7 +5094,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -5104,7 +5104,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -5114,7 +5114,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -5124,7 +5124,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -5134,7 +5134,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -5144,7 +5144,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -5154,7 +5154,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -5164,7 +5164,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -5174,7 +5174,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -5224,7 +5224,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -5234,7 +5234,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -5254,7 +5254,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -5284,7 +5284,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -5294,7 +5294,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론(빈칸).pdf"
@@ -5304,7 +5304,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-8 서브노트_상담이론, 특수아상담.pdf"
@@ -5314,7 +5314,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-8 서브노트_상담이론, 특수아상담.pdf"
@@ -5324,7 +5324,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-8 서브노트_상담이론, 특수아상담.pdf"
@@ -5334,7 +5334,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-8 서브노트_상담이론, 특수아상담.pdf"
@@ -5364,7 +5364,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-8 서브노트_상담이론, 특수아상담.pdf"
@@ -5384,7 +5384,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-8 서브노트_상담이론, 특수아상담.pdf"
@@ -5394,7 +5394,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-8 서브노트_상담이론, 특수아상담.pdf"
@@ -5404,7 +5404,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-8 서브노트_상담이론, 특수아상담.pdf"
@@ -5414,7 +5414,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-8 서브노트_상담이론, 특수아상담.pdf"
@@ -5434,7 +5434,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-8 서브노트_상담이론, 특수아상담.pdf"
@@ -5464,7 +5464,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-8 서브노트_상담이론, 특수아상담.pdf"
@@ -5474,7 +5474,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-8 서브노트_상담이론, 특수아상담.pdf"
@@ -5494,7 +5494,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-8 서브노트_상담이론, 특수아상담.pdf"
@@ -5514,7 +5514,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-8 서브노트_상담이론, 특수아상담.pdf"
@@ -5524,7 +5524,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-8 서브노트_상담이론, 특수아상담.pdf"
@@ -5544,7 +5544,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-8 서브노트_상담이론, 특수아상담.pdf"
@@ -5564,7 +5564,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-8 서브노트_상담이론, 특수아상담.pdf"
@@ -5584,7 +5584,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-8 서브노트_상담이론, 특수아상담.pdf"
@@ -5604,7 +5604,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-8 서브노트_상담이론, 특수아상담.pdf"
@@ -5614,7 +5614,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-8 서브노트_상담이론, 특수아상담.pdf"
@@ -5644,7 +5644,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-8 서브노트_상담이론, 특수아상담.pdf"
@@ -5664,7 +5664,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-8 서브노트_상담이론, 특수아상담.pdf"
@@ -5714,7 +5714,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-8 서브노트_상담이론, 특수아상담.pdf"
@@ -5844,7 +5844,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-8 서브노트_상담이론, 특수아상담.pdf"
@@ -5854,7 +5854,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-8 서브노트_상담이론, 특수아상담.pdf"
@@ -5864,7 +5864,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-8 서브노트_상담이론, 특수아상담.pdf"
@@ -5914,7 +5914,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-8 서브노트_상담이론, 특수아상담.pdf"
@@ -5934,7 +5934,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-8 서브노트_상담이론, 특수아상담.pdf"
@@ -5944,7 +5944,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-8 서브노트_상담이론, 특수아상담.pdf"
@@ -5974,7 +5974,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-2 서브노트_이상심리학.pdf"
@@ -5984,7 +5984,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-2 서브노트_이상심리학.pdf"
@@ -6004,7 +6004,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-2 서브노트_이상심리학.pdf"
@@ -6014,7 +6014,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-2 서브노트_이상심리학.pdf"
@@ -6034,7 +6034,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-2 서브노트_이상심리학.pdf"
@@ -6054,7 +6054,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-2 서브노트_이상심리학.pdf"
@@ -6064,7 +6064,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-2 서브노트_이상심리학.pdf"
@@ -6084,7 +6084,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-2 서브노트_이상심리학.pdf"
@@ -6094,7 +6094,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 13,
     "strategy": "definition_matching",
     "source_file": "1-2 서브노트_이상심리학.pdf"
@@ -6104,7 +6104,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제.pdf"
@@ -6124,7 +6124,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제.pdf"
@@ -6134,7 +6134,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제.pdf"
@@ -6164,7 +6164,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제.pdf"
@@ -6174,7 +6174,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제.pdf"
@@ -6214,7 +6214,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제.pdf"
@@ -6224,7 +6224,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제.pdf"
@@ -6264,7 +6264,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제.pdf"
@@ -6274,7 +6274,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제.pdf"
@@ -6284,7 +6284,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제.pdf"
@@ -6314,7 +6314,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제.pdf"
@@ -6324,7 +6324,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제.pdf"
@@ -6354,7 +6354,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제.pdf"
@@ -6364,7 +6364,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제.pdf"
@@ -6394,7 +6394,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제.pdf"
@@ -6444,7 +6444,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제.pdf"
@@ -6474,7 +6474,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제.pdf"
@@ -6484,7 +6484,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제.pdf"
@@ -6494,7 +6494,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제.pdf"
@@ -6534,7 +6534,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제.pdf"
@@ -6574,7 +6574,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제.pdf"
@@ -6624,7 +6624,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-5 서브노트_상담이론과 실제.pdf"
@@ -6664,7 +6664,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제.pdf"
@@ -6734,7 +6734,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제.pdf"
@@ -6744,7 +6744,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제.pdf"
@@ -6754,7 +6754,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제.pdf"
@@ -6764,7 +6764,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제.pdf"
@@ -6784,7 +6784,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제.pdf"
@@ -6824,7 +6824,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제.pdf"
@@ -6874,7 +6874,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제.pdf"
@@ -6904,7 +6904,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제.pdf"
@@ -6914,7 +6914,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제.pdf"
@@ -6924,7 +6924,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제.pdf"
@@ -6934,7 +6934,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제.pdf"
@@ -6954,7 +6954,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제.pdf"
@@ -7014,7 +7014,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제.pdf"
@@ -7024,7 +7024,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제.pdf"
@@ -7034,7 +7034,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제.pdf"
@@ -7044,7 +7044,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제.pdf"
@@ -7054,7 +7054,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제.pdf"
@@ -7064,7 +7064,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제.pdf"
@@ -7074,7 +7074,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제.pdf"
@@ -7084,7 +7084,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제.pdf"
@@ -7094,7 +7094,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-6 서브노트_상담이론과 실제.pdf"
@@ -7164,7 +7164,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론.pdf"
@@ -7174,7 +7174,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론.pdf"
@@ -7214,7 +7214,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론.pdf"
@@ -7224,7 +7224,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론.pdf"
@@ -7254,7 +7254,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론.pdf"
@@ -7274,7 +7274,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론.pdf"
@@ -7304,7 +7304,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론.pdf"
@@ -7324,7 +7324,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론.pdf"
@@ -7344,7 +7344,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론.pdf"
@@ -7374,7 +7374,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론.pdf"
@@ -7394,7 +7394,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론.pdf"
@@ -7414,7 +7414,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론.pdf"
@@ -7424,7 +7424,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론.pdf"
@@ -7444,7 +7444,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론.pdf"
@@ -7454,7 +7454,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론.pdf"
@@ -7474,7 +7474,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론.pdf"
@@ -7494,7 +7494,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론.pdf"
@@ -7504,7 +7504,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론.pdf"
@@ -7524,7 +7524,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론.pdf"
@@ -7534,7 +7534,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 10,
     "strategy": "definition_matching",
     "source_file": "1-7 서브노트_상담이론.pdf"
@@ -7544,7 +7544,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-1 서브노트_성격심리학(빈칸).pdf"
@@ -7574,7 +7574,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-1 서브노트_성격심리학(빈칸).pdf"
@@ -7584,7 +7584,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-1 서브노트_성격심리학(빈칸).pdf"
@@ -7604,7 +7604,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-1 서브노트_성격심리학(빈칸).pdf"
@@ -7614,7 +7614,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-1 서브노트_성격심리학(빈칸).pdf"
@@ -7664,7 +7664,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-1 서브노트_성격심리학(빈칸).pdf"
@@ -7724,7 +7724,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-1 서브노트_성격심리학(빈칸).pdf"
@@ -7754,7 +7754,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-1 서브노트_성격심리학(빈칸).pdf"
@@ -7764,7 +7764,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-1 서브노트_성격심리학(빈칸).pdf"
@@ -7774,7 +7774,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-1 서브노트_성격심리학(빈칸).pdf"
@@ -7794,7 +7794,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-1 서브노트_성격심리학(빈칸).pdf"
@@ -7814,7 +7814,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-1 서브노트_성격심리학(빈칸).pdf"
@@ -7854,7 +7854,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-1 서브노트_성격심리학(빈칸).pdf"
@@ -7864,7 +7864,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-1 서브노트_성격심리학(빈칸).pdf"
@@ -7914,7 +7914,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-2 서브노트_성격심리학 2.pdf"
@@ -7924,7 +7924,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-2 서브노트_성격심리학 2.pdf"
@@ -7934,7 +7934,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-2 서브노트_성격심리학 2.pdf"
@@ -7944,7 +7944,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-2 서브노트_성격심리학 2.pdf"
@@ -7954,7 +7954,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-2 서브노트_성격심리학 2.pdf"
@@ -7964,7 +7964,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-2 서브노트_성격심리학 2.pdf"
@@ -7984,7 +7984,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-2 서브노트_성격심리학 2.pdf"
@@ -8004,7 +8004,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-2 서브노트_성격심리학 2.pdf"
@@ -8014,7 +8014,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-2 서브노트_성격심리학 2.pdf"
@@ -8024,7 +8024,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-2 서브노트_성격심리학 2.pdf"
@@ -8034,7 +8034,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-2 서브노트_성격심리학 2.pdf"
@@ -8064,7 +8064,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-2 서브노트_성격심리학 2.pdf"
@@ -8074,7 +8074,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-2 서브노트_성격심리학 2.pdf"
@@ -8104,7 +8104,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-2 서브노트_성격심리학 2.pdf"
@@ -8154,7 +8154,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-2 서브노트_성격심리학 2.pdf"
@@ -8204,7 +8204,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-2 서브노트_성격심리학 2.pdf"
@@ -8214,7 +8214,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-2 서브노트_성격심리학 2.pdf"
@@ -8304,7 +8304,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-2 서브노트_성격심리학 2.pdf"
@@ -8344,7 +8344,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-2 서브노트_성격심리학 2.pdf"
@@ -8354,7 +8354,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-2 서브노트_성격심리학 2.pdf"
@@ -8364,7 +8364,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-2 서브노트_성격심리학 2.pdf"
@@ -8394,7 +8394,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-2 서브노트_성격심리학 2.pdf"
@@ -8414,7 +8414,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-2 서브노트_성격심리학 2.pdf"
@@ -8484,7 +8484,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-2 서브노트_성격심리학 2.pdf"
@@ -8544,7 +8544,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-3 서브노트_성격심리학, 진로상담(빈칸).pdf"
@@ -8554,7 +8554,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-3 서브노트_성격심리학, 진로상담(빈칸).pdf"
@@ -8604,7 +8604,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-3 서브노트_성격심리학, 진로상담(빈칸).pdf"
@@ -8654,7 +8654,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-3 서브노트_성격심리학, 진로상담(빈칸).pdf"
@@ -8714,7 +8714,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-3 서브노트_성격심리학, 진로상담(빈칸).pdf"
@@ -8724,7 +8724,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-3 서브노트_성격심리학, 진로상담(빈칸).pdf"
@@ -8734,7 +8734,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-3 서브노트_성격심리학, 진로상담(빈칸).pdf"
@@ -8754,7 +8754,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-3 서브노트_성격심리학, 진로상담(빈칸).pdf"
@@ -8784,7 +8784,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-3 서브노트_성격심리학, 진로상담(빈칸).pdf"
@@ -8804,7 +8804,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-3 서브노트_성격심리학, 진로상담(빈칸).pdf"
@@ -8814,7 +8814,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-3 서브노트_성격심리학, 진로상담(빈칸).pdf"
@@ -8844,7 +8844,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-3 서브노트_성격심리학, 진로상담(빈칸).pdf"
@@ -8864,7 +8864,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-3 서브노트_성격심리학, 진로상담(빈칸).pdf"
@@ -8874,7 +8874,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-3 서브노트_성격심리학, 진로상담(빈칸).pdf"
@@ -8904,7 +8904,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-3 서브노트_성격심리학, 진로상담(빈칸).pdf"
@@ -8914,7 +8914,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-3 서브노트_성격심리학, 진로상담(빈칸).pdf"
@@ -8934,7 +8934,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-3 서브노트_성격심리학, 진로상담(빈칸).pdf"
@@ -8944,7 +8944,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 18,
     "strategy": "definition_matching",
     "source_file": "2-3 서브노트_성격심리학, 진로상담(빈칸).pdf"
@@ -8954,7 +8954,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-4 서브노트-진로상담(빈칸).pdf"
@@ -9014,7 +9014,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-4 서브노트-진로상담(빈칸).pdf"
@@ -9024,7 +9024,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-4 서브노트-진로상담(빈칸).pdf"
@@ -9034,7 +9034,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-4 서브노트-진로상담(빈칸).pdf"
@@ -9044,7 +9044,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-4 서브노트-진로상담(빈칸).pdf"
@@ -9054,7 +9054,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-4 서브노트-진로상담(빈칸).pdf"
@@ -9104,7 +9104,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-4 서브노트-진로상담(빈칸).pdf"
@@ -9114,7 +9114,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-4 서브노트-진로상담(빈칸).pdf"
@@ -9164,7 +9164,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-4 서브노트-진로상담(빈칸).pdf"
@@ -9184,7 +9184,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-4 서브노트-진로상담(빈칸).pdf"
@@ -9194,7 +9194,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-4 서브노트-진로상담(빈칸).pdf"
@@ -9224,7 +9224,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-4 서브노트-진로상담(빈칸).pdf"
@@ -9234,7 +9234,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-4 서브노트-진로상담(빈칸).pdf"
@@ -9244,7 +9244,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-4 서브노트-진로상담(빈칸).pdf"
@@ -9264,7 +9264,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-4 서브노트-진로상담(빈칸).pdf"
@@ -9274,7 +9274,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-4 서브노트-진로상담(빈칸).pdf"
@@ -9284,7 +9284,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-4 서브노트-진로상담(빈칸).pdf"
@@ -9294,7 +9294,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-4 서브노트-진로상담(빈칸).pdf"
@@ -9374,7 +9374,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-4 서브노트-진로상담(빈칸).pdf"
@@ -9414,7 +9414,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-4 서브노트-진로상담(빈칸).pdf"
@@ -9464,7 +9464,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-4 서브노트-진로상담(빈칸).pdf"
@@ -9484,7 +9484,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-4 서브노트-진로상담(빈칸).pdf"
@@ -9494,7 +9494,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-4 서브노트-진로상담(빈칸).pdf"
@@ -9524,7 +9524,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-4 서브노트-진로상담(빈칸).pdf"
@@ -9564,7 +9564,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-4 서브노트-진로상담(빈칸).pdf"
@@ -9584,7 +9584,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-4 서브노트-진로상담(빈칸).pdf"
@@ -9624,7 +9624,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-5 서브노트-진로상담(빈칸)수정.pdf"
@@ -9644,7 +9644,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-5 서브노트-진로상담(빈칸)수정.pdf"
@@ -9674,7 +9674,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-5 서브노트-진로상담(빈칸)수정.pdf"
@@ -9684,7 +9684,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-5 서브노트-진로상담(빈칸)수정.pdf"
@@ -9694,7 +9694,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-5 서브노트-진로상담(빈칸)수정.pdf"
@@ -9714,7 +9714,7 @@
     "modelAnswer": "A",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-5 서브노트-진로상담(빈칸)수정.pdf"
@@ -9724,7 +9724,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-5 서브노트-진로상담(빈칸)수정.pdf"
@@ -9764,7 +9764,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-5 서브노트-진로상담(빈칸)수정.pdf"
@@ -9774,7 +9774,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-5 서브노트-진로상담(빈칸)수정.pdf"
@@ -9794,7 +9794,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-5 서브노트-진로상담(빈칸)수정.pdf"
@@ -9804,7 +9804,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-5 서브노트-진로상담(빈칸)수정.pdf"
@@ -9814,7 +9814,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-5 서브노트-진로상담(빈칸)수정.pdf"
@@ -9834,7 +9834,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-5 서브노트-진로상담(빈칸)수정.pdf"
@@ -9854,7 +9854,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-5 서브노트-진로상담(빈칸)수정.pdf"
@@ -9884,7 +9884,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-5 서브노트-진로상담(빈칸)수정.pdf"
@@ -9894,7 +9894,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-5 서브노트-진로상담(빈칸)수정.pdf"
@@ -9904,7 +9904,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-5 서브노트-진로상담(빈칸)수정.pdf"
@@ -9984,7 +9984,7 @@
     "modelAnswer": "B",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-5 서브노트-진로상담(빈칸)수정.pdf"
@@ -10014,7 +10014,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-5 서브노트-진로상담(빈칸)수정.pdf"
@@ -10034,7 +10034,7 @@
     "modelAnswer": "C",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-5 서브노트-진로상담(빈칸)수정.pdf"
@@ -10044,7 +10044,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 2,
+    "difficulty": 3,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-5 서브노트-진로상담(빈칸)수정.pdf"
@@ -10054,7 +10054,7 @@
     "modelAnswer": "D",
     "type": "multiple-choice",
     "source": "subnote",
-    "difficulty": 3,
+    "difficulty": 2,
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-5 서브노트-진로상담(빈칸)수정.pdf"
@@ -10078,5 +10078,365 @@
     "subjectId": 12,
     "strategy": "definition_matching",
     "source_file": "2-5 서브노트-진로상담(수정).pdf"
+  },
+  {
+    "content": "기억에서 '시각,청각,후각등감각시스템으로부터들어온정보를순간적으로저장하는기억'에 해당하는 것은?\nA. 단기기억\nB. 망각\nC. 감각기억\nD. 망각의원인(이론) ①소멸이론",
+    "modelAnswer": "C",
+    "type": "multiple-choice",
+    "source": "subnote",
+    "difficulty": 2,
+    "subjectId": 19,
+    "strategy": "definition_matching",
+    "source_file": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "content": "'감각기억'에 대한 설명으로 옳은 것은?\nA. 감각기억과 단기기억의 과정을 거쳐 들어온 정보를 무제한적⋅영구적으로 저장하는 기억 ① 외현기억:의식적으로 회\nB. 능동적으로 정보를 처리하는 활동 중인 기억으로,감각기억으로부터 들어온 정보를 처리하는 동안 이를 유지한다(7\nC. 시각,청각,후각등감각시스템으로부터들어온정보를순간적으로저장하는기억\nD. 기억은본질적으로비영구적이므로시간의경과에따라망각이필연적으로발생한다. 즉,시간의흐름자체가망각을유발한다. ②간섭이",
+    "modelAnswer": "C",
+    "type": "multiple-choice",
+    "source": "subnote",
+    "difficulty": 2,
+    "subjectId": 19,
+    "strategy": "definition_matching",
+    "source_file": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "content": "기억에서 '능동적으로 정보를 처리하는 활동 중인 기억으로,감각기억으로부터 들어온 정보를 처리하는 동안 이를 유지한다(7±2정도의 용량,5~20초 정도 지속...'에 해당하는 것은?\nA. 망각의원인(이론) ①소멸이론\nB. 단기기억\nC. 망각\nD. 감각기억",
+    "modelAnswer": "B",
+    "type": "multiple-choice",
+    "source": "subnote",
+    "difficulty": 2,
+    "subjectId": 19,
+    "strategy": "definition_matching",
+    "source_file": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "content": "'단기기억'에 대한 설명으로 옳은 것은?\nA. 시각,청각,후각등감각시스템으로부터들어온정보를순간적으로저장하는기억\nB. 감각기억과 단기기억의 과정을 거쳐 들어온 정보를 무제한적⋅영구적으로 저장하는 기억 ① 외현기억:의식적으로 회\nC. 능동적으로 정보를 처리하는 활동 중인 기억으로,감각기억으로부터 들어온 정보를 처리하는 동안 이를 유지한다(7\nD. 전에경험또는학습한것을상기하거나재생하는능력이일시적또는영속적으로감퇴및상 실되는일",
+    "modelAnswer": "C",
+    "type": "multiple-choice",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "strategy": "definition_matching",
+    "source_file": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "content": "기억에서 '감각기억과 단기기억의 과정을 거쳐 들어온 정보를 무제한적⋅영구적으로 저장하는 기억 ① 외현기억:의식적으로 회상하거나 인지가 가능한 기억 ⓐ의미기...'에 해당하는 것은?\nA. 단기기억\nB. 망각의원인(이론) ①소멸이론\nC. 감각기억\nD. 장기기억",
+    "modelAnswer": "D",
+    "type": "multiple-choice",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "strategy": "definition_matching",
+    "source_file": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "content": "'장기기억'에 대한 설명으로 옳은 것은?\nA. 감각기억과 단기기억의 과정을 거쳐 들어온 정보를 무제한적⋅영구적으로 저장하는 기억 ① 외현기억:의식적으로 회\nB. 시각,청각,후각등감각시스템으로부터들어온정보를순간적으로저장하는기억\nC. 기억은본질적으로비영구적이므로시간의경과에따라망각이필연적으로발생한다. 즉,시간의흐름자체가망각을유발한다. ②간섭이\nD. 능동적으로 정보를 처리하는 활동 중인 기억으로,감각기억으로부터 들어온 정보를 처리하는 동안 이를 유지한다(7",
+    "modelAnswer": "A",
+    "type": "multiple-choice",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "strategy": "definition_matching",
+    "source_file": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "content": "기억에서 '전에경험또는학습한것을상기하거나재생하는능력이일시적또는영속적으로감퇴및상 실되는일'에 해당하는 것은?\nA. 감각기억\nB. 망각\nC. 단기기억\nD. 망각의원인(이론) ①소멸이론",
+    "modelAnswer": "B",
+    "type": "multiple-choice",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "strategy": "definition_matching",
+    "source_file": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "content": "'망각'에 대한 설명으로 옳은 것은?\nA. 시각,청각,후각등감각시스템으로부터들어온정보를순간적으로저장하는기억\nB. 기억은본질적으로비영구적이므로시간의경과에따라망각이필연적으로발생한다. 즉,시간의흐름자체가망각을유발한다. ②간섭이\nC. 전에경험또는학습한것을상기하거나재생하는능력이일시적또는영속적으로감퇴및상 실되는일\nD. 감각기억과 단기기억의 과정을 거쳐 들어온 정보를 무제한적⋅영구적으로 저장하는 기억 ① 외현기억:의식적으로 회",
+    "modelAnswer": "C",
+    "type": "multiple-choice",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "strategy": "definition_matching",
+    "source_file": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "content": "기억에서 '기억은본질적으로비영구적이므로시간의경과에따라망각이필연적으로발생한다. 즉,시간의흐름자체가망각을유발한다. ②간섭이론:어떤정보를회상하려할때다른정보의유입...'에 해당하는 것은?\nA. 단기기억\nB. 장기기억\nC. 망각의원인(이론) ①소멸이론\nD. 망각",
+    "modelAnswer": "C",
+    "type": "multiple-choice",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "strategy": "definition_matching",
+    "source_file": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "content": "'망각의원인(이론) ①소멸이론'에 대한 설명으로 옳은 것은?\nA. 전에경험또는학습한것을상기하거나재생하는능력이일시적또는영속적으로감퇴및상 실되는일\nB. 시각,청각,후각등감각시스템으로부터들어온정보를순간적으로저장하는기억\nC. 감각기억과 단기기억의 과정을 거쳐 들어온 정보를 무제한적⋅영구적으로 저장하는 기억 ① 외현기억:의식적으로 회\nD. 기억은본질적으로비영구적이므로시간의경과에따라망각이필연적으로발생한다. 즉,시간의흐름자체가망각을유발한다. ②간섭이",
+    "modelAnswer": "D",
+    "type": "multiple-choice",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "strategy": "definition_matching",
+    "source_file": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "content": "언어에서 '필연적으로언어가정해진것이아니라그것을쓰는사람들사이에서자의적으로정해 진것으로음성+의미가결합되어하나의기호로굳어진것이다. ②추상성:동일한분류하에묶여있는...'에 해당하는 것은?\nA. 실어증\nB. 언어의 주요 특성 ①자의성\nC. 베르니케실어증\nD. 브로카실어증",
+    "modelAnswer": "B",
+    "type": "multiple-choice",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "strategy": "definition_matching",
+    "source_file": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "content": "'언어의 주요 특성 ①자의성'에 대한 설명으로 옳은 것은?\nA. 필연적으로언어가정해진것이아니라그것을쓰는사람들사이에서자의적으로정해 진것으로음성+의미가결합되어하나의기호로굳어진것\nB. 일반적으로좌반구의브로카영역(말하기장애)이나베르니케영역(말이해장애)의손상 에의해야기되는언어장애이다.\nC. 언어를 이해하고 처리하는 영역인 베르니케 영역(좌반구 측두엽 및 후두엽 근 처)이손상되어나타나는언어장애의한유\nD. 브로카영역(좌반구하측전두엽)이손상되어,언어를이해하고의미를파악하는 데는문제가없지만,말을하거나표현하는데어려움을보",
+    "modelAnswer": "A",
+    "type": "multiple-choice",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "strategy": "definition_matching",
+    "source_file": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "content": "언어에서 '특정한대상이나개념을가리키는언어의기능 ②정보적기능:의사소통과정에서정보나지식을전달하는언어의기능 ③친교적기능:상대방과의친교를다지기위한언어의기능 ④정서...'에 해당하는 것은?\nA. 브로카실어증\nB. 전도성실어증\nC. 언어의 주요 특성 ①자의성\nD. 언어의 기능 ①지시적기능",
+    "modelAnswer": "D",
+    "type": "multiple-choice",
+    "source": "subnote",
+    "difficulty": 2,
+    "subjectId": 19,
+    "strategy": "definition_matching",
+    "source_file": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "content": "'언어의 기능 ①지시적기능'에 대한 설명으로 옳은 것은?\nA. 이해력과표현력이비교적양호하지만상대방의말을따라하지못하는특징을보 이는실어증유형의하나이다.이러한원인은브로카영역과베\nB. 브로카영역(좌반구하측전두엽)이손상되어,언어를이해하고의미를파악하는 데는문제가없지만,말을하거나표현하는데어려움을보\nC. 특정한대상이나개념을가리키는언어의기능 ②정보적기능:의사소통과정에서정보나지식을전달하는언어의기능 ③친교적기능:상대\nD. 뇌의언어담당영역의앞뒤부분이모두손상되고모든언어처리구성요소에이 상이생겨‘안녕’과같은상투적어구나무의미단어를말할수있",
+    "modelAnswer": "C",
+    "type": "multiple-choice",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "strategy": "definition_matching",
+    "source_file": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "content": "언어에서 '일반적으로좌반구의브로카영역(말하기장애)이나베르니케영역(말이해장애)의손상 에의해야기되는언어장애이다.'에 해당하는 것은?\nA. 언어의 기능 ①지시적기능\nB. 전도성실어증\nC. 베르니케실어증\nD. 실어증",
+    "modelAnswer": "D",
+    "type": "multiple-choice",
+    "source": "subnote",
+    "difficulty": 2,
+    "subjectId": 19,
+    "strategy": "definition_matching",
+    "source_file": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "content": "'실어증'에 대한 설명으로 옳은 것은?\nA. 뇌의언어담당영역의앞뒤부분이모두손상되고모든언어처리구성요소에이 상이생겨‘안녕’과같은상투적어구나무의미단어를말할수있\nB. 필연적으로언어가정해진것이아니라그것을쓰는사람들사이에서자의적으로정해 진것으로음성+의미가결합되어하나의기호로굳어진것\nC. 이해력과표현력이비교적양호하지만상대방의말을따라하지못하는특징을보 이는실어증유형의하나이다.이러한원인은브로카영역과베\nD. 일반적으로좌반구의브로카영역(말하기장애)이나베르니케영역(말이해장애)의손상 에의해야기되는언어장애이다.",
+    "modelAnswer": "D",
+    "type": "multiple-choice",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "strategy": "definition_matching",
+    "source_file": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "content": "언어에서 '브로카영역(좌반구하측전두엽)이손상되어,언어를이해하고의미를파악하는 데는문제가없지만,말을하거나표현하는데어려움을보이는실어증의한유형이다.'에 해당하는 것은?\nA. 언어의 주요 특성 ①자의성\nB. 언어의 기능 ①지시적기능\nC. 베르니케실어증\nD. 브로카실어증",
+    "modelAnswer": "D",
+    "type": "multiple-choice",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "strategy": "definition_matching",
+    "source_file": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "content": "'브로카실어증'에 대한 설명으로 옳은 것은?\nA. 특정한대상이나개념을가리키는언어의기능 ②정보적기능:의사소통과정에서정보나지식을전달하는언어의기능 ③친교적기능:상대\nB. 언어를 이해하고 처리하는 영역인 베르니케 영역(좌반구 측두엽 및 후두엽 근 처)이손상되어나타나는언어장애의한유\nC. 브로카영역(좌반구하측전두엽)이손상되어,언어를이해하고의미를파악하는 데는문제가없지만,말을하거나표현하는데어려움을보\nD. 일반적으로좌반구의브로카영역(말하기장애)이나베르니케영역(말이해장애)의손상 에의해야기되는언어장애이다.",
+    "modelAnswer": "C",
+    "type": "multiple-choice",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "strategy": "definition_matching",
+    "source_file": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "content": "언어에서 '언어를 이해하고 처리하는 영역인 베르니케 영역(좌반구 측두엽 및 후두엽 근 처)이손상되어나타나는언어장애의한유형으로,단어나문장의형태로표현하는데는문...'에 해당하는 것은?\nA. 베르니케실어증\nB. 실어증\nC. 언어의 기능 ①지시적기능\nD. 브로카실어증",
+    "modelAnswer": "A",
+    "type": "multiple-choice",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "strategy": "definition_matching",
+    "source_file": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "content": "'베르니케실어증'에 대한 설명으로 옳은 것은?\nA. 브로카영역(좌반구하측전두엽)이손상되어,언어를이해하고의미를파악하는 데는문제가없지만,말을하거나표현하는데어려움을보\nB. 필연적으로언어가정해진것이아니라그것을쓰는사람들사이에서자의적으로정해 진것으로음성+의미가결합되어하나의기호로굳어진것\nC. 뇌의언어담당영역의앞뒤부분이모두손상되고모든언어처리구성요소에이 상이생겨‘안녕’과같은상투적어구나무의미단어를말할수있\nD. 언어를 이해하고 처리하는 영역인 베르니케 영역(좌반구 측두엽 및 후두엽 근 처)이손상되어나타나는언어장애의한유",
+    "modelAnswer": "D",
+    "type": "multiple-choice",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "strategy": "definition_matching",
+    "source_file": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "content": "언어에서 '이해력과표현력이비교적양호하지만상대방의말을따라하지못하는특징을보 이는실어증유형의하나이다.이러한원인은브로카영역과베르니케영역사이를이어주는활모 양의섬유다...'에 해당하는 것은?\nA. 전도성실어증\nB. 언어의 주요 특성 ①자의성\nC. 전반적실어증\nD. 베르니케실어증",
+    "modelAnswer": "A",
+    "type": "multiple-choice",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "strategy": "definition_matching",
+    "source_file": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "content": "'전도성실어증'에 대한 설명으로 옳은 것은?\nA. 뇌의언어담당영역의앞뒤부분이모두손상되고모든언어처리구성요소에이 상이생겨‘안녕’과같은상투적어구나무의미단어를말할수있\nB. 일반적으로좌반구의브로카영역(말하기장애)이나베르니케영역(말이해장애)의손상 에의해야기되는언어장애이다.\nC. 특정한대상이나개념을가리키는언어의기능 ②정보적기능:의사소통과정에서정보나지식을전달하는언어의기능 ③친교적기능:상대\nD. 이해력과표현력이비교적양호하지만상대방의말을따라하지못하는특징을보 이는실어증유형의하나이다.이러한원인은브로카영역과베",
+    "modelAnswer": "D",
+    "type": "multiple-choice",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "strategy": "definition_matching",
+    "source_file": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "content": "귀인이론에서 '행동을설명하는방법,즉상황이나개인의성향에원인을돌리는방법에대한이론'에 해당하는 것은?\nA. 부모화\nB. 귀인이론\nC. 지휘자\nD. 몰개인화",
+    "modelAnswer": "B",
+    "type": "multiple-choice",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "strategy": "definition_matching",
+    "source_file": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "content": "'귀인이론'에 대한 설명으로 옳은 것은?\nA. 행동을설명하는방법,즉상황이나개인의성향에원인을돌리는방법에대한이론\nB. 집단속에서일을하면개인의작업능률이높아지는현상\nC. 집중적인 공부나 연습보다 분산된 공부나 연습이 더 우수한 장기 파지를 초래하 는 경향성\nD. 체계를 먼저 생각한다.이러한 부류의 치료사는 환자를 역기능에 처한 가족의 한 부분으로 보기 때문에,환자란 가",
+    "modelAnswer": "A",
+    "type": "multiple-choice",
+    "source": "subnote",
+    "difficulty": 2,
+    "subjectId": 19,
+    "strategy": "definition_matching",
+    "source_file": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "content": "귀인이론에서 '자신이나타인의행동을행위자의기질및성격과같은내부요소로귀인하는경우 ②외부귀인:외적인압력및사회적규범과같은상황적인외부요소로귀인하는경우'에 해당하는 것은?\nA. 맛혐오학습(조건맛혐오)\nB. 이중구속\nC. 귀인의방향 ①내부귀인\nD. 과신오류와 자기과신의함정(과신",
+    "modelAnswer": "C",
+    "type": "multiple-choice",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "strategy": "definition_matching",
+    "source_file": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "content": "'귀인의방향 ①내부귀인'에 대한 설명으로 옳은 것은?\nA. 불안,분노,우울과같은부정정서를잘느끼는성격특성 ②부정정서성:부정정서와낮은자기존중감을경험하는것과관련된성격요인\nB. 집단속에서일을하면개인의작업능률이높아지는현상\nC. 알고 있는 사실인데도 정확한 정보가 기억나지 않아 혀끝에서 맴돌다가 말로 표현되지 않는 현상이다.\nD. 자신이나타인의행동을행위자의기질및성격과같은내부요소로귀인하는경우 ②외부귀인:외적인압력및사회적규범과같은상황적인외부",
+    "modelAnswer": "D",
+    "type": "multiple-choice",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "strategy": "definition_matching",
+    "source_file": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "content": "귀인이론에서 '어떤특정한대상에대한정보 F 민수가어떤영화가재미있다고한경우그영화가재미있는것인지(그영화만재미있다고한것 인지),민수가대체로영화를좋아하는지 ②일치성:다...'에 해당하는 것은?\nA. 종결과정 ①도입단계\nB. 귀인의정보원(판단요소) ①독특성\nC. 섬광기억\nD. 초기과정 ①전화에의한접수면담",
+    "modelAnswer": "B",
+    "type": "multiple-choice",
+    "source": "subnote",
+    "difficulty": 2,
+    "subjectId": 19,
+    "strategy": "definition_matching",
+    "source_file": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "content": "'귀인의정보원(판단요소) ①독특성'에 대한 설명으로 옳은 것은?\nA. 돈이나 노력,시간 등을 투자한 경우 성공 가능성에 관계없이 투자한 대상을 지속적으로 끌고 나가려는 성향을 말\nB. 훈련받은전문가,관계맺기,전화걸었던가족에게면담내용공유요청 ②첫면담:가족과관계형성,문제의명료화,구조화,목표설정,\nC. Pavlov식 조건 형성을 통해 습득되는 것으로 특정한 맛을 가진 2.매몰비용과 기회비용\nD. 어떤특정한대상에대한정보 F 민수가어떤영화가재미있다고한경우그영화가재미있는것인지(그영화만재미있다고한것 인지),민",
+    "modelAnswer": "D",
+    "type": "multiple-choice",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "strategy": "definition_matching",
+    "source_file": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "content": "귀인이론에서 '상대방의행동을분석할때상황의영향을과소평가하고개인적성향을과대평 가하는관찰자의경향성 ②행위자-관찰자편향:타인의행동원인에대해서는그사람의내적성향을강조하지...'에 해당하는 것은?\nA. 귀인의정보원(판단요소) ①독특성\nB. 고통감내력\nC. 귀인오류 ①기본귀인오류\nD. 점화효과(프라이밍효과)",
+    "modelAnswer": "C",
+    "type": "multiple-choice",
+    "source": "subnote",
+    "difficulty": 2,
+    "subjectId": 19,
+    "strategy": "definition_matching",
+    "source_file": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "content": "'귀인오류 ①기본귀인오류'에 대한 설명으로 옳은 것은?\nA. 언어를 통하지 않고도 가족을 그림으로 나타내는 것 ① 합동가족화:가족이 함께 그림을 그리는 것이다.그리는 과\nB. 상대방의행동을분석할때상황의영향을과소평가하고개인적성향을과대평 가하는관찰자의경향성 ②행위자-관찰자편향:타인의행동\nC. Pavlov식 조건 형성을 통해 습득되는 것으로 특정한 맛을 가진 2.매몰비용과 기회비용\nD. 가족생활 단계에 따른 발달,사건 등을 수집하여 연도별로 수평적으 로 제시하는 것",
+    "modelAnswer": "B",
+    "type": "multiple-choice",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "strategy": "definition_matching",
+    "source_file": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "content": "귀인이론에서 '타인에대해형성한인상을일관되게유지하려는경향 ②긍정성편향:타인을평가할때부정적으로평가하기보다는긍정적으로평가하려는경향 ③부정성효과:타인에대한전반적인인상...'에 해당하는 것은?\nA. 순수체계론자\nB. 인상형성의 경향성 ①일관성\nC. 고통감내력\nD. 가족신화",
+    "modelAnswer": "B",
+    "type": "multiple-choice",
+    "source": "subnote",
+    "difficulty": 2,
+    "subjectId": 19,
+    "strategy": "definition_matching",
+    "source_file": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "content": "'인상형성의 경향성 ①일관성'에 대한 설명으로 옳은 것은?\nA. 망막)에 도달하는 자극이 처음부터 왜곡된 경우로 외부 자극에 의해 생기는 착시현상 ∙ 예:물속에 넣은 막대가\nB. 타인에대해형성한인상을일관되게유지하려는경향 ②긍정성편향:타인을평가할때부정적으로평가하기보다는긍정적으로평가하려는경\nC. 행동을설명하는방법,즉상황이나개인의성향에원인을돌리는방법에대한이론\nD. 가족들이 가지는 기대와 신념으로,특히 현실에 대한 왜곡이나 부정의 요소를 갖는 것",
+    "modelAnswer": "B",
+    "type": "multiple-choice",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "strategy": "definition_matching",
+    "source_file": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "content": "귀인이론에서 '사람들이가진특성들의평가치를평균하여통합된인상을형성하는것이다. ②초두효과:대상인물에대한상반되는정보가순서적으로제시되는경우,앞에제시되는정보가 뒤에제시되...'에 해당하는 것은?\nA. 가족의 수평적연대기작성\nB. 인상형성관련개념 ①평균원리\nC. 가족화\nD. 초기과정 ①전화에의한접수면담",
+    "modelAnswer": "B",
+    "type": "multiple-choice",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "strategy": "definition_matching",
+    "source_file": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "content": "'인상형성관련개념 ①평균원리'에 대한 설명으로 옳은 것은?\nA. 가족이 기존의 평형상태의 균형을 유지하려고 변화에 저항하는 성향\nB. 사람들이가진특성들의평가치를평균하여통합된인상을형성하는것이다. ②초두효과:대상인물에대한상반되는정보가순서적으로제시\nC. 의사 전달을 어떤 틀 안에서 하느냐에 따라 전달받은 사람의 태도나 행동이 달라지 는 것 ② 오정보효과:어느 \nD. 가족구성원들이 다양한 인형을 가지고 놀이하는 활동을 통하여 그들의 기능과 관계 를 알아보는 기법",
+    "modelAnswer": "B",
+    "type": "multiple-choice",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "strategy": "definition_matching",
+    "source_file": "2-6 서브노트_심리학개론, 가족상담(빈칸).pdf"
+  },
+  {
+    "content": "귀인이론에서 '물리적으로가까운사람들에게호감을갖는다는것 F 단순노출효과:새로운자극에대한반복적노출이그자극의호감도를증가시키는현상 ②유사성:태도,신념이나가치관이자신과...'에 해당하는 것은?\nA. 종결과정 ①도입단계\nB. 정서지능 ①정서지능\nC. 호감의조건 ①물리적근접(근접성)\nD. N유형의 치료사",
+    "modelAnswer": "C",
+    "type": "multiple-choice",
+    "source": "subnote",
+    "difficulty": 2,
+    "subjectId": 19,
+    "strategy": "definition_matching",
+    "source_file": "2-6 서브노트_심리학개론, 가족상담.pdf"
+  },
+  {
+    "content": "'호감의조건 ①물리적근접(근접성)'에 대한 설명으로 옳은 것은?\nA. 상대방의행동을분석할때상황의영향을과소평가하고개인적성향을과대평 가하는관찰자의경향성 ②행위자-관찰자편향:타인의행동\nB. 물리적으로가까운사람들에게호감을갖는다는것 F 단순노출효과:새로운자극에대한반복적노출이그자극의호감도를증가시키는현상\nC. 알고 있는 사실인데도 정확한 정보가 기억나지 않아 혀끝에서 맴돌다가 말로 표현되지 않는 현상이다.\nD. 자기와 관련된 현상의 정보가 잘 처리되는 것을 말한다.기억에 있어서도 개인적 으로 관련 있고 중요한 의미를 ",
+    "modelAnswer": "B",
+    "type": "multiple-choice",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "strategy": "definition_matching",
+    "source_file": "2-6 서브노트_심리학개론, 가족상담.pdf"
   }
 ]

@@ -65,8 +65,11 @@ def main():
 
     # 파일명 → (subject, subjectId) 매핑
     def get_subnote_subject(filename):
-        if '성격심리학' in filename and '진로상담' in filename:
-            return "성격심리학", 18  # 주 과목
+        if '심리학개론' in filename or '가족상담' in filename:
+            # 심리학개론, 가족상담 → 심리학개론(19) 주 과목
+            return "심리학개론", 19
+        elif '성격심리학' in filename and '진로상담' in filename:
+            return "성격심리학", 18
         elif '성격심리학' in filename:
             return "성격심리학", 18
         elif '이상심리학' in filename:
@@ -154,11 +157,15 @@ def main():
 
     def get_pilgi_subject(filename):
         if '교육방법' in filename and '교육평가' in filename:
-            return "교육방법 및 공학", 2  # 주 과목
+            return "교육방법 및 공학", 2
+        elif '교육평가' in filename and '교육행정' in filename:
+            return "교육평가", 3
         elif '교육방법' in filename:
             return "교육방법 및 공학", 2
         elif '교육평가' in filename:
             return "교육평가", 3
+        elif '교육행정' in filename:
+            return "교육행정", 5
         elif '교육과정' in filename:
             return "교육과정", 1
         return "교육과정", 1

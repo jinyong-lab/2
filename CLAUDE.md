@@ -94,7 +94,8 @@ Makeup/
 │   ├── subnotes.json         # 서브노트 파싱 결과
 │   ├── blank_questions.json  # 빈칸 문제 (1,046개)
 │   ├── mcq_questions.json    # 객관식 문제 (1,008개)
-│   └── mindmap_questions.json # 마인드맵 문제 (701개)
+│   ├── mindmap_questions.json # 마인드맵 문제 (838개)
+│   └── practice_questions.json # 예상문제 (707개)
 └── exports/                  # SQL 내보내기 파일
 ```
 
@@ -129,8 +130,10 @@ Makeup/
 | | 16 | 심리측정 및 평가 |
 | | 17 | 학습심리학 |
 | 전공A(2교시) | 18 | 성격심리학 |
+| 전공A(2교시) | 19 | 심리학개론 |
+| 전공B(3교시) | 20 | 가족상담 |
 
-## 문제 유형 & 현황 (5,060문제, 2026-04-12 기준)
+## 문제 유형 & 현황 (6,038문제, 2026-04-20 기준)
 
 ### Question.type 값
 | type | 설명 | 형식 |
@@ -142,20 +145,21 @@ Makeup/
 ### Question.source 값
 | source | 설명 | 수량 |
 |--------|------|------|
-| `formative` | 형성평가 해설편 | 791 |
-| `mindmap` | 마인드맵 기반 생성 | 701 |
+| `formative` | 형성평가 해설편 | 827 |
+| `mindmap` | 마인드맵 기반 생성 | 838 |
+| `practice` | 예상문제 (답안 플레이스홀더) | 707 |
 | `notes` | 노트 | 58 |
 | `past_exam` | 기출문제 | 20 |
 | `template` | 보충 템플릿 | 1,436 |
-| `subnote` | 서브노트 기반 생성 | 2,054 |
+| `subnote` | 서브노트 기반 생성 | 2,152 |
 
 ### 유형별 현황
 | Type | Count |
 |------|-------|
-| essay | 2,766 |
-| fill-in | 1,286 |
-| multiple-choice | 1,008 |
-| **총계** | **5,060** |
+| essay | 3,646 |
+| fill-in | 1,348 |
+| multiple-choice | 1,044 |
+| **총계** | **6,038** |
 
 ## 사이드바 네비게이션
 홈 → 문제 풀기 → 기출유형 → 객관식 → AI 생성 → 학습 기록 → 설정
