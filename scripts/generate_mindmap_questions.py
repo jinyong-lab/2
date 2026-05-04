@@ -26,22 +26,22 @@ WRANGLER = str(APP_DIR / "node_modules" / ".bin" / "wrangler.cmd")
 DB_NAME = "exam-db"
 
 # 파일명 → (subject_name, subjectId)
-FILE_SUBJECT_MAP = {
-    "심리학개론":    ("심리학개론",    19),
-    "가족상담":      ("심리학개론",    19),  # 2-6은 심리학개론 주 과목
-    "이상심리학":    ("이상심리학",    13),
-    "상담이론과 실제": ("상담이론 및 실제", 10),
-    "상담이론":      ("상담이론 및 실제", 10),
-    "성격심리학":    ("성격심리학",    18),
-    "진로상담":      ("진로상담",      12),
-}
-
-
 def get_subject_from_filename(filename: str):
-    # 우선순위: 심리학개론 > 가족상담 > 성격심리학 > 이상심리학 > ...
-    for key, val in FILE_SUBJECT_MAP.items():
-        if key in filename:
-            return val
+    """우선순위 매핑: 집단상담 > 심리학개론(복합) > 가족상담 > ..."""
+    if '집단상담' in filename:
+        return ("집단상담", 11)
+    if '심리학개론' in filename:
+        return ("심리학개론", 19)
+    if '가족상담' in filename:
+        return ("가족상담", 20)
+    if '성격심리학' in filename:
+        return ("성격심리학", 18)
+    if '이상심리학' in filename:
+        return ("이상심리학", 13)
+    if '상담이론과 실제' in filename or '상담이론' in filename:
+        return ("상담이론 및 실제", 10)
+    if '진로상담' in filename:
+        return ("진로상담", 12)
     return ("기타", 1)
 
 

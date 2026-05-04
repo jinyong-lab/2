@@ -100,6 +100,14 @@ def get_subject_info(filename: str) -> tuple[str, str, int]:
     Extract subject name, category, and set number from filename.
     Returns (subject, category, set_number).
     """
+    # 마이너파트 파일 (번호 없음, 키워드로 매핑)
+    if '마이너파트' in filename:
+        if '교육사회' in filename:
+            return "교육사회학", "교육학", 0
+        if '생활지도' in filename or '교육사' in filename or '교육철학' in filename:
+            return "생활지도와 상담", "교육학", 0
+        return "기타", "교육학", 0
+
     # Extract number from filename (e.g., "01", "08", "11")
     match = re.search(r'(\d+)', filename)
     if not match:
@@ -117,7 +125,7 @@ def get_subject_info(filename: str) -> tuple[str, str, int]:
     elif num in (11, 12, 13):
         return "교육행정", "교육학", num
     elif num in (14, 15, 16):
-        return "교육심리", "교육학", num
+        return "교육심리학", "교육학", num
     else:
         return "기타", "교육학", num
 

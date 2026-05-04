@@ -20,6 +20,7 @@ except ImportError:
     import pdfplumber
 
 PRACTICE_DIR = Path(r"C:\Users\HOSEO\Desktop\임용\예상문제")
+SUBNOTE_DIR = Path(r"C:\Users\HOSEO\Desktop\임용\서브노트")
 OUTPUT_JSON = Path(r"C:\Users\HOSEO\Desktop\임용\Makeup\parsed\practice_questions.json")
 APP_DIR = Path(r"C:\Users\HOSEO\Desktop\임용\app")
 WRANGLER = str(APP_DIR / "node_modules" / ".bin" / "wrangler.cmd")
@@ -28,17 +29,21 @@ DB_NAME = "exam-db"
 
 # 파일명 키워드 → (subject, subjectId)
 def get_subject(filename: str):
+    if '집단상담' in filename:
+        return "집단상담", 11
+    if '가족상담' in filename:
+        return "가족상담", 20
     if '상이실' in filename or '상담이론' in filename:
         return "상담이론 및 실제", 10
-    elif '성심' in filename or '성격' in filename:
+    if '성심' in filename or '성격' in filename:
         return "성격심리학", 18
-    elif '학교상담' in filename:
+    if '학교상담' in filename:
         return "학교상담", 15
-    elif '특수아' in filename:
+    if '특수아' in filename:
         return "상담이론 및 실제", 10
-    elif '이상심' in filename:
+    if '이상심' in filename:
         return "이상심리학", 13
-    elif '진로' in filename:
+    if '진로' in filename:
         return "진로상담", 12
     return "상담이론 및 실제", 10
 
@@ -134,7 +139,21 @@ def main():
         print(f"폴더 없음: {PRACTICE_DIR}")
         return
 
+    # 기존 practice 문제 삭제 (중복 방지, FK 처리)
+    print("\n[기존 practice 삭제]")
+    delete_sql = (
+        "DELETE FROM Attempt WHERE questionId IN (SELECT id FROM Question WHERE source='practice');\n"
+        "DELETE FROM Bookmark WHERE questionId IN (SELECT id FROM Question WHERE source='practice');\n"
+        "DELETE FROM Question WHERE source='practice';"
+    )
+    if execute_file(delete_sql):
+        print("  삭제 OK")
+
     pdf_files = sorted(PRACTICE_DIR.glob("*.pdf"))
+    # 서브노트 폴더에 있는 예상문제 파일도 포함
+    if SUBNOTE_DIR.exists():
+        for f in sorted(SUBNOTE_DIR.glob("*예상문제*.pdf")):
+            pdf_files.append(f)
     print(f"예상문제 PDF: {len(pdf_files)}개")
 
     all_questions = []

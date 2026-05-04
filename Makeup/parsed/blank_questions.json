@@ -11551,6 +11551,1843 @@
   },
   {
     "id": 1051,
+    "content": "생물학적,경제학적,물리적체계내의사물또는개인의관계를정의하에 해당하는 것은 ( )이다.",
+    "modelAnswer": "이론생물학자베르탈란피",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2(빈칸).pdf"
+  },
+  {
+    "id": 1052,
+    "content": "맥락적 가족치료의 기본원리에서, 인간의 실존은 윤리의 맥락과 밀접한 관련을 가지고 있다.가족은에 해당하는 것은 ( )이다.",
+    "modelAnswer": "인간의 실존을 나타내는 현상",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2(빈칸).pdf"
+  },
+  {
+    "id": 1053,
+    "content": "맥락적 가족치료의 기본원리에서, 두 가지 다른 특성들은 서로 상호작용을 통해서 어떤 종류의 결과를 만들어 낸다에 해당하는 것은 ( )이다.",
+    "modelAnswer": "대화의 현상",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2(빈칸).pdf"
+  },
+  {
+    "id": 1054,
+    "content": "치료기법에서, 다른 사람들과 상호작용하는 관계의 맥락 속에서 타인으로부터 인정받는 능력에 해당하는 것은 ( )이다.",
+    "modelAnswer": "자기타당",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2(빈칸).pdf"
+  },
+  {
+    "id": 1055,
+    "content": "치료기법에서, 치료자가 가족 구성원들 중 어느 한 사람에 대해서 특별한 배려와 관심을 갖는 것에 해당하는 것은 ( )이다.",
+    "modelAnswer": "편파성",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2(빈칸).pdf"
+  },
+  {
+    "id": 1056,
+    "content": "치료기법에서, 내담자가 부모에게 물려받은 회전판으로부터 자신을 해방시키도록 도움을 주는 기법에 해당하는 것은 ( )이다.",
+    "modelAnswer": "해방",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2(빈칸).pdf"
+  },
+  {
+    "id": 1057,
+    "content": "치료기법에서, 보웬,궤린,카터,맥골드릭,커등에 해당하는 것은 ( )이다.",
+    "modelAnswer": "주요인물",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2(빈칸).pdf"
+  },
+  {
+    "id": 1058,
+    "content": "치료기법에서, 정서적기능과지적기능사이에융합이나분화의정도에따라개인을규정하는것에 해당하는 것은 ( )이다.",
+    "modelAnswer": "자아분화",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2(빈칸).pdf"
+  },
+  {
+    "id": 1059,
+    "content": "치료기법에서, 치료자가내담자와가족으로하여금직접가족문제에대처하는데자신의능력과기능을최대한에 해당하는 것은 ( )이다.",
+    "modelAnswer": "코칭",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2(빈칸).pdf"
+  },
+  {
+    "id": 1060,
+    "content": "치료기법에서, 자신이무엇을생각하고느끼는가를말하여자신의생각과감정을표현하게하는에 해당하는 것은 ( )이다.",
+    "modelAnswer": "‘나-입장’취하기",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2(빈칸).pdf"
+  },
+  {
+    "id": 1061,
+    "content": "치료기법에서, 내담자의감정을가라앉게하고,정서적반응에의해유발된불안을낮추며사고를촉에 해당하는 것은 ( )이다.",
+    "modelAnswer": "과정질문하기",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2(빈칸).pdf"
+  },
+  {
+    "id": 1062,
+    "content": "치료기법에서, 가족내에존재하는삼각관계를끊기위해상담자가제3의인물이되어상담자스스에 해당하는 것은 ( )이다.",
+    "modelAnswer": "치료적 삼각관계",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2(빈칸).pdf"
+  },
+  {
+    "id": 1063,
+    "content": "치료기법에서, 중요한삼각관계에변화를일으키는것으로정서적으로가까이가고자하는사람과도망에 해당하는 것은 ( )이다.",
+    "modelAnswer": "관계성 실험",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2(빈칸).pdf"
+  },
+  {
+    "id": 1064,
+    "content": "치료기법에서, 감정을차분히가라앉히고가족원간에이성적으로얘기할수있도록불안을완화시키에 해당하는 것은 ( )이다.",
+    "modelAnswer": "불안 완화기법",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2(빈칸).pdf"
+  },
+  {
+    "id": 1065,
+    "content": "치료기법에서, 상담자가부부한사람씩초점을두며대화를이끌어가는기법에 해당하는 것은 ( )이다.",
+    "modelAnswer": "다중 가족치료 기법",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2(빈칸).pdf"
+  },
+  {
+    "id": 1066,
+    "content": "치료기법에서, 여러부부를모아집단으로상담을진행하는방법으로,부부들끼리상호작용을촉진하에 해당하는 것은 ( )이다.",
+    "modelAnswer": "집단 가족치료",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2(빈칸).pdf"
+  },
+  {
+    "id": 1067,
+    "content": "치료기법에서, 가족이자신들의문제에대해객관적이고현실적인인식을할수있도에 해당하는 것은 ( )이다.",
+    "modelAnswer": "다른 가족이야기로 대치하기",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2(빈칸).pdf"
+  },
+  {
+    "id": 1068,
+    "content": "치료기법에서, 자신에게초점을맞추어,자신의감정과행동에대해책임을지도록하는방법이다에 해당하는 것은 ( )이다.",
+    "modelAnswer": "자기 초점 맞추기",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2(빈칸).pdf"
+  },
+  {
+    "id": 1069,
+    "content": "치료기법에서, 의사소통,가족항상성,이중구속,피드백고리,가족규칙,마침표원리에 해당하는 것은 ( )이다.",
+    "modelAnswer": "주요개념",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2(빈칸).pdf"
+  },
+  {
+    "id": 1070,
+    "content": "치료기법에서, 재명명,증상처방,고된체험기법,위장기법,은유,지시기법,역설적개입,과제부여,은유에 해당하는 것은 ( )이다.",
+    "modelAnswer": "상담기법",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2(빈칸).pdf"
+  },
+  {
+    "id": 1071,
+    "content": "'사이버네틱스를의사소통과제어기제에관한과학이라고규정하였다'을/를 주장한 학자는 ( )이다.",
+    "modelAnswer": "수학자위이너(Wiener)",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2(빈칸).pdf"
+  },
+  {
+    "id": 1072,
+    "content": "네 가지 관계 차원에서 사람들간에 이루어지는 교류 형태들, 관계윤리과/와 함께 제시되는 것으로, '한 개인이 가지고 있는 여러 가지 사실들은 그 개인이 유전을'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "유전에 의해서 결정된 사실들",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2(빈칸).pdf"
+  },
+  {
+    "id": 1073,
+    "content": "네 가지 관계 차원에서 유전에 의해서 결정된 사실들, 관계윤리과/와 함께 제시되는 것으로, '가족치료에서 대상으로 하는 영역의 특성들을 말한다'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "사람들간에 이루어지는 교류 형태들",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2(빈칸).pdf"
+  },
+  {
+    "id": 1074,
+    "content": "네 가지 관계 차원에서 유전에 의해서 결정된 사실들, 사람들간에 이루어지는 교류 형태들과/와 함께 제시되는 것으로, '인간은 윤리적 존재로서 관계윤리를 형성하고자 하는 기본적인 욕구를'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "관계윤리",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2(빈칸).pdf"
+  },
+  {
+    "id": 1075,
+    "content": "주요 개념에서 충성심, 자아의 형성과/와 함께 제시되는 것으로, '자녀들이 부모로부터 대화를 통해서 물려받게 되는 명령'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "유산",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2(빈칸).pdf"
+  },
+  {
+    "id": 1076,
+    "content": "주요 개념에서 유산, 자아의 형성과/와 함께 제시되는 것으로, '부모가 자녀를 돌보고 도움을 줌으로써 자녀가 부모에 대한 신뢰와 사랑의'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "충성심",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2(빈칸).pdf"
+  },
+  {
+    "id": 1077,
+    "content": "주요 개념에서 유산, 충성심과/와 함께 제시되는 것으로, '인간의 자아는 두 가지 개념에 의해서 이루어진다.자기묘사와 자기타당이라는'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "자아의 형성",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2(빈칸).pdf"
+  },
+  {
+    "id": 1078,
+    "content": "Wiener의 한국어 용어는 ( )이다.",
+    "modelAnswer": "수학자위이너",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2(빈칸).pdf"
+  },
+  {
+    "id": 1079,
+    "content": "주요 인물 및 발달 배경에서, IvanBoszormenyi-Nagy의 한국어 용어는 ( )이다.",
+    "modelAnswer": "나쥐",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2(빈칸).pdf"
+  },
+  {
+    "id": 1080,
+    "content": "주요 개념에서, giveandtake의 한국어 용어는 ( )이다.",
+    "modelAnswer": "주고받는",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2(빈칸).pdf"
+  },
+  {
+    "id": 1081,
+    "content": "치료기법에서, 증상이나타날때마다내담자가괴로워하는일을수행하도록지시에 해당하는 것은 ( )이다.",
+    "modelAnswer": "고된체험 기법",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2(빈칸).pdf"
+  },
+  {
+    "id": 1082,
+    "content": "치료기법에서, 내담자가증상을가진‘척하고’부모는도와주는‘척하는’연극적인기법에 해당하는 것은 ( )이다.",
+    "modelAnswer": "가장기법",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2(빈칸).pdf"
+  },
+  {
+    "id": 1083,
+    "content": "부부간의 권력이 지나치게 불균형한 상태가 되어 부부 중 한 사람은 강한에 해당하는 유형은 ( )이다.",
+    "modelAnswer": "부부불균형",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2(빈칸).pdf"
+  },
+  {
+    "id": 1084,
+    "content": "치료기법에서, 자신이무엇을생각하고느끼는가를말하여자신의생각과감정을표현하게하는방에 해당하는 것은 ( )이다.",
+    "modelAnswer": "‘나-입장’취하기",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2.pdf"
+  },
+  {
+    "id": 1085,
+    "content": "치료기법에서, 가족이자신들의문제에대해객관적이고현실적인인식을할수있도록에 해당하는 것은 ( )이다.",
+    "modelAnswer": "다른가족이야기로대치하기",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2.pdf"
+  },
+  {
+    "id": 1086,
+    "content": "치료기법에서, 재명명,증상처방,고된체험기법,가장(위장)기법,은유,지시기법,역설적개입,과제부에 해당하는 것은 ( )이다.",
+    "modelAnswer": "상담기법",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2.pdf"
+  },
+  {
+    "id": 1087,
+    "content": "cybernetics의 한국어 용어는 ( )이다.",
+    "modelAnswer": "사이버네틱스",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2.pdf"
+  },
+  {
+    "id": 1088,
+    "content": "주요 개념에서, self-delineation의 한국어 용어는 ( )이다.",
+    "modelAnswer": "자기묘사",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-7 서브노트_가족상담2.pdf"
+  },
+  {
+    "id": 1089,
+    "content": "가족구조가변하면가족원들의지위도달라지므로결국각개인의경험도변할수밖에에 해당하는 것은 ( )이다.",
+    "modelAnswer": "기본전제",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1090,
+    "content": "구조적가족치료에서는가족사정을위한별도의면담과정을가지에 해당하는 것은 ( )이다.",
+    "modelAnswer": "가족치료이론과실제(김유숙)",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1091,
+    "content": "호소문제를드러내기⇒문제를지속시키는상호작용을부각하기⇒가에 해당하는 것은 ( )이다.",
+    "modelAnswer": "가족치료의이해(정문자)",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1092,
+    "content": "상담에유익하다고생각되는정보를얻기위해상담자가의도적⋅계획적으로가족간에 해당하는 것은 ( )이다.",
+    "modelAnswer": "교류의창조",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1093,
+    "content": "가족원사이의교류유형을변화시키려는시도를하는기법에 해당하는 것은 ( )이다.",
+    "modelAnswer": "교류의재구조화",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1094,
+    "content": "가족이갖고있는강점과긍정적인점을찾아내어활용하는기법이다에 해당하는 것은 ( )이다.",
+    "modelAnswer": "강점인식",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1095,
+    "content": "가족의 경계선이 지나치게 경직되어 있을때는그것을유연하게 변화시키고에 해당하는 것은 ( )이다.",
+    "modelAnswer": "경계선설정하기",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1096,
+    "content": "치료자는가족의고착된관계구조를변화시키기위해서의도적으에 해당하는 것은 ( )이다.",
+    "modelAnswer": "균형무너뜨리기(균형깨뜨리기)",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1097,
+    "content": "가족신념은가족의상호작용에부정적인영향을미치며가족문제를지속시에 해당하는 것은 ( )이다.",
+    "modelAnswer": "가족신념에도전하기",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1098,
+    "content": "치료자가역기능적인상호작용을포착하여새로운방식에 해당하는 것은 ( )이다.",
+    "modelAnswer": "특정한상호작용을부각시켜서조정하기",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1099,
+    "content": "가족들이자발적으로자신을열어보일수있는기회,표현의에 해당하는 것은 ( )이다.",
+    "modelAnswer": "경험적가족치료에서제공하는경험",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1100,
+    "content": "과정에초점,협력적인치료관계강조,감정에초점에 해당하는 것은 ( )이다.",
+    "modelAnswer": "경험적가족상담자의공통적개념",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1101,
+    "content": "휘태커,사티어,켐플러,캔터,덜,존슨과그린버그,슈어츠등에 해당하는 것은 ( )이다.",
+    "modelAnswer": "주요인물",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1102,
+    "content": "원가족도표,나의생활연대기,영향력의수레바퀴등을이용해가족의역기능체계에 해당하는 것은 ( )이다.",
+    "modelAnswer": "가족재구조화",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1103,
+    "content": "치료자가직접적으로지시하거나평가하기보다는간접적이고비유적인표현을사용하는것에 해당하는 것은 ( )이다.",
+    "modelAnswer": "은유",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1104,
+    "content": "‘지금-여기’에집중하게하며,자신의내적•외적자원을감사히생각하고충분히활용할수에 해당하는 것은 ( )이다.",
+    "modelAnswer": "명상",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1105,
+    "content": "본질주의,보편주의,이분법적사고강조한다에 해당하는 것은 ( )이다.",
+    "modelAnswer": "모더니즘",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1106,
+    "content": "다양성,차이,비본질주의를강조하며탈중심적이고다원적인사고,탈이성적사에 해당하는 것은 ( )이다.",
+    "modelAnswer": "포스트모더니즘",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1107,
+    "content": "자율성,자기제작/자기조직혹은자기만들기,자기준거성,구조적연결에 해당하는 것은 ( )이다.",
+    "modelAnswer": "2차사이버네틱스의속성",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1108,
+    "content": "상담자의특권적지식을전제로하지않은언어적인상호작용에의한에 해당하는 것은 ( )이다.",
+    "modelAnswer": "앤더슨의‘알지못함’의자세",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1109,
+    "content": "일방경을사이에두고관찰자가되기도하고반대로관찰의대상이되기도한다에 해당하는 것은 ( )이다.",
+    "modelAnswer": "안데르센의반영팀",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1110,
+    "content": "MRI에서쌓은훈련과치료경험을근거로해결중심치료모델을발전시켰다에 해당하는 것은 ( )이다.",
+    "modelAnswer": "드셰이져와버그부부",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1111,
+    "content": "일반적으로가족은문제가가장심각한시기에도움을요청하는경향에 해당하는 것은 ( )이다.",
+    "modelAnswer": "면담이전의변화를묻는질문",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1112,
+    "content": "일상생활에서성공적으로잘하고있으면서도의식하지못하는것을발견하고성공했던에 해당하는 것은 ( )이다.",
+    "modelAnswer": "예외질문",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1113,
+    "content": "해결된상황을상상해봄으로써해결하기를원하는것을구체화하고,명료화하는데도움에 해당하는 것은 ( )이다.",
+    "modelAnswer": "기적질문",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1114,
+    "content": "변화에대한동기를강화하고다음단계로발전하기위해무엇을해야할지탐색하기위해에 해당하는 것은 ( )이다.",
+    "modelAnswer": "척도질문",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1115,
+    "content": "만성적인어려움과위기에관련된질문으로,어려운상황에서견뎌내고더나빠지지않은것에 해당하는 것은 ( )이다.",
+    "modelAnswer": "대처질문",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1116,
+    "content": "부정적인생각에사로잡힌내담자에게역설적인질문을함으로써오히려긍정적인변화에 해당하는 것은 ( )이다.",
+    "modelAnswer": "악몽질문",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1117,
+    "content": "내담자가문제해결의상황을자기중심적생각에서벗어나중요한타인의시각으로보에 해당하는 것은 ( )이다.",
+    "modelAnswer": "관계성질문",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1118,
+    "content": "상담이종료될때어떤변화가일어난다면상담을잘받았다고생에 해당하는 것은 ( )이다.",
+    "modelAnswer": "보람질문(목표설정을위한질문)",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1119,
+    "content": "내담자의어떤측면이긍정적이라는것을암시하는질문을하는것에 해당하는 것은 ( )이다.",
+    "modelAnswer": "간접적인칭찬",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1120,
+    "content": "예외를더발견하고,장점,자원,성공적경험등 긍정적인측면에 해당하는 것은 ( )이다.",
+    "modelAnswer": "‘그외에또무엇이있습니까?’질문",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1121,
+    "content": "개요에서, 문제는그사람이아니며단지문제일뿐이므로,내담자와문제를어떻게분리하에 해당하는 것은 ( )이다.",
+    "modelAnswer": "문제를보는관점",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1122,
+    "content": "개요에서, 알지못함의자세(비전문가적인역할)에 해당하는 것은 ( )이다.",
+    "modelAnswer": "상담자의자세",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1123,
+    "content": "개요에서, ‘사람이문제가아니라단지문제가문제일뿐이다’이것은내담자로부터문제를분에 해당하는 것은 ( )이다.",
+    "modelAnswer": "문제의외재화",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1124,
+    "content": "개요에서, 문제나영향에상세하게질문하는것으로,이를통해문제를해체하고문제의영에 해당하는 것은 ( )이다.",
+    "modelAnswer": "문제의영향탐색",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1125,
+    "content": "개요에서, 독특한결과는일종의‘예외’에해당하는것으로이야기가아니라단하나의사건에 해당하는 것은 ( )이다.",
+    "modelAnswer": "독특한결과찾기",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1126,
+    "content": "개요에서, 개인이자신의삶이라는무대에등장하는타인과의관계를새롭게조합하는과에 해당하는 것은 ( )이다.",
+    "modelAnswer": "(삶의)회원재구성",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1127,
+    "content": "개요에서, 치료과정에서외부증인집단을초청한다.내담자와상담자의상담과정을듣고있던청중에 해당하는 것은 ( )이다.",
+    "modelAnswer": "정의예식",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1128,
+    "content": "개요에서, 상담자는내담자로하여금익숙한것에서점점멀어져앞으로알게될가능성이있는에 해당하는 것은 ( )이다.",
+    "modelAnswer": "거푸집짓기",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1129,
+    "content": "개요에서, 내담자가정체성을강화할수있도록청중이나집단을찾기도하고새로운에 해당하는 것은 ( )이다.",
+    "modelAnswer": "새로운이야기의강화",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1130,
+    "content": "개요에서, 내담자의삶에구조화되어강력한영향력을미치고있는이야기에 해당하는 것은 ( )이다.",
+    "modelAnswer": "재저작(전체이야기를다시쓰기)",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1131,
+    "content": "개요에서, 이마고부부관계치료는부부각자의아직치유에 해당하는 것은 ( )이다.",
+    "modelAnswer": "이마고부부관계치료와다른부부치료모델의차이점",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1132,
+    "content": "주요개념에서, 어린시절다양한경험으로형성된보호자에대한긍정적혹은부정적인이미지에 해당하는 것은 ( )이다.",
+    "modelAnswer": "이마고",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1133,
+    "content": "주요개념에서, 서로자신이옳고상대방은틀렸다고주장하면서갈등하고싸우는것에 해당하는 것은 ( )이다.",
+    "modelAnswer": "힘겨루기",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1134,
+    "content": "포괄적이며이론적으로통합된모델에서, 사람들이저마다갖고있는다양한경험에초점을맞출수있다에 해당하는 것은 ( )이다.",
+    "modelAnswer": "이점",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1135,
+    "content": "해결지향치료의세영역에서 행동, 이야기과/와 함께 제시되는 것으로, '이모델은내담자의경험을정당화한다.즉,내담자의경험이정당하고가치가있음을인정하'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "경험",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1136,
+    "content": "해결지향치료의세영역에서 경험, 이야기과/와 함께 제시되는 것으로, '치료자는내담자가목표(문제해결)와연결되었다고말하는행동에치료적대화의초점을두'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "행동",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1137,
+    "content": "해결지향치료의세영역에서 경험, 행동과/와 함께 제시되는 것으로, '이야기는내담자가치료과정에서보이는생각,신념,준거틀이나언어습관등으로구성된'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "이야기",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1138,
+    "content": "Kantor의 한국어 용어는 ( )이다.",
+    "modelAnswer": "과캔터",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1139,
+    "content": "개요에서, HarvilleHendrix의 한국어 용어는 ( )이다.",
+    "modelAnswer": "하빌헨드릭스",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1140,
+    "content": "개요에서, HelenHunt의 한국어 용어는 ( )이다.",
+    "modelAnswer": "와그의아내인헬렌헌트",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1141,
+    "content": "가족이지켜온평형상태에서벗어나재구조화되도록돕는기법(예:가족의평에 해당하는 것은 ( )이다.",
+    "modelAnswer": "긴장고조기법",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1142,
+    "content": "치료를 요청하는가족은증상을가진사람(IP)에게초점을 맞추기를기대하는에 해당하는 것은 ( )이다.",
+    "modelAnswer": "증상활용 기법",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1143,
+    "content": "개인의경험에대한내적과정을빙산이라는은유로표현하고,그구성요소에대에 해당하는 것은 ( )이다.",
+    "modelAnswer": "빙산탐색기법",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1144,
+    "content": "원가족도표를이용해내담자가원가족삼인군에서학습한역기능적대처에 해당하는 것은 ( )이다.",
+    "modelAnswer": "원가족삼인군치료",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1145,
+    "content": "부부하위체계,부모하위체계,부모-자녀하위체계,형제자매하위체계 등에 해당하는 유형은 ( )이다.",
+    "modelAnswer": "하위체계의 유형",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1146,
+    "content": "자기의감정을무시하고다른사람에게자신의힘을넘겨주고모두에게동의하는말을한에 해당하는 유형은 ( )이다.",
+    "modelAnswer": "회유형",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1147,
+    "content": "비난하기위해다른사람의가치를격하시키고자신과상황에만가치를둔다에 해당하는 유형은 ( )이다.",
+    "modelAnswer": "비난형",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1148,
+    "content": "자신이나다른사람을지나치게낮게평가한다.지나치게합리적인입장에서상황만을에 해당하는 유형은 ( )이다.",
+    "modelAnswer": "초이성형",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1149,
+    "content": "어느곳에도초점이맞추어있지않아서말의의미나내용도없이혼자바쁘고산만하다에 해당하는 유형은 ( )이다.",
+    "modelAnswer": "산만형",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1150,
+    "content": "자신과타인을돌보고현재의상황을제대로파악한다에 해당하는 유형은 ( )이다.",
+    "modelAnswer": "일치형",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3(빈칸).pdf"
+  },
+  {
+    "id": 1151,
+    "content": "유지,추적,모방에 해당하는 것은 ( )이다.",
+    "modelAnswer": "합류를위한기법",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3.pdf"
+  },
+  {
+    "id": 1152,
+    "content": "긴장고조,증상활용,과제부과에 해당하는 것은 ( )이다.",
+    "modelAnswer": "가족재구조화기법(가족구조의변화)",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3.pdf"
+  },
+  {
+    "id": 1153,
+    "content": "해결지향치료의세영역:경험,행동,이야기에서 행동, 이야기과/와 함께 제시되는 것으로, '이모델은내담자의경험을정당화한다.즉,내담자의경험이정당하고가치가있음을인정하'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "경험",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3.pdf"
+  },
+  {
+    "id": 1154,
+    "content": "해결지향치료의세영역:경험,행동,이야기에서 경험, 이야기과/와 함께 제시되는 것으로, '치료자는내담자가목표(문제해결)와연결되었다고말하는행동에치료적대화의초점을두'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "행동",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3.pdf"
+  },
+  {
+    "id": 1155,
+    "content": "해결지향치료의세영역:경험,행동,이야기에서 경험, 행동과/와 함께 제시되는 것으로, '이야기는내담자가치료과정에서보이는생각,신념,준거틀이나언어습관등으로구성된'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "이야기",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3.pdf"
+  },
+  {
+    "id": 1156,
+    "content": "개요에서, expression의 한국어 용어는 ( )이다.",
+    "modelAnswer": "표현",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3.pdf"
+  },
+  {
+    "id": 1157,
+    "content": "개요에서, image의 한국어 용어는 ( )이다.",
+    "modelAnswer": "이미지",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3.pdf"
+  },
+  {
+    "id": 1158,
+    "content": "개요에서, resonance의 한국어 용어는 ( )이다.",
+    "modelAnswer": "공명",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3.pdf"
+  },
+  {
+    "id": 1159,
+    "content": "개요에서, transport의 한국어 용어는 ( )이다.",
+    "modelAnswer": "이동",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3.pdf"
+  },
+  {
+    "id": 1160,
+    "content": "부부 하위체계,부모 하위체계,부모-자녀 하위체계,형제자매 하위체계 등에 해당하는 유형은 ( )이다.",
+    "modelAnswer": "하위체계의 유형",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "2-8 서브노트_가족상담3.pdf"
+  },
+  {
+    "id": 1161,
+    "content": "집단상담의윤리적쟁점에서, 상담자와 내담자 사이에 상담관계 이외에 다른 관계가 동시에 형성되어 있는 것이다에 해당하는 것은 ( )이다.",
+    "modelAnswer": "다중관계",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1162,
+    "content": "집단상담의윤리적쟁점에서, 힘의 남용,자기노출,비밀유지,희생양만들기,직면 등에 해당하는 것은 ( )이다.",
+    "modelAnswer": "집단참여에 따른 심리적 위험",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1163,
+    "content": "비밀유지에서, 비밀을 누설하는 경향에 따른 위험성에 대해 여러 차례 집단원들의 주에 해당하는 것은 ( )이다.",
+    "modelAnswer": "비밀유지에 대한 교육",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1164,
+    "content": "집단지도자의훈련및개인경험에서, 집단 구성하기→초기 단계→과도기 단계→작업 단계→종결 단계에 해당하는 것은 ( )이다.",
+    "modelAnswer": "코리",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1165,
+    "content": "집단지도자의훈련및개인경험에서, 집단 운영계획서 공고,집단원의 기대 명료화,집단 규칙 선정에 해당하는 것은 ( )이다.",
+    "modelAnswer": "예비 집단을 실시하는 이유",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1166,
+    "content": "집단지도자의훈련및개인경험에서, 초기 불안,신뢰대 불신,목표의 확인과 명료화,집단규범,집단구조화등에 해당하는 것은 ( )이다.",
+    "modelAnswer": "초기 단계의 특징",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1167,
+    "content": "집단지도자의훈련및개인경험에서, 불안,방어와 저항,상담자에 대한 도전,문제행동 등에 해당하는 것은 ( )이다.",
+    "modelAnswer": "과도기 단계의 특징",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1168,
+    "content": "집단지도자의훈련및개인경험에서, 응집력,깊은 신뢰감,치료적 요인,새로운 행동 시도,직접적인 상호작용 등에 해당하는 것은 ( )이다.",
+    "modelAnswer": "작업 단계의 특징",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1169,
+    "content": "집단지도자의훈련및개인경험에서, 분리감정다루기,피드백주고받기,배운 것을 실생활에 옮기기 등에 해당하는 것은 ( )이다.",
+    "modelAnswer": "종결단계의 특징",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1170,
+    "content": "집단지도자의훈련및개인경험에서, 삶에 대한 희망감에 해당하는 것은 ( )이다.",
+    "modelAnswer": "희망고취",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1171,
+    "content": "집단지도자의훈련및개인경험에서, “나 혼자가 아니구나.”하는 느낌에 해당하는 것은 ( )이다.",
+    "modelAnswer": "보편성",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1172,
+    "content": "집단지도자의훈련및개인경험에서, 건강한 삶에 관한 정보 습득에 해당하는 것은 ( )이다.",
+    "modelAnswer": "정보공유",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1173,
+    "content": "집단지도자의훈련및개인경험에서, 다른 사람들을 위해 기꺼이 나누어 줌에 해당하는 것은 ( )이다.",
+    "modelAnswer": "이타심",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1174,
+    "content": "집단지도자의훈련및개인경험에서, 초기 아동기와 유사한 역동적 체험을 통한 학습에 해당하는 것은 ( )이다.",
+    "modelAnswer": "일차가족집단의 교정적 재현",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1175,
+    "content": "집단지도자의훈련및개인경험에서, 성숙한 사람들의 특성으로 나타나는 사회화 기술 습득에 해당하는 것은 ( )이다.",
+    "modelAnswer": "사회화 기법 발달",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1176,
+    "content": "집단지도자의훈련및개인경험에서, 다른 사람들의 긍정적 행동의 모방에 해당하는 것은 ( )이다.",
+    "modelAnswer": "모방행동",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1177,
+    "content": "집단지도자의훈련및개인경험에서, 다른 사람들과의 상호작용을 통한 학습에 해당하는 것은 ( )이다.",
+    "modelAnswer": "대인관계학습",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1178,
+    "content": "집단지도자의훈련및개인경험에서, 다른 사람들과 서로 연결되어 있다는 느낌에 해당하는 것은 ( )이다.",
+    "modelAnswer": "집단응집력",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1179,
+    "content": "집단지도자의훈련및개인경험에서, 과거에 표출해 본 적이 없었던 감정 방출에 해당하는 것은 ( )이다.",
+    "modelAnswer": "정화",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1180,
+    "content": "집단지도자의훈련및개인경험에서, 삶에 대한 책임수용에 해당하는 것은 ( )이다.",
+    "modelAnswer": "실존적 요인",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1181,
+    "content": "집단지도자의훈련및개인경험에서, 어려운 상황으로부터 회복을 도울 사람이 있다는 느낌에 해당하는 것은 ( )이다.",
+    "modelAnswer": "지지",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1182,
+    "content": "집단지도자의훈련및개인경험에서, 관찰을 통한 학습 발생에 해당하는 것은 ( )이다.",
+    "modelAnswer": "대리학습",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1183,
+    "content": "집단지도자의훈련및개인경험에서, 체험을 통한 자신의 행동 인식,자신의 행동이 타인에게 미치는 영향의 통찰,성장과 학습에 해당하는 것은 ( )이다.",
+    "modelAnswer": "인식",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1184,
+    "content": "집단지도자의훈련및개인경험에서, 가족을 연상시키는 대인 간 맥락을 제공하여 부모와 같은 인물,형제자매 경쟁,힘과에 해당하는 것은 ( )이다.",
+    "modelAnswer": "가족 재연",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1185,
+    "content": "집단지도자의훈련및개인경험에서, 현실적·실현가능한 목표와 실행계획 공언에 해당하는 것은 ( )이다.",
+    "modelAnswer": "공적책무",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1186,
+    "content": "집단지도자의훈련및개인경험에서, 문제에 관한 진술과 집단에서 배운 것을 실천하겠다는 다짐으로 집단회기를 마치고에 해당하는 것은 ( )이다.",
+    "modelAnswer": "과업촉진",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1187,
+    "content": "집단지도자의훈련및개인경험에서, 집단의 핵심으로 누구에게도 말해 본 적이 없는 가장 깊고 어두운 비밀을 진정한·솔직에 해당하는 것은 ( )이다.",
+    "modelAnswer": "모험시도",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1188,
+    "content": "집단지도자의훈련및개인경험에서, 실생활 실험실과 같은 안전한 환경에서 역할연습이나 심리극과 같은 전략으로 새로운 대안에 해당하는 것은 ( )이다.",
+    "modelAnswer": "시연",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1189,
+    "content": "집단지도자의훈련및개인경험에서, 온전히 자신이 될 수 있고 타인들이 자신에 대해 솔직하게 반응하는 것을 들을에 해당하는 것은 ( )이다.",
+    "modelAnswer": "직면·피드백",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1190,
+    "content": "집단지도자의훈련및개인경험에서, 말이 필요 없을 정도로 사람들이 극적으로 변화됨에 해당하는 것은 ( )이다.",
+    "modelAnswer": "마법",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1191,
+    "content": "집단지도자의훈련및개인경험에서, 자신을 가장 잘 표현한다고 생각하는 형용사를 선정하고,자신에 대해 아는에 해당하는 것은 ( )이다.",
+    "modelAnswer": "조하리의 창 활용",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1192,
+    "content": "순번형, 뜨거운 자리형, 자유부동형과/와 함께 제시되는 것으로, '지도자가 중심인물이며 성원과 지도자 양자 간에 의사소통이 이루어지는'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "기둥형",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1193,
+    "content": "기둥형, 뜨거운 자리형, 자유부동형과/와 함께 제시되는 것으로, '지도자가 중심에 있기는 하지만,각성원이 돌아가면서 이야기하는 상호작용'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "순번형",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1194,
+    "content": "기둥형, 순번형, 자유부동형과/와 함께 제시되는 것으로, '다른 성원이 지켜보는 가운데서 지도자와 한 성원만이 의사소통하는 유형'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "뜨거운 자리형",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1195,
+    "content": "기둥형, 순번형, 뜨거운 자리형과/와 함께 제시되는 것으로, '모든 성원이 의사소통할 책임을 지니는 유형으로,성원들이 주도권을 갖는'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "자유부동형",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1196,
+    "content": "집단상담자의역할에서 차단하기, 보편화, 초점 맞추기과/와 함께 제시되는 것으로, '집단원 간의 상호작용을 증진시키고,공통 주제를 탐색하도록 집단을'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "연결짓기",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1197,
+    "content": "집단상담자의역할에서 연결짓기, 보편화, 초점 맞추기과/와 함께 제시되는 것으로, '집단 내의 비생산적인 행동을 막고,집단원들을 보호하기 위해 개입하는 것'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "차단하기",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1198,
+    "content": "집단상담자의역할에서 연결짓기, 차단하기, 초점 맞추기과/와 함께 제시되는 것으로, '집단원이 다른 집단원들과 상호작용하게 되면서 그들도 자신과 유사한'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "보편화",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1199,
+    "content": "집단상담자의역할에서 연결짓기, 차단하기, 보편화과/와 함께 제시되는 것으로, '집단상담의 과정에서 어느 한 집단원의 관심사에 관해 모든 집단원들이'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "초점 맞추기",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1200,
+    "content": "집단상담자의역할에서 연결짓기, 차단하기, 보편화과/와 함께 제시되는 것으로, '구성원들의 의사 존중.효과적인 의사소통 기술을 활용하여 구성원들과'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "민주형",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1201,
+    "content": "집단상담자의역할에서 연결짓기, 차단하기, 보편화과/와 함께 제시되는 것으로, '리더 중심적 유형,구성원들이 변화에 필요한 통찰이나 집단행동을'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "독단형",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1202,
+    "content": "집단상담자의역할에서 연결짓기, 차단하기, 보편화과/와 함께 제시되는 것으로, '수동적·소극적 리더.집단의 방향이 전적으로 구성원들에게 있고,집단과정과'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "방임형",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1203,
+    "content": "집단원의역할에서 영웅, 집단 과업 역할, 집단건축 및 유지역할과/와 함께 제시되는 것으로, '집단원 자신이 수용하기 어려워하는 부분이나 자신의 욕구나 문제를 다른'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "희생양",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1204,
+    "content": "집단원의역할에서 희생양, 집단 과업 역할, 집단건축 및 유지역할과/와 함께 제시되는 것으로, '이상화되어 떠받들어지는 집단원 또는 가족 내에서 애지중지하는 아이와'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "영웅",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1205,
+    "content": "집단원의역할에서 희생양, 영웅, 집단건축 및 유지역할과/와 함께 제시되는 것으로, '집단과업이 공통적인 관심사나 주제를 선정하고 구체화하여 해결하는 것이라는'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "집단 과업 역할",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1206,
+    "content": "집단원의역할에서 희생양, 영웅, 집단 과업 역할과/와 함께 제시되는 것으로, '집단을강화하고조절하며지속시키기위해집단작업의방법을변경하거'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "집단건축 및 유지역할",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1207,
+    "content": "집단원의역할에서 희생양, 영웅, 집단 과업 역할과/와 함께 제시되는 것으로, '집단의 과업이나 기능과 상관없이 단순히 집단원 개개인의 역할을 분류'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "개별 역할",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1208,
+    "content": "ASGW의 한국어 용어는 ( )이다.",
+    "modelAnswer": "전문가협회",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1209,
+    "content": "집단지도자의훈련및개인경험에서, Tuckman의 한국어 용어는 ( )이다.",
+    "modelAnswer": "터크만",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1210,
+    "content": "집단지도자의훈련및개인경험에서, Bloch의 한국어 용어는 ( )이다.",
+    "modelAnswer": "블로흐",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1211,
+    "content": "집단지도자의훈련및개인경험에서, Crouch의 한국어 용어는 ( )이다.",
+    "modelAnswer": "크라우치",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1212,
+    "content": "집단지도자의훈련및개인경험에서, '유대감과 신뢰감 창출을 통해 안전감 제공'에 해당하는 개념은 ( )이다.",
+    "modelAnswer": "소속감",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담(빈칸).pdf"
+  },
+  {
+    "id": 1213,
+    "content": "집단상담의윤리적쟁점에서, 힘의 남용,자기노출,비밀유지,희생양 만들기,직면 등에 해당하는 것은 ( )이다.",
+    "modelAnswer": "집단참여에 따른 심리적 위험",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담.pdf"
+  },
+  {
+    "id": 1214,
+    "content": "집단지도자의훈련및개인경험에서, 초기 불안,신뢰 대 불신,목표의 확인과 명료화,집단규범,집단구조화 등에 해당하는 것은 ( )이다.",
+    "modelAnswer": "초기 단계의 특징",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담.pdf"
+  },
+  {
+    "id": 1215,
+    "content": "집단지도자의훈련및개인경험에서, 분리감정 다루기,피드백 주고받기,배운 것을 실생활에 옮기기 등에 해당하는 것은 ( )이다.",
+    "modelAnswer": "종결단계의 특징",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담.pdf"
+  },
+  {
+    "id": 1216,
+    "content": "집단상담자의역할에서 연결짓기, 차단하기, 보편화과/와 함께 제시되는 것으로, '리더 중심적 유형,구성원들이 변화에 필요한 통찰이나 집단행동을 독자'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "독단형(독재형,전제형)",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담.pdf"
+  },
+  {
+    "id": 1217,
+    "content": "집단지도자의훈련및개인경험에서, Sussman의 한국어 용어는 ( )이다.",
+    "modelAnswer": "서스만",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "3-1 서브노트_집단상담.pdf"
+  },
+  {
+    "id": 1218,
     "content": "지적장애 지능수준이 현저하게 낮아서 학습 및 사회적 적응에 어려움을 나타내는 경우에서, ADHD의 한국어 용어는 ( )이다.",
     "modelAnswer": "과잉행동장애",
     "type": "fill-in",
@@ -11561,7 +13398,7 @@
     "pageRef": "day1"
   },
   {
-    "id": 1052,
+    "id": 1219,
     "content": "21번 삼염색체, 순서바꾸기에 해당하는 유형은 ( )이다.",
     "modelAnswer": "(다운 증후군) 유형",
     "type": "fill-in",
@@ -11572,7 +13409,7 @@
     "pageRef": "day2"
   },
   {
-    "id": 1053,
+    "id": 1220,
     "content": "평가도구에서, MFFT의 한국어 용어는 ( )이다.",
     "modelAnswer": "그림찾기검사",
     "type": "fill-in",
@@ -11583,7 +13420,7 @@
     "pageRef": "day4"
   },
   {
-    "id": 1054,
+    "id": 1221,
     "content": "평가도구에서, WCST의 한국어 용어는 ( )이다.",
     "modelAnswer": "위스콘신카드분류검사",
     "type": "fill-in",
@@ -11594,7 +13431,7 @@
     "pageRef": "day4"
   },
   {
-    "id": 1055,
+    "id": 1222,
     "content": "개인적능력, 일반적태도, 아들러학파의심리치료가지향하는목표과/와 함께 제시되는 것으로, '다른사람과의관계를추구하고협동하는기질적측면을의미하며선천적인개인차를나'에 해당하는 것은 ( )이다.",
     "modelAnswer": "타고난기질",
     "type": "fill-in",
@@ -11605,7 +13442,7 @@
     "pageRef": "보충_0207 보충프린트_상담이론과실제(B5)"
   },
   {
-    "id": 1056,
+    "id": 1223,
     "content": "타고난기질, 일반적태도, 아들러학파의심리치료가지향하는목표과/와 함께 제시되는 것으로, '타인을이해하고공감하여협동과기여를할수있는사회적능력을의미한다.이러한능'에 해당하는 것은 ( )이다.",
     "modelAnswer": "개인적능력",
     "type": "fill-in",
@@ -11616,7 +13453,7 @@
     "pageRef": "보충_0207 보충프린트_상담이론과실제(B5)"
   },
   {
-    "id": 1057,
+    "id": 1224,
     "content": "타고난기질, 개인적능력, 아들러학파의심리치료가지향하는목표과/와 함께 제시되는 것으로, '다른사람과의협동을소중하게여기고사회적이익을위해헌신하는의지를의미한다'에 해당하는 것은 ( )이다.",
     "modelAnswer": "일반적태도",
     "type": "fill-in",
@@ -11627,7 +13464,7 @@
     "pageRef": "보충_0207 보충프린트_상담이론과실제(B5)"
   },
   {
-    "id": 1058,
+    "id": 1225,
     "content": "타고난기질, 개인적능력, 일반적태도과/와 함께 제시되는 것으로, '모삭과마니아치(Mosak과Maniacci)'에 해당하는 것은 ( )이다.",
     "modelAnswer": "아들러학파의심리치료가지향하는목표",
     "type": "fill-in",
@@ -11638,7 +13475,7 @@
     "pageRef": "보충_0207 보충프린트_상담이론과실제(B5)"
   },
   {
-    "id": 1059,
+    "id": 1226,
     "content": "Goldstein의 한국어 용어는 ( )이다.",
     "modelAnswer": "골드슈타인",
     "type": "fill-in",
@@ -11649,7 +13486,7 @@
     "pageRef": "보충_0221 보충프린트_상담이론과실제(B5)"
   },
   {
-    "id": 1060,
+    "id": 1227,
     "content": "MartinBuber의 한국어 용어는 ( )이다.",
     "modelAnswer": "부버",
     "type": "fill-in",
@@ -11660,7 +13497,7 @@
     "pageRef": "보충_0221 보충프린트_상담이론과실제(B5)"
   },
   {
-    "id": 1061,
+    "id": 1228,
     "content": "'사르트르는인간이자신의자유와선택의책임을회피하고,외부의가'을/를 주장한 학자는 ( )이다.",
     "modelAnswer": "나쁜신앙(BadFaith)",
     "type": "fill-in",
@@ -11671,7 +13508,7 @@
     "pageRef": "보충_0228 보충프린트_상담이론, 특수아(B5, 단면)"
   },
   {
-    "id": 1062,
+    "id": 1229,
     "content": "'사르트르는타인이나를보는시선이나의자유를제약하고,나를대'을/를 주장한 학자는 ( )이다.",
     "modelAnswer": "타인의시선(TheLook)",
     "type": "fill-in",
@@ -11682,7 +13519,7 @@
     "pageRef": "보충_0228 보충프린트_상담이론, 특수아(B5, 단면)"
   },
   {
-    "id": 1063,
+    "id": 1230,
     "content": "거부의단계, 죄의식의단계, 수용의단계과/와 함께 제시되는 것으로, '주로수용과이해로부모의'부정'방어를다루어야한다.상담자로서답답하겠지만인'에 해당하는 것은 ( )이다.",
     "modelAnswer": "충격의단계",
     "type": "fill-in",
@@ -11693,7 +13530,7 @@
     "pageRef": "보충_0228 보충프린트_상담이론, 특수아(B5, 단면)"
   },
   {
-    "id": 1064,
+    "id": 1231,
     "content": "충격의단계, 죄의식의단계, 수용의단계과/와 함께 제시되는 것으로, '부모가분노와원망의감정을표현한다.부모가감정을표현하도록돕고,주변사람이'에 해당하는 것은 ( )이다.",
     "modelAnswer": "거부의단계",
     "type": "fill-in",
@@ -11704,7 +13541,7 @@
     "pageRef": "보충_0228 보충프린트_상담이론, 특수아(B5, 단면)"
   },
   {
-    "id": 1065,
+    "id": 1232,
     "content": "충격의단계, 거부의단계, 수용의단계과/와 함께 제시되는 것으로, '충격과격한감정이가라앉으면서자녀가가진장애를받아들이는타협을하게되'에 해당하는 것은 ( )이다.",
     "modelAnswer": "죄의식의단계",
     "type": "fill-in",
@@ -11715,7 +13552,7 @@
     "pageRef": "보충_0228 보충프린트_상담이론, 특수아(B5, 단면)"
   },
   {
-    "id": 1066,
+    "id": 1233,
     "content": "충격의단계, 거부의단계, 죄의식의단계과/와 함께 제시되는 것으로, '구체적이고실제적인정보제공과문제해결을위한계획을의논한다'에 해당하는 것은 ( )이다.",
     "modelAnswer": "수용의단계",
     "type": "fill-in",
@@ -11726,7 +13563,7 @@
     "pageRef": "보충_0228 보충프린트_상담이론, 특수아(B5, 단면)"
   },
   {
-    "id": 1067,
+    "id": 1234,
     "content": "충격의단계, 거부의단계, 죄의식의단계과/와 함께 제시되는 것으로, '특수학생들을 일반 교육과정에 포함시키는 것을 의미한다.특수학생'에 해당하는 것은 ( )이다.",
     "modelAnswer": "주류화(mainstreaming)",
     "type": "fill-in",
@@ -11737,7 +13574,7 @@
     "pageRef": "보충_0228 보충프린트_상담이론, 특수아(B5, 단면)"
   },
   {
-    "id": 1068,
+    "id": 1235,
     "content": "충격의단계, 거부의단계, 죄의식의단계과/와 함께 제시되는 것으로, '먼저 분리된 상태에서 교육을 하다가 나중에 통합을 하는 방법이'에 해당하는 것은 ( )이다.",
     "modelAnswer": "모음식통합교육(integration)",
     "type": "fill-in",
@@ -11748,7 +13585,7 @@
     "pageRef": "보충_0228 보충프린트_상담이론, 특수아(B5, 단면)"
   },
   {
-    "id": 1069,
+    "id": 1236,
     "content": "충격의단계, 거부의단계, 죄의식의단계과/와 함께 제시되는 것으로, '먼저통합교육을한후에필요에따라분리하는방법이다.학'에 해당하는 것은 ( )이다.",
     "modelAnswer": "포함식통합교육/통합교육(inclusion)",
     "type": "fill-in",
@@ -11759,7 +13596,7 @@
     "pageRef": "보충_0228 보충프린트_상담이론, 특수아(B5, 단면)"
   },
   {
-    "id": 1070,
+    "id": 1237,
     "content": "Jean-PaulSartre의 한국어 용어는 ( )이다.",
     "modelAnswer": "장폴사르트르",
     "type": "fill-in",
@@ -11770,7 +13607,7 @@
     "pageRef": "보충_0228 보충프린트_상담이론, 특수아(B5, 단면)"
   },
   {
-    "id": 1071,
+    "id": 1238,
     "content": "BadFaith의 한국어 용어는 ( )이다.",
     "modelAnswer": "나쁜신앙",
     "type": "fill-in",
@@ -11781,7 +13618,7 @@
     "pageRef": "보충_0228 보충프린트_상담이론, 특수아(B5, 단면)"
   },
   {
-    "id": 1072,
+    "id": 1239,
     "content": "TheLook의 한국어 용어는 ( )이다.",
     "modelAnswer": "타인의시선",
     "type": "fill-in",
@@ -11792,7 +13629,7 @@
     "pageRef": "보충_0228 보충프린트_상담이론, 특수아(B5, 단면)"
   },
   {
-    "id": 1073,
+    "id": 1240,
     "content": "mainstreaming의 한국어 용어는 ( )이다.",
     "modelAnswer": "주류화",
     "type": "fill-in",
@@ -11803,7 +13640,7 @@
     "pageRef": "보충_0228 보충프린트_상담이론, 특수아(B5, 단면)"
   },
   {
-    "id": 1074,
+    "id": 1241,
     "content": "integration의 한국어 용어는 ( )이다.",
     "modelAnswer": "모음식통합교육",
     "type": "fill-in",
@@ -11814,7 +13651,7 @@
     "pageRef": "보충_0228 보충프린트_상담이론, 특수아(B5, 단면)"
   },
   {
-    "id": 1075,
+    "id": 1242,
     "content": "inclusion의 한국어 용어는 ( )이다.",
     "modelAnswer": "통합교육",
     "type": "fill-in",
@@ -11825,7 +13662,326 @@
     "pageRef": "보충_0228 보충프린트_상담이론, 특수아(B5, 단면)"
   },
   {
-    "id": 1076,
+    "id": 1243,
+    "content": "준비사항과 치료방법에서, 미술치료를할수있는공간,조명,작업테이블,미술치료에사용될재료(종이,스케치북에 해당하는 것은 ( )이다.",
+    "modelAnswer": "준비사항",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 10,
+    "subject": "상담이론 및 실제",
+    "pageRef": "보충_1. 보충강의_특수아상담"
+  },
+  {
+    "id": 1244,
+    "content": "준비사항과 치료방법에서, 지시적인방법과비지시적인방법에 해당하는 것은 ( )이다.",
+    "modelAnswer": "치료방법",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 10,
+    "subject": "상담이론 및 실제",
+    "pageRef": "보충_1. 보충강의_특수아상담"
+  },
+  {
+    "id": 1245,
+    "content": "심리중심 놀이치료와 발달놀이치료에서, '아이의눈높이로바닥에서함께놀면서정서적소통과상호작용을'을/를 주장한 학자는 ( )이다.",
+    "modelAnswer": "플로어타임(Floortime)",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 10,
+    "subject": "상담이론 및 실제",
+    "pageRef": "보충_1. 보충강의_특수아상담"
+  },
+  {
+    "id": 1246,
+    "content": "미술치료 유형에서 인간중심미술치료, 행동주의적미술치료, 게슈탈트미술치료과/와 함께 제시되는 것으로, '프로이트를중심으로한정신분석이론을근거로치료를진행한다.그림이나'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "정신분석적미술치료",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 10,
+    "subject": "상담이론 및 실제",
+    "pageRef": "보충_1. 보충강의_특수아상담"
+  },
+  {
+    "id": 1247,
+    "content": "미술치료 유형에서 정신분석적미술치료, 행동주의적미술치료, 게슈탈트미술치료과/와 함께 제시되는 것으로, '단지질환을가진환자로서가아니라삶의적응과정에서괴로워하는사람이라'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "인간중심미술치료",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 10,
+    "subject": "상담이론 및 실제",
+    "pageRef": "보충_1. 보충강의_특수아상담"
+  },
+  {
+    "id": 1248,
+    "content": "미술치료 유형에서 정신분석적미술치료, 인간중심미술치료, 게슈탈트미술치료과/와 함께 제시되는 것으로, '행동치료기법을미술치료에적용시켜모델링등을활용한다.색을섞으면'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "행동주의적미술치료",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 10,
+    "subject": "상담이론 및 실제",
+    "pageRef": "보충_1. 보충강의_특수아상담"
+  },
+  {
+    "id": 1249,
+    "content": "미술치료 유형에서 정신분석적미술치료, 인간중심미술치료, 행동주의적미술치료과/와 함께 제시되는 것으로, '통합을중시하고‘지금여기’에서의경험을강조한다.워크숍형태로치료가진'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "게슈탈트미술치료",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 10,
+    "subject": "상담이론 및 실제",
+    "pageRef": "보충_1. 보충강의_특수아상담"
+  },
+  {
+    "id": 1250,
+    "content": "미술치료 유형에서 정신분석적미술치료, 인간중심미술치료, 행동주의적미술치료과/와 함께 제시되는 것으로, '단순히한개인이겪는어려움보다가족전체가어려움에빠져있는상황을도와주'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "가족미술치료",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 10,
+    "subject": "상담이론 및 실제",
+    "pageRef": "보충_1. 보충강의_특수아상담"
+  },
+  {
+    "id": 1251,
+    "content": "미술치료 유형에서 정신분석적미술치료, 인간중심미술치료, 행동주의적미술치료과/와 함께 제시되는 것으로, '개인미술치료와는달리6~12명으로구성된그룹으로미술치료를함께받는것이'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "집단미술치료",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 10,
+    "subject": "상담이론 및 실제",
+    "pageRef": "보충_1. 보충강의_특수아상담"
+  },
+  {
+    "id": 1252,
+    "content": "모래놀이치료에서, theworldtechnique의 한국어 용어는 ( )이다.",
+    "modelAnswer": "세계기법",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 10,
+    "subject": "상담이론 및 실제",
+    "pageRef": "보충_1. 보충강의_특수아상담"
+  },
+  {
+    "id": 1253,
+    "content": "심리중심 놀이치료와 발달놀이치료에서, PsychodynamicPlayTherapy의 한국어 용어는 ( )이다.",
+    "modelAnswer": "심리중심놀이치료",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 10,
+    "subject": "상담이론 및 실제",
+    "pageRef": "보충_1. 보충강의_특수아상담"
+  },
+  {
+    "id": 1254,
+    "content": "심리중심 놀이치료와 발달놀이치료에서, Freud의 한국어 용어는 ( )이다.",
+    "modelAnswer": "프로이트",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 10,
+    "subject": "상담이론 및 실제",
+    "pageRef": "보충_1. 보충강의_특수아상담"
+  },
+  {
+    "id": 1255,
+    "content": "심리중심 놀이치료와 발달놀이치료에서, Klein의 한국어 용어는 ( )이다.",
+    "modelAnswer": "클라인",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 10,
+    "subject": "상담이론 및 실제",
+    "pageRef": "보충_1. 보충강의_특수아상담"
+  },
+  {
+    "id": 1256,
+    "content": "심리중심 놀이치료와 발달놀이치료에서, Winnicott의 한국어 용어는 ( )이다.",
+    "modelAnswer": "위니컷",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 10,
+    "subject": "상담이론 및 실제",
+    "pageRef": "보충_1. 보충강의_특수아상담"
+  },
+  {
+    "id": 1257,
+    "content": "심리중심 놀이치료와 발달놀이치료에서, Bowlby의 한국어 용어는 ( )이다.",
+    "modelAnswer": "보울비",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 10,
+    "subject": "상담이론 및 실제",
+    "pageRef": "보충_1. 보충강의_특수아상담"
+  },
+  {
+    "id": 1258,
+    "content": "심리중심 놀이치료와 발달놀이치료에서, Self의 한국어 용어는 ( )이다.",
+    "modelAnswer": "자기",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 10,
+    "subject": "상담이론 및 실제",
+    "pageRef": "보충_1. 보충강의_특수아상담"
+  },
+  {
+    "id": 1259,
+    "content": "심리중심 놀이치료와 발달놀이치료에서, DevelopmentalPlayTherapy의 한국어 용어는 ( )이다.",
+    "modelAnswer": "발달놀이치료",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 10,
+    "subject": "상담이론 및 실제",
+    "pageRef": "보충_1. 보충강의_특수아상담"
+  },
+  {
+    "id": 1260,
+    "content": "심리중심 놀이치료와 발달놀이치료에서, Vygotsky의 한국어 용어는 ( )이다.",
+    "modelAnswer": "비고츠키",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 10,
+    "subject": "상담이론 및 실제",
+    "pageRef": "보충_1. 보충강의_특수아상담"
+  },
+  {
+    "id": 1261,
+    "content": "심리중심 놀이치료와 발달놀이치료에서, Piaget의 한국어 용어는 ( )이다.",
+    "modelAnswer": "피아제",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 10,
+    "subject": "상담이론 및 실제",
+    "pageRef": "보충_1. 보충강의_특수아상담"
+  },
+  {
+    "id": 1262,
+    "content": "심리중심 놀이치료와 발달놀이치료에서, Brody의 한국어 용어는 ( )이다.",
+    "modelAnswer": "브로디",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 10,
+    "subject": "상담이론 및 실제",
+    "pageRef": "보충_1. 보충강의_특수아상담"
+  },
+  {
+    "id": 1263,
+    "content": "심리중심 놀이치료와 발달놀이치료에서, Greenspan의 한국어 용어는 ( )이다.",
+    "modelAnswer": "그린스펀",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 10,
+    "subject": "상담이론 및 실제",
+    "pageRef": "보충_1. 보충강의_특수아상담"
+  },
+  {
+    "id": 1264,
+    "content": "심리중심 놀이치료와 발달놀이치료에서, Ayres의 한국어 용어는 ( )이다.",
+    "modelAnswer": "에어스",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 10,
+    "subject": "상담이론 및 실제",
+    "pageRef": "보충_1. 보충강의_특수아상담"
+  },
+  {
+    "id": 1265,
+    "content": "심리중심 놀이치료와 발달놀이치료에서, Floortime의 한국어 용어는 ( )이다.",
+    "modelAnswer": "플로어타임",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 10,
+    "subject": "상담이론 및 실제",
+    "pageRef": "보충_1. 보충강의_특수아상담"
+  },
+  {
+    "id": 1266,
+    "content": "미술치료 기법에서, startersheet의 한국어 용어는 ( )이다.",
+    "modelAnswer": "용지",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 10,
+    "subject": "상담이론 및 실제",
+    "pageRef": "보충_1. 보충강의_특수아상담"
+  },
+  {
+    "id": 1267,
+    "content": "미술치료 기법에서, Starter sheet의 한국어 용어는 ( )이다.",
+    "modelAnswer": "그림용지",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 10,
+    "subject": "상담이론 및 실제",
+    "pageRef": "보충_1. 보충강의_특수아상담"
+  },
+  {
+    "id": 1268,
+    "content": "모래놀이치료에서, 모래에물을붓고피규어를놓게하는것이다.세계기법을실시하면서치료자는내담에 해당하는 것은 ( )이다.",
+    "modelAnswer": "실시방법",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 10,
+    "subject": "상담이론 및 실제",
+    "pageRef": "보충_1. 보충강의_특수아상담"
+  },
+  {
+    "id": 1269,
+    "content": "심리중심 놀이치료와 발달놀이치료에서, 신체접촉과감각놀이를통해정서와애착을회복하고,아이의에 해당하는 것은 ( )이다.",
+    "modelAnswer": "브로디(Brody)의발달놀이치료",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 10,
+    "subject": "상담이론 및 실제",
+    "pageRef": "보충_1. 보충강의_특수아상담"
+  },
+  {
+    "id": 1270,
+    "content": "준비사항과 치료방법에서, ‘가족을그리세요’등구체적인주제나방법을지정해주는것에 해당하는 것은 ( )이다.",
+    "modelAnswer": "지시적인방법",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 10,
+    "subject": "상담이론 및 실제",
+    "pageRef": "보충_1. 보충강의_특수아상담"
+  },
+  {
+    "id": 1271,
+    "content": "준비사항과 치료방법에서, ‘원하는것,좋아하는것,떠오르는것을그리세요’등자발적이고자유롭게미에 해당하는 것은 ( )이다.",
+    "modelAnswer": "비지시적인방법",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 10,
+    "subject": "상담이론 및 실제",
+    "pageRef": "보충_1. 보충강의_특수아상담"
+  },
+  {
+    "id": 1272,
     "content": "위협적인상황에서자신을벗어나게하는심리적도피기술이다.즉,현실에서비현에 해당하는 것은 ( )이다.",
     "modelAnswer": "회피형(도피형)",
     "type": "fill-in",
@@ -11836,7 +13992,7 @@
     "pageRef": "보충_1.31 보충프린트_상담이론과 실제(B5, 단면)"
   },
   {
-    "id": 1077,
+    "id": 1273,
     "content": "Eells의 한국어 용어는 ( )이다.",
     "modelAnswer": "일스",
     "type": "fill-in",
@@ -11847,7 +14003,7 @@
     "pageRef": "보충_1.31 보충프린트_상담이론과 실제(B5, 단면)"
   },
   {
-    "id": 1078,
+    "id": 1274,
     "content": "'개인으로서처우받고싶은욕구'에 해당하는 원리는 ( )이다.",
     "modelAnswer": "개별화의원리",
     "type": "fill-in",
@@ -11858,7 +14014,7 @@
     "pageRef": "보충_1.31 보충프린트_상담이론과 실제(B5, 단면)"
   },
   {
-    "id": 1079,
+    "id": 1275,
     "content": "'자신의감정,특히부정적인감정을자유롭게표명하려는욕구'에 해당하는 원리는 ( )이다.",
     "modelAnswer": "의도적인감정(정서)표현의원리",
     "type": "fill-in",
@@ -11869,7 +14025,7 @@
     "pageRef": "보충_1.31 보충프린트_상담이론과 실제(B5, 단면)"
   },
   {
-    "id": 1080,
+    "id": 1276,
     "content": "'문제에대해공감을얻고싶은욕구'에 해당하는 원리는 ( )이다.",
     "modelAnswer": "통제된정서관여의원리",
     "type": "fill-in",
@@ -11880,7 +14036,7 @@
     "pageRef": "보충_1.31 보충프린트_상담이론과 실제(B5, 단면)"
   },
   {
-    "id": 1081,
+    "id": 1277,
     "content": "'가치있는개인으로인정받고싶은욕구'에 해당하는 원리는 ( )이다.",
     "modelAnswer": "수용의원리",
     "type": "fill-in",
@@ -11891,7 +14047,7 @@
     "pageRef": "보충_1.31 보충프린트_상담이론과 실제(B5, 단면)"
   },
   {
-    "id": 1082,
+    "id": 1278,
     "content": "'심판받지않으려는욕구'에 해당하는 원리는 ( )이다.",
     "modelAnswer": "비심판적태도의원리",
     "type": "fill-in",
@@ -11902,7 +14058,7 @@
     "pageRef": "보충_1.31 보충프린트_상담이론과 실제(B5, 단면)"
   },
   {
-    "id": 1083,
+    "id": 1279,
     "content": "'자신이선택과결정을내리고싶은욕구'에 해당하는 원리는 ( )이다.",
     "modelAnswer": "자기결정의원리",
     "type": "fill-in",
@@ -11913,7 +14069,7 @@
     "pageRef": "보충_1.31 보충프린트_상담이론과 실제(B5, 단면)"
   },
   {
-    "id": 1084,
+    "id": 1280,
     "content": "'자신의비밀을간직하려는욕구'에 해당하는 원리는 ( )이다.",
     "modelAnswer": "비밀보장의원리",
     "type": "fill-in",
@@ -11924,7 +14080,7 @@
     "pageRef": "보충_1.31 보충프린트_상담이론과 실제(B5, 단면)"
   },
   {
-    "id": 1085,
+    "id": 1281,
     "content": "자기감정이나태도를바꾸어서불안이나긴장에대한자신의인식을바꾸는방식이다.(합리에 해당하는 유형은 ( )이다.",
     "modelAnswer": "기만형",
     "type": "fill-in",
@@ -11935,7 +14091,7 @@
     "pageRef": "보충_1.31 보충프린트_상담이론과 실제(B5, 단면)"
   },
   {
-    "id": 1086,
+    "id": 1282,
     "content": "자기와목표사이에장애가있을때다른목표를세워서불안을해소하는방식이다.지각을에 해당하는 유형은 ( )이다.",
     "modelAnswer": "대체형",
     "type": "fill-in",
@@ -11946,7 +14102,7 @@
     "pageRef": "보충_1.31 보충프린트_상담이론과 실제(B5, 단면)"
   },
   {
-    "id": 1087,
+    "id": 1283,
     "content": "'자아가원초아의충동과소원을억압할때생기는저항이다.자아는고통을피하기위해욕'에 해당하는 개념은 ( )이다.",
     "modelAnswer": "억압저항",
     "type": "fill-in",
@@ -11957,7 +14113,7 @@
     "pageRef": "보충_1.31 보충프린트_상담이론과 실제(B5, 단면)"
   },
   {
-    "id": 1088,
+    "id": 1284,
     "content": "'정신질환의증상덕분에얻은이득을포기하지않으려고하는것이다.내담자는증상'에 해당하는 개념은 ( )이다.",
     "modelAnswer": "이차획득저항",
     "type": "fill-in",
@@ -11968,7 +14124,7 @@
     "pageRef": "보충_1.31 보충프린트_상담이론과 실제(B5, 단면)"
   },
   {
-    "id": 1089,
+    "id": 1285,
     "content": "'정신분석치료가성공적으로진행될때내담자가자기파괴적인행동으로분석을다시'에 해당하는 개념은 ( )이다.",
     "modelAnswer": "초자아저항",
     "type": "fill-in",
@@ -11979,7 +14135,7 @@
     "pageRef": "보충_1.31 보충프린트_상담이론과 실제(B5, 단면)"
   },
   {
-    "id": 1090,
+    "id": 1286,
     "content": "'반복강박과리비도의집착성때문에일어나는저항이다.분석치료중에고통스러웠던'에 해당하는 개념은 ( )이다.",
     "modelAnswer": "원초아저항",
     "type": "fill-in",
@@ -11990,7 +14146,7 @@
     "pageRef": "보충_1.31 보충프린트_상담이론과 실제(B5, 단면)"
   },
   {
-    "id": 1091,
+    "id": 1287,
     "content": "'치료자를지나치게좋아한다든지혹은너무두려워한나머지자유연상이일어나지않는'에 해당하는 개념은 ( )이다.",
     "modelAnswer": "전이저항",
     "type": "fill-in",
@@ -12001,7 +14157,7 @@
     "pageRef": "보충_1.31 보충프린트_상담이론과 실제(B5, 단면)"
   },
   {
-    "id": 1092,
+    "id": 1288,
     "content": "Sternberg의 한국어 용어는 ( )이다.",
     "modelAnswer": "이론",
     "type": "fill-in",
@@ -12012,7 +14168,7 @@
     "pageRef": "보충_2-1 보충프린트_성격심리학(B5, 단면)"
   },
   {
-    "id": 1093,
+    "id": 1289,
     "content": "Zukerman의 한국어 용어는 ( )이다.",
     "modelAnswer": "주커만",
     "type": "fill-in",
@@ -12023,7 +14179,7 @@
     "pageRef": "보충_2-2 보충프린트_성격심리학(B5, 단면)"
   },
   {
-    "id": 1094,
+    "id": 1290,
     "content": "정보수집, 탐색적면담, 활동계획구축과/와 함께 제시되는 것으로, '내담자가현재진로와관련하여어떤욕구를가지고있는지파악한다'에 해당하는 것은 ( )이다.",
     "modelAnswer": "평가하기",
     "type": "fill-in",
@@ -12034,7 +14190,7 @@
     "pageRef": "보충_2-3 보충프린트_성격심리학, 진로상담(B5) 2"
   },
   {
-    "id": 1095,
+    "id": 1291,
     "content": "평가하기, 탐색적면담, 활동계획구축과/와 함께 제시되는 것으로, '내담자의진로욕구가어떻게형성되었는지파악한다'에 해당하는 것은 ( )이다.",
     "modelAnswer": "정보수집",
     "type": "fill-in",
@@ -12045,7 +14201,7 @@
     "pageRef": "보충_2-3 보충프린트_성격심리학, 진로상담(B5) 2"
   },
   {
-    "id": 1096,
+    "id": 1292,
     "content": "평가하기, 정보수집, 활동계획구축과/와 함께 제시되는 것으로, '내담자가원하는직업에실제종사하는사람을만나서면담한다'에 해당하는 것은 ( )이다.",
     "modelAnswer": "탐색적면담",
     "type": "fill-in",
@@ -12056,7 +14212,7 @@
     "pageRef": "보충_2-3 보충프린트_성격심리학, 진로상담(B5) 2"
   },
   {
-    "id": 1097,
+    "id": 1293,
     "content": "평가하기, 정보수집, 탐색적면담과/와 함께 제시되는 것으로, '목표에도달하기위한구체적인계획수립한다'에 해당하는 것은 ( )이다.",
     "modelAnswer": "활동계획구축",
     "type": "fill-in",
@@ -12067,7 +14223,7 @@
     "pageRef": "보충_2-3 보충프린트_성격심리학, 진로상담(B5) 2"
   },
   {
-    "id": 1098,
+    "id": 1294,
     "content": "controlledelaboration의 한국어 용어는 ( )이다.",
     "modelAnswer": "통제된정교",
     "type": "fill-in",
@@ -12078,7 +14234,7 @@
     "pageRef": "보충_2-3 보충프린트_성격심리학, 진로상담(B5) 2"
   },
   {
-    "id": 1099,
+    "id": 1295,
     "content": "contrastreconstruction의 한국어 용어는 ( )이다.",
     "modelAnswer": "대비적재구성",
     "type": "fill-in",
@@ -12089,7 +14245,7 @@
     "pageRef": "보충_2-3 보충프린트_성격심리학, 진로상담(B5) 2"
   },
   {
-    "id": 1100,
+    "id": 1296,
     "content": "reputation의 한국어 용어는 ( )이다.",
     "modelAnswer": "이미지",
     "type": "fill-in",
@@ -12100,7 +14256,7 @@
     "pageRef": "보충_2-4 보충프린트_진로상담"
   },
   {
-    "id": 1101,
+    "id": 1297,
     "content": "plot의 한국어 용어는 ( )이다.",
     "modelAnswer": "구상",
     "type": "fill-in",
@@ -12111,7 +14267,7 @@
     "pageRef": "보충_2-4 보충프린트_진로상담"
   },
   {
-    "id": 1102,
+    "id": 1298,
     "content": "self-regulating의 한국어 용어는 ( )이다.",
     "modelAnswer": "규제",
     "type": "fill-in",
@@ -12122,7 +14278,7 @@
     "pageRef": "보충_2-4 보충프린트_진로상담"
   },
   {
-    "id": 1103,
+    "id": 1299,
     "content": "identitynarratives의 한국어 용어는 ( )이다.",
     "modelAnswer": "내러티브",
     "type": "fill-in",
@@ -12133,7 +14289,7 @@
     "pageRef": "보충_2-4 보충프린트_진로상담"
   },
   {
-    "id": 1104,
+    "id": 1300,
     "content": "DanielKahneman의 한국어 용어는 ( )이다.",
     "modelAnswer": "대니얼카너먼",
     "type": "fill-in",
@@ -12144,7 +14300,7 @@
     "pageRef": "보충_2-5 보충프린트_진로상담"
   },
   {
-    "id": 1105,
+    "id": 1301,
     "content": "AmosTversky의 한국어 용어는 ( )이다.",
     "modelAnswer": "과아모스트버스키",
     "type": "fill-in",
@@ -12155,7 +14311,623 @@
     "pageRef": "보충_2-5 보충프린트_진로상담"
   },
   {
-    "id": 1106,
+    "id": 1302,
+    "content": "주로청소년기의아동을가진가족을대상으로그들가족에서어떤것이바뀌기원하는가에 해당하는 것은 ( )이다.",
+    "modelAnswer": "실시방법",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 19,
+    "subject": "심리학개론",
+    "pageRef": "보충_2-6, 2-7 보충프린트_심리학개론, 가족상담"
+  },
+  {
+    "id": 1303,
+    "content": "가족이갖고있는강점과긍정적인점을찾아내어활용하는기법으로,이로써가족들이에 해당하는 것은 ( )이다.",
+    "modelAnswer": "강점인식",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "보충_2-8 보충프린트_가족상담"
+  },
+  {
+    "id": 1304,
+    "content": "부부의 라이프 통장에서, 건강한라이프(생명,생활,삶)를가능하게해주는모든자원의출납을‘라이프에 해당하는 것은 ( )이다.",
+    "modelAnswer": "라이프통장(최성애)",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "보충_2. 보충강의_가족상담"
+  },
+  {
+    "id": 1305,
+    "content": "심상 체험과정에서, 내담자의정서적인수준에서강하게체험하는방법이다에 해당하는 것은 ( )이다.",
+    "modelAnswer": "심상체험",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "보충_2. 보충강의_가족상담"
+  },
+  {
+    "id": 1306,
+    "content": "이마고 부부 대화법(3단계)에서 인정하기, 공감하기과/와 함께 제시되는 것으로, '배우자의메시지내용을정확하게비추어되돌려주는것이다.반영하기는판단,교정,해'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "반영하기",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "보충_2. 보충강의_가족상담"
+  },
+  {
+    "id": 1307,
+    "content": "이마고 부부 대화법(3단계)에서 반영하기, 공감하기과/와 함께 제시되는 것으로, '부부가메시지를듣고정확하게요약하여반영하게되면,다음단계인인정하기를한다'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "인정하기",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "보충_2. 보충강의_가족상담"
+  },
+  {
+    "id": 1308,
+    "content": "이마고 부부 대화법(3단계)에서 반영하기, 인정하기과/와 함께 제시되는 것으로, '상대방이느낀경험세계에들어가는것이다.배우자가어떻게생각하고어떻게느끼고경'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "공감하기",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "보충_2. 보충강의_가족상담"
+  },
+  {
+    "id": 1309,
+    "content": "가트만식 치료 프로그램에서 2회와3회상담, 4회및5회상담과/와 함께 제시되는 것으로, '치료과정설명(1시간30분)'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "첫회상담",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "보충_2. 보충강의_가족상담"
+  },
+  {
+    "id": 1310,
+    "content": "가트만식 치료 프로그램에서 첫회상담, 4회및5회상담과/와 함께 제시되는 것으로, '개별면담(45분)'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "2회와3회상담",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "보충_2. 보충강의_가족상담"
+  },
+  {
+    "id": 1311,
+    "content": "가트만식 치료 프로그램에서 첫회상담, 2회와3회상담과/와 함께 제시되는 것으로, '요약과치료가능한개입(1시간30분)'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "4회및5회상담",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "보충_2. 보충강의_가족상담"
+  },
+  {
+    "id": 1312,
+    "content": "변화를 위한 심상체험에서 2단계, 3단계과/와 함께 제시되는 것으로, '상처받은아이와만나기'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "1단계",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "보충_2. 보충강의_가족상담"
+  },
+  {
+    "id": 1313,
+    "content": "변화를 위한 심상체험에서 1단계, 3단계과/와 함께 제시되는 것으로, '약한아이재양육하기'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "2단계",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "보충_2. 보충강의_가족상담"
+  },
+  {
+    "id": 1314,
+    "content": "변화를 위한 심상체험에서 1단계, 2단계과/와 함께 제시되는 것으로, '배우자가약한아이재양육하기'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "3단계",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "보충_2. 보충강의_가족상담"
+  },
+  {
+    "id": 1315,
+    "content": "이마고 부부관계 치료의 이론적 배경에서, HarvilleHendrix의 한국어 용어는 ( )이다.",
+    "modelAnswer": "하빌헨드릭스",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "보충_2. 보충강의_가족상담"
+  },
+  {
+    "id": 1316,
+    "content": "이마고 부부관계 치료의 이론적 배경에서, HelenHunt의 한국어 용어는 ( )이다.",
+    "modelAnswer": "와그의아내인헬렌헌트",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "보충_2. 보충강의_가족상담"
+  },
+  {
+    "id": 1317,
+    "content": "부부의 애정지도에서, lovemap의 한국어 용어는 ( )이다.",
+    "modelAnswer": "애정지도",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "보충_2. 보충강의_가족상담"
+  },
+  {
+    "id": 1318,
+    "content": "두려움, 불공정성과/와 함께 제시되는 것으로, '(예)집단에서얻고자한것을얻지못하고있다고느끼는집단원이이에대한불평을늘어'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "좌절감",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "보충_3-1 보충프린트_집단상담(B5)"
+  },
+  {
+    "id": 1319,
+    "content": "좌절감, 불공정성과/와 함께 제시되는 것으로, '(예)어떤집단원이다른집단원들의비판적인반응의가능성에대한두려움을표출하는경'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "두려움",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "보충_3-1 보충프린트_집단상담(B5)"
+  },
+  {
+    "id": 1320,
+    "content": "좌절감, 두려움과/와 함께 제시되는 것으로, '(예)한집단원이자신이집단에서주목받지못하고따돌려져왔고,집단상담자마저다른'에 해당하는 것은 ( )이다.",
+    "modelAnswer": "불공정성",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 11,
+    "subject": "집단상담",
+    "pageRef": "보충_3-1 보충프린트_집단상담(B5)"
+  },
+  {
+    "id": 1321,
+    "content": "가족모형 세우기의 이론적 배경에서, BertHellinger의 한국어 용어는 ( )이다.",
+    "modelAnswer": "헬링거",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "보충_3. 보충강의_가족상담(가족모형 세우기)"
+  },
+  {
+    "id": 1322,
+    "content": "가족모형 세우기의 이론적 배경에서, Payne의 한국어 용어는 ( )이다.",
+    "modelAnswer": "이게하는근원적인힘과만나는접근법으로페인",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "보충_3. 보충강의_가족상담(가족모형 세우기)"
+  },
+  {
+    "id": 1323,
+    "content": "가족모형 세우기의 기본원리에서, 성인 남성모형 8개,성인 여성모형 8개,아동모형 8개,직사각형 아동모형에 해당하는 유형은 ( )이다.",
+    "modelAnswer": "26의 나무 모형",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 20,
+    "subject": "가족상담",
+    "pageRef": "보충_3. 보충강의_가족상담(가족모형 세우기)"
+  },
+  {
+    "id": 1324,
+    "content": "경력목표의설정,개인의역량평가에 해당하는 것은 ( )이다.",
+    "modelAnswer": "경력개발에서중요한요소",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 12,
+    "subject": "진로상담",
+    "pageRef": "보충_4. 보충강의_진로상담(진로전환)"
+  },
+  {
+    "id": 1325,
+    "content": "주로조직에서개인의경력목표를정해주고,개인은기업이정한목표와프로에 해당하는 것은 ( )이다.",
+    "modelAnswer": "산업화시대의경력개발",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 12,
+    "subject": "진로상담",
+    "pageRef": "보충_4. 보충강의_진로상담(진로전환)"
+  },
+  {
+    "id": 1326,
+    "content": "직무및조직의규칙과규범을익히고,조직문화에동화되며,선택한에 해당하는 것은 ( )이다.",
+    "modelAnswer": "초기경력자(25~40세)의과업",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 12,
+    "subject": "진로상담",
+    "pageRef": "보충_4. 보충강의_진로상담(진로전환)"
+  },
+  {
+    "id": 1327,
+    "content": "자신의삶을재평가하고,삶의목표와꿈을재정립하고,경력목표와에 해당하는 것은 ( )이다.",
+    "modelAnswer": "중간경력자(40~55세)의과업",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 12,
+    "subject": "진로상담",
+    "pageRef": "보충_4. 보충강의_진로상담(진로전환)"
+  },
+  {
+    "id": 1328,
+    "content": "직장에서여전히생산적으로활동하고,자존감을유지하며,은퇴를에 해당하는 것은 ( )이다.",
+    "modelAnswer": "후기경력자(55세이상)의과업",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 12,
+    "subject": "진로상담",
+    "pageRef": "보충_4. 보충강의_진로상담(진로전환)"
+  },
+  {
+    "id": 1329,
+    "content": "장단기경력목표를설정하고이를위해할수있는단기목표들을설정하도록돕는에 해당하는 것은 ( )이다.",
+    "modelAnswer": "경력목표의설정",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 12,
+    "subject": "진로상담",
+    "pageRef": "보충_4. 보충강의_진로상담(진로전환)"
+  },
+  {
+    "id": 1330,
+    "content": "경력목표와관련한역량을꾸준히개발해서자신의고용가능성을높이는쪽으로에 해당하는 것은 ( )이다.",
+    "modelAnswer": "개인의역량개발",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 12,
+    "subject": "진로상담",
+    "pageRef": "보충_4. 보충강의_진로상담(진로전환)"
+  },
+  {
+    "id": 1331,
+    "content": "다양한네트워크를형성하도록돕고,이를통해좋은평판을유지에 해당하는 것은 ( )이다.",
+    "modelAnswer": "네트워크형성과활용능력키우기",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 12,
+    "subject": "진로상담",
+    "pageRef": "보충_4. 보충강의_진로상담(진로전환)"
+  },
+  {
+    "id": 1332,
+    "content": "빠르게변화하는직업세계에맞추어나가기위해서는더유연해지고에 해당하는 것은 ( )이다.",
+    "modelAnswer": "변화에대한적응능력키우기",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 12,
+    "subject": "진로상담",
+    "pageRef": "보충_4. 보충강의_진로상담(진로전환)"
+  },
+  {
+    "id": 1333,
+    "content": "개인차,양가적성격,맥락의중요성에 해당하는 것은 ( )이다.",
+    "modelAnswer": "진로전환의특징",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 12,
+    "subject": "진로상담",
+    "pageRef": "보충_4. 보충강의_진로상담(진로전환)"
+  },
+  {
+    "id": 1334,
+    "content": "압도된,계획을세울 수없는,말문이 막힘에 해당하는 것은 ( )이다.",
+    "modelAnswer": "마비(immobilization)",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 12,
+    "subject": "진로상담",
+    "pageRef": "보충_4. 보충강의_진로상담(진로전환)"
+  },
+  {
+    "id": 1335,
+    "content": "변화에 대한 부인,무시,다잘될 것이라고믿음에 해당하는 것은 ( )이다.",
+    "modelAnswer": "최소화(minimization)",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 12,
+    "subject": "진로상담",
+    "pageRef": "보충_4. 보충강의_진로상담(진로전환)"
+  },
+  {
+    "id": 1336,
+    "content": "자기에 대한 회의감,불안,두려움,슬픔,분노 등에 해당하는 것은 ( )이다.",
+    "modelAnswer": "회의감(self-doubt)",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 12,
+    "subject": "진로상담",
+    "pageRef": "보충_4. 보충강의_진로상담(진로전환)"
+  },
+  {
+    "id": 1337,
+    "content": "화,긴장,좌절등의 감정이 점차 풀어짐에 해당하는 것은 ( )이다.",
+    "modelAnswer": "놓아주기(letting-go)",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 12,
+    "subject": "진로상담",
+    "pageRef": "보충_4. 보충강의_진로상담(진로전환)"
+  },
+  {
+    "id": 1338,
+    "content": "조금씩자신감이 느껴짐에 해당하는 것은 ( )이다.",
+    "modelAnswer": "시험하기(testingout)",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 12,
+    "subject": "진로상담",
+    "pageRef": "보충_4. 보충강의_진로상담(진로전환)"
+  },
+  {
+    "id": 1339,
+    "content": "자신의 처지에 대해객관적의미부여에 해당하는 것은 ( )이다.",
+    "modelAnswer": "의미 찾기(searchformeaning)",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 12,
+    "subject": "진로상담",
+    "pageRef": "보충_4. 보충강의_진로상담(진로전환)"
+  },
+  {
+    "id": 1340,
+    "content": "개인의 가치와 생활양식의변화에 해당하는 것은 ( )이다.",
+    "modelAnswer": "내면화(internalization)",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 12,
+    "subject": "진로상담",
+    "pageRef": "보충_4. 보충강의_진로상담(진로전환)"
+  },
+  {
+    "id": 1341,
+    "content": "proteancareer의 한국어 용어는 ( )이다.",
+    "modelAnswer": "커리어",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 12,
+    "subject": "진로상담",
+    "pageRef": "보충_4. 보충강의_진로상담(진로전환)"
+  },
+  {
+    "id": 1342,
+    "content": "Russell의 한국어 용어는 ( )이다.",
+    "modelAnswer": "러셀",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 12,
+    "subject": "진로상담",
+    "pageRef": "보충_4. 보충강의_진로상담(진로전환)"
+  },
+  {
+    "id": 1343,
+    "content": "Schlossberg의 한국어 용어는 ( )이다.",
+    "modelAnswer": "슐로스버그",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 12,
+    "subject": "진로상담",
+    "pageRef": "보충_4. 보충강의_진로상담(진로전환)"
+  },
+  {
+    "id": 1344,
+    "content": "Williams의 한국어 용어는 ( )이다.",
+    "modelAnswer": "전환의증진요인과억제요인",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 12,
+    "subject": "진로상담",
+    "pageRef": "보충_4. 보충강의_진로상담(진로전환)"
+  },
+  {
+    "id": 1345,
+    "content": "agenda의 한국어 용어는 ( )이다.",
+    "modelAnswer": "어젠다",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 12,
+    "subject": "진로상담",
+    "pageRef": "보충_4. 보충강의_진로상담(진로전환)"
+  },
+  {
+    "id": 1346,
+    "content": "situation의 한국어 용어는 ( )이다.",
+    "modelAnswer": "상황",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 12,
+    "subject": "진로상담",
+    "pageRef": "보충_4. 보충강의_진로상담(진로전환)"
+  },
+  {
+    "id": 1347,
+    "content": "self의 한국어 용어는 ( )이다.",
+    "modelAnswer": "자아",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 12,
+    "subject": "진로상담",
+    "pageRef": "보충_4. 보충강의_진로상담(진로전환)"
+  },
+  {
+    "id": 1348,
+    "content": "support의 한국어 용어는 ( )이다.",
+    "modelAnswer": "지원",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 12,
+    "subject": "진로상담",
+    "pageRef": "보충_4. 보충강의_진로상담(진로전환)"
+  },
+  {
+    "id": 1349,
+    "content": "strategies의 한국어 용어는 ( )이다.",
+    "modelAnswer": "전략",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 12,
+    "subject": "진로상담",
+    "pageRef": "보충_4. 보충강의_진로상담(진로전환)"
+  },
+  {
+    "id": 1350,
+    "content": "immobilization의 한국어 용어는 ( )이다.",
+    "modelAnswer": "마비",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 12,
+    "subject": "진로상담",
+    "pageRef": "보충_4. 보충강의_진로상담(진로전환)"
+  },
+  {
+    "id": 1351,
+    "content": "minimization의 한국어 용어는 ( )이다.",
+    "modelAnswer": "최소화",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 12,
+    "subject": "진로상담",
+    "pageRef": "보충_4. 보충강의_진로상담(진로전환)"
+  },
+  {
+    "id": 1352,
+    "content": "self-doubt의 한국어 용어는 ( )이다.",
+    "modelAnswer": "회의감",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 12,
+    "subject": "진로상담",
+    "pageRef": "보충_4. 보충강의_진로상담(진로전환)"
+  },
+  {
+    "id": 1353,
+    "content": "letting-go의 한국어 용어는 ( )이다.",
+    "modelAnswer": "놓아주기",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 12,
+    "subject": "진로상담",
+    "pageRef": "보충_4. 보충강의_진로상담(진로전환)"
+  },
+  {
+    "id": 1354,
+    "content": "testingout의 한국어 용어는 ( )이다.",
+    "modelAnswer": "시험하기",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 12,
+    "subject": "진로상담",
+    "pageRef": "보충_4. 보충강의_진로상담(진로전환)"
+  },
+  {
+    "id": 1355,
+    "content": "searchformeaning의 한국어 용어는 ( )이다.",
+    "modelAnswer": "찾기",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 12,
+    "subject": "진로상담",
+    "pageRef": "보충_4. 보충강의_진로상담(진로전환)"
+  },
+  {
+    "id": 1356,
+    "content": "internalization의 한국어 용어는 ( )이다.",
+    "modelAnswer": "내면화",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 12,
+    "subject": "진로상담",
+    "pageRef": "보충_4. 보충강의_진로상담(진로전환)"
+  },
+  {
+    "id": 1357,
+    "content": "Heppner의 한국어 용어는 ( )이다.",
+    "modelAnswer": "진로전환에놓인성인을대상으로헤프너",
+    "type": "fill-in",
+    "source": "subnote",
+    "difficulty": 3,
+    "subjectId": 12,
+    "subject": "진로상담",
+    "pageRef": "보충_4. 보충강의_진로상담(진로전환)"
+  },
+  {
+    "id": 1358,
     "content": "다음은 수퍼(Super)의 진로발달이론에 관한 설명이다.글을 읽고 물음에 답하시오.에서, Super의 한국어 용어는 ( )이다.",
     "modelAnswer": "수퍼",
     "type": "fill-in",
@@ -12166,7 +14938,7 @@
     "pageRef": "복습_2-5 복습테스트_진로상담"
   },
   {
-    "id": 1107,
+    "id": 1359,
     "content": "Know의 한국어 용어는 ( )이다.",
     "modelAnswer": "지식",
     "type": "fill-in",
@@ -12177,7 +14949,7 @@
     "pageRef": "필기_ACHIEVE 필기노트 02 교육과정"
   },
   {
-    "id": 1108,
+    "id": 1360,
     "content": "goal-free의 한국어 용어는 ( )이다.",
     "modelAnswer": "탈목표",
     "type": "fill-in",

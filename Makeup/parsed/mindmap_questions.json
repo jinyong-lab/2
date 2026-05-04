@@ -7540,5 +7540,1922 @@
     "difficulty": 3,
     "subjectId": 19,
     "pageRef": "2-6 마인드맵_심리학개론, 가족상담"
+  },
+  {
+    "content": "루시아의전문상담교사 가족상담의 개념을 설명하시오.",
+    "modelAnswer": "카터와맥골드릭 결혼전기→ 결혼적응기→자녀아동기→자녀청소년기→자녀독립기→노년기[09,11]\n에릭슨 구애기→결혼초기→자녀양육기→중년기→자녀독립기→노년기\n듀발 신혼부부기→자녀출산및영아기가족→아동기가족→청년기가족→독립기가족→중년기가족→노년기가족",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "가족생활주기단계에 대해 설명하시오.",
+    "modelAnswer": "콜린즈 자녀가없는부부→학령전자녀가족→학령기자녀가족→십대자녀가족→자녀독립준비및독립가족→중년기부모→노년가족성원\n이혼전후과정 이혼전(이혼결심→체계붕괴계획→별거→이혼),이혼후(보호자가정또는비보호자가정)[19]\n재혼가족의형성 새로운관계의형성→새로운결혼과가족에대한개념화와계획세우기→재혼및가족의재구성[16]\n수직적스트레스원 가족패턴,가풍,생활사,태도,규칙,신화등세대간전수된스트레스요인으로서가족에게전수된혹은주어진이슈",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "가족생활주기의 특징을 서술하시오.",
+    "modelAnswer": "수평적스트레스원 가족생활주기의변화와전이에대처하면서한단계에서다음단계로의전환에따라발생하는발달적스트레스와가족외부로부터의스트레스원[26]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "관련개념의 주요 내용을 기술하시오.",
+    "modelAnswer": "빈둥지증후군 자녀가대학교에진학하거나취직,결혼과같은이유로독립하게되었을때부모가느끼는상실감과외로움",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "사이버네틱스 수학자와이너(Wiener)의 핵심 개념을 설명하시오.",
+    "modelAnswer": "사이버네틱스를의사소통과제어기제에관한과학이라고규정함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "환원주의의 개념을 설명하시오.",
+    "modelAnswer": "복잡한존재를보다단순한차원의존재로환원하여이해하려는인식론",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "이질동형주의의 특징을 서술하시오.",
+    "modelAnswer": "연구대상과환경사이의관계를고려하면서이해하는인식론",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "열린체계의 주요 내용을 기술하시오.",
+    "modelAnswer": "다른체계와상호작용을하면서기능하고있는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "환원주의와이질동형주의의 핵심 개념을 설명하시오.",
+    "modelAnswer": "체계의계층성 인간이여러하위체계로구성되어있는살아있는체계인것과마찬가지로각개인은보다큰체계의하위체계라는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "닫힌체계의 개념을 설명하시오.",
+    "modelAnswer": "환경과교환이없고자신의경계안에서만작용하는것[21]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "선형적인과관계에 대해 설명하시오.",
+    "modelAnswer": "원인및결과의흐름이한쪽방향으로만이루어지는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "순환적인과관계의 특징을 서술하시오.",
+    "modelAnswer": "모든요인들이서로영향을주고받으면서원인인동시에결과가되는것[06]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "정적피드백의 주요 내용을 기술하시오.",
+    "modelAnswer": "변화를일으키는움직임",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "부적피드백의 핵심 개념을 설명하시오.",
+    "modelAnswer": "변화가일어나면곧변화를억누르는방향으로작용하는움직임[15]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "거짓상호성(가성친밀성)의 개념을 설명하시오.",
+    "modelAnswer": "역기능적가족이심각한내부갈등을위장하기위해겉보기에화목한척하는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "거짓상호성,거짓적대성 거짓적대성(가성적대성)에 대해 설명하시오.",
+    "modelAnswer": "표면적으로는갈등하고적대적인관계에있지만내면에는서로에대한친밀감이있는관계",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "고무울타리의 특징을 서술하시오.",
+    "modelAnswer": "가족의구성원인개인의정체성과독자성을찾으려는시도가가족의모호한경계선때문에무시되고방해받는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "부부균열의 주요 내용을 기술하시오.",
+    "modelAnswer": "부부가서로조화를이루거나역할상보에실패하여거의모든중요영역에서의견일치를보지못하고,다툼까지유발하는관계",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "피드백회로의 핵심 개념을 설명하시오.",
+    "modelAnswer": "기만 가정내에서일어나는갈등이나반대의견을모호하게감추는현상",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "부부불균형의 개념을 설명하시오.",
+    "modelAnswer": "부부간의권력이지나치게불균형한상태가되어부부중한사람은강한위치에,다른한사람은약한위치에놓이는관계",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "유산에 대해 설명하시오.",
+    "modelAnswer": "자녀들이부모로부터대화를통해서물려받게되는명령(긍정유산,부정유산)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "신용의 특징을 서술하시오.",
+    "modelAnswer": "노력해서얻은경우(우량신용,불량신용)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "원장의 주요 내용을 기술하시오.",
+    "modelAnswer": "부모로부터주어진유산과자신이살아가면서얻은것들을기록해서계산해놓은장부",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "대칭의 핵심 개념을 설명하시오.",
+    "modelAnswer": "두사람이서로상호주의에입각해서주고받는(giveandtake)관계(서로돌봄을주고받는관계)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "비대칭에 대해 설명하시오.",
+    "modelAnswer": "한사람이다른사람을돌보면다른사람은그사람에게같은방식으로돌봄을되돌려줄수없는관계(일방적돌봄)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "충성심의 특징을 서술하시오.",
+    "modelAnswer": "부모가자녀를돌보고도움을줌으로써자녀가부모에대한신뢰와사랑의마음을갖게되는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "자기묘사의 주요 내용을 기술하시오.",
+    "modelAnswer": "자율적이고개별적자신을다른사람들과의관계에서구분할수있는능력",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "자기타당의 핵심 개념을 설명하시오.",
+    "modelAnswer": "다른사람들로부터인정을받을수있는능력",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "부모화의 개념을 설명하시오.",
+    "modelAnswer": "아이가부모의역할을오랫동안하는현상으로관계성을위해자신에게적절한책임을지닌나이이상으로행동하게하는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "분열된충성심에 대해 설명하시오.",
+    "modelAnswer": "한쪽부모에대해아이가충성심을갖게되어다른쪽부모에대해충성심을나타낼수없을때나타나는모순",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "보이지않는충성심의 특징을 서술하시오.",
+    "modelAnswer": "자신의가족을보호하기위해서자녀들이취하는무의식적인헌신",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "회전판의 주요 내용을 기술하시오.",
+    "modelAnswer": "좋든나쁘든헛된노력에도불구하고유형이한세대에서다음세대로반복되는유산으로다음세대에게파괴적부여를만드는역할을함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "역기능적가족관계의 핵심 개념을 설명하시오.",
+    "modelAnswer": "치료목표 가족원의관계맺는능력향상,가족구조의확립,실존의질서회복,예방",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "자기분화의 개념을 설명하시오.",
+    "modelAnswer": "정서적기능과지적기능사이에융합이나분화의정도에따라개인을규정하는것[09,13,15,17,24]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "삼각관계에 대해 설명하시오.",
+    "modelAnswer": "두사람이자신들의정서적문제에또다른한사람을끌어들이는형태[05,09,13,18]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "핵가족정서체계의 특징을 서술하시오.",
+    "modelAnswer": "원가족에서형성된것을다시지금의가족내에서반복하는패턴으로작용하는정서적압력들에관한것[17]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "가족투사과정의 주요 내용을 기술하시오.",
+    "modelAnswer": "부모가자신의미분화를자녀에게전달하는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "다세대전수과정의 개념을 설명하시오.",
+    "modelAnswer": "다세대를통해가족의정서과정이전수되는것[09,13]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "가족상담 형제순위에 대해 설명하시오.",
+    "modelAnswer": "출생순위가가족의정서체계안에서특정한역할과기능을한다고보는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "정서적단절의 특징을 서술하시오.",
+    "modelAnswer": "한개인과원가족간의미분화와관련된정서적긴장을설명한것으로극심한정서적분리의양상을나타내는것[16,22]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "사회적정서과정의 주요 내용을 기술하시오.",
+    "modelAnswer": "환경이가족에게영향을미치는것처럼사회내의정서적과정은가족내의정서적과정에영향을미친다는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "코칭의 핵심 개념을 설명하시오.",
+    "modelAnswer": "치료자가내담자와가족으로하여금직접가족문제에대처하는데자신의능력과기능을최대한발휘하도록돕는방법[10,13]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "‘나-입장’취하기의 개념을 설명하시오.",
+    "modelAnswer": "자신의생각과감정을표현하게하는방법으로상대방의행동을지적하기보다자신의감정을표현하는것[10,24]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "과정질문하기에 대해 설명하시오.",
+    "modelAnswer": "자신의내면세계및다른사람과의관계에서어떤일이일어나고있는지를탐색하도록만드는질문[10,13]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "치료적삼각관계의 특징을 서술하시오.",
+    "modelAnswer": "가족의삼각관계를끊기위해상담자가제3의인물이되어정서적삼각관계에연루되지않으면서두사람과접촉해나가는것[10]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "관계성실험의 주요 내용을 기술하시오.",
+    "modelAnswer": "중요한삼각관계에변화를일으키는것으로정서적으로가까이가고자하는사람과도망치는사람을치료하기위한기법",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "불안완화기법의 핵심 개념을 설명하시오.",
+    "modelAnswer": "감정을차분히가라앉히고가족원간에이성적으로얘기할수있도록불안을완화시키는기법",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "다중가족치료기법의 개념을 설명하시오.",
+    "modelAnswer": "상담자가부부한사람씩초점을두며대화를이끌어가는기법",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "집단가족치료에 대해 설명하시오.",
+    "modelAnswer": "여러부부를모아집단으로상담을진행하는방법",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "다른가족이야기로대치하기의 특징을 서술하시오.",
+    "modelAnswer": "가족이문제에대해객관적이고현실적인인식을할수있도록비슷한문제를가진다른가족의이야기를들려주는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "자기초점맞추기의 주요 내용을 기술하시오.",
+    "modelAnswer": "자신에게초점을맞추어, 자신의감정과행동에대해책임을지도록하는방법",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "상담목표의 핵심 개념을 설명하시오.",
+    "modelAnswer": "문제에대한행동적반응을변화시키는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "주요개념의 개념을 설명하시오.",
+    "modelAnswer": "의사소통,가족항상성,이중구속,피드백고리,가족규칙,마침표원리[14]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "치료과정의 특징을 서술하시오.",
+    "modelAnswer": "치료과정에대한소개→문제에대한질문과정의→문제를유지하는행동평가→치료목표의설정→행동적개입의선택과실행→(결론)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "상담기법의 주요 내용을 기술하시오.",
+    "modelAnswer": "문제의재정의,증상에처방하기등의역설적개입",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "전략적가족상담 상담목표의 핵심 개념을 설명하시오.",
+    "modelAnswer": "가족을구조적으로재조직하는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "첫면담과정에 대해 설명하시오.",
+    "modelAnswer": "사회적단계(친화단계→문제단계→상호작용의단계→목표설정의단계→(개입의선택과실행)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "한회기면담의구조화과정의 개념을 설명하시오.",
+    "modelAnswer": "면담전모임→면담→중간모임→개입→면담후모임",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "김유숙의 특징을 서술하시오.",
+    "modelAnswer": "문제의정의→문제에관한정보의수집→가설설정→상담목표의설정→치료적개입→2번으로의패드백",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "정문자의 핵심 개념을 설명하시오.",
+    "modelAnswer": "호소문제를드러내기→문제를지속시키는상호작용을부각하기→가족구조에초점을두어과거탐색하기→대안적인관계방식을모색하기",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "교류와의합류의 개념을 설명하시오.",
+    "modelAnswer": "추적하기,적응하기,모방하기[11,17]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "교류의창조에 대해 설명하시오.",
+    "modelAnswer": "구조화,실연[11,19],가족내의과제설정",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "가족구조의확인기법의 주요 내용을 기술하시오.",
+    "modelAnswer": "관찰,실연,구조적지도",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "[12]의 핵심 개념을 설명하시오.",
+    "modelAnswer": "교류의재구조화 증상의초점화(증상의강조→증상의축소화→새로운증상의재정의)\n구조의수정(구조적지도,교류의분해,교류유형의차단,유형의강화,유형의재조직)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "상담기법2의 개념을 설명하시오.",
+    "modelAnswer": "긴장고조기법(강조기법,능력형성[24])\n가족재구조화기법 증상활용기법(증상에초점맞추기→증상을과장하기→증상에무관심하고새로운증상으로이동하기→증상을재명명하기)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "과제부과에 대해 설명하시오.",
+    "modelAnswer": "상담기법3 강점인식,경계선설정하기,균형깨뜨리기,가족신념에도전하기,특정한상호작용을부각시켜서조정하기등",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-7 마인드맵_가족상담"
+  },
+  {
+    "content": "김유숙의 개념을 설명하시오.",
+    "modelAnswer": "문제의정의→문제에관한정보의수집→가설설정→상담목표의설정→치료적개입→2번으로의패드백",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "루시아의전문상담교사 가족상담에 대해 설명하시오.",
+    "modelAnswer": "기본전제 가족구조가변하면가족원들의지위도달라지므로결국각개인의경험도변할수밖에없다.\n주요개념[12] 가족구조,경계선(명료한경계선,애매한경계선,경직된경계선)[14,18],위계(연합과동맹),가족지도[05,08,09,13,15,19,22],하위체계[07]\n상담목표[22] 가족구조의변화(하위체계간의명확한경계선설정,가족위계질서의강화,가족의실상에맞는규칙의대체)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "정문자의 특징을 서술하시오.",
+    "modelAnswer": "호소문제를드러내기→문제를지속시키는상호작용을부각하기→가족구조에초점을두어과거탐색하기→대안적인관계방식을모색하기",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "교류와의합류의 주요 내용을 기술하시오.",
+    "modelAnswer": "추적하기,적응하기,모방하기[11,17]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "교류의창조의 핵심 개념을 설명하시오.",
+    "modelAnswer": "구조화,실연[11,19],가족내의과제설정",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "가족구조의확인기법에 대해 설명하시오.",
+    "modelAnswer": "관찰,실연,구조적지도",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "[12]의 특징을 서술하시오.",
+    "modelAnswer": "교류의재구조화 증상의초점화(증상의강조→증상의축소화→새로운증상의재정의)\n구조의수정(구조적지도,교류의분해,교류유형의차단,유형의강화,유형의재조직)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "상담기법2의 주요 내용을 기술하시오.",
+    "modelAnswer": "긴장고조기법(강조기법,능력형성[24])\n가족재구조화기법 증상활용기법(증상에초점맞추기→증상을과장하기→증상에무관심하고새로운증상으로이동하기→증상을재명명하기)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "과제부과의 핵심 개념을 설명하시오.",
+    "modelAnswer": "상담기법3 강점인식,경계선설정하기,균형깨뜨리기,가족신념에도전하기,특정한상호작용을부각시켜서조정하기등",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "개요[12,13] 경험적가족상담자의공통적개념의 개념을 설명하시오.",
+    "modelAnswer": "과정에초점,협력적인치료관계강조,감정에초점",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "사티어에 대해 설명하시오.",
+    "modelAnswer": "직접적이고명확한의사소통에관심을갖고,모든가족원들에게자존감을심어줌",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "회유형의 특징을 서술하시오.",
+    "modelAnswer": "다른사람과상호작용하는상황을중요시하지만자신의진정한감정을존중하지않음[15,19]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "비난형의 주요 내용을 기술하시오.",
+    "modelAnswer": "비난하기위해다른사람의가치를격하시키고자신과상황에만가치를둠[07,15,17,26]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "의사소통유형[11] 초이성형의 핵심 개념을 설명하시오.",
+    "modelAnswer": "자신이나다른사람을지나치게낮게평가하며지나치게합리적인입장에서상황만을중요시함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "산만형에 대해 설명하시오.",
+    "modelAnswer": "어느곳에도초점이맞추어있지않아서말의의미나내용도없이혼자바쁘고산만함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "일치형의 특징을 서술하시오.",
+    "modelAnswer": "자신과타인을돌보고현재의상황을제대로파악함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "빙산탐색기법의 주요 내용을 기술하시오.",
+    "modelAnswer": "빙산의수면아래를탐색하여부적응적인내담자의경험을표면화하고변형시키는기법[15,16,23]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "가족조각기법의 핵심 개념을 설명하시오.",
+    "modelAnswer": "현실의공간에사람들을놓고자세나표정도자신이인식한대로표현하게함으로써내담자의대인관계를파악하는기법",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "원가족삼인군치료의 개념을 설명하시오.",
+    "modelAnswer": "원가족도표를이용해내담자가원가족삼인군에서학습한역기능적대처방법의집착에서벗어나,독자적인개별성을갖도록하는기법",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "원가족도표에 대해 설명하시오.",
+    "modelAnswer": "가족의역동성과가족관계를쉽게이해하도록작성된가족도표[15]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "나의생활연대기의 특징을 서술하시오.",
+    "modelAnswer": "출생후현재까지나의주요생활사건을연대별로나열한것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "가족생활사건연대기의 주요 내용을 기술하시오.",
+    "modelAnswer": "스타의대가족역사속에나타나는의미있는사건을연도별로기록하여작성하는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "영향력의수레바퀴의 핵심 개념을 설명하시오.",
+    "modelAnswer": "성장기동안우리에게지적,정서적,신체적,사회적으로영향을준사람이나사건을바퀴모양의그림으로만든것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "가족재구조화의 개념을 설명하시오.",
+    "modelAnswer": "원가족도표,나의생활연대기,영향력의수레바퀴등을이용해가족의역기능체계를개방적이고건강한기능체계로바꾸는기법",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "은유에 대해 설명하시오.",
+    "modelAnswer": "치료자가직접적으로지시하거나평가하기보다는간접적이고비유적인표현을사용하는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "명상의 특징을 서술하시오.",
+    "modelAnswer": "‘지금-여기’에집중하게하며,자신의내적•외적자원을감사히생각하고충분히활용할수있게하는기법",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "과제의 핵심 개념을 설명하시오.",
+    "modelAnswer": "변화를위해행동으로옮길수있는과제",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "[26]의 개념을 설명하시오.",
+    "modelAnswer": "자신을위해서가아니고다른사람을위한목표를가지고있는유형",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "[17]의 특징을 서술하시오.",
+    "modelAnswer": "상담을받아야할필요성을크게느끼지못하거나문제해결의동기가약한사람",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "해결중심가족상담 과제의 주요 내용을 기술하시오.",
+    "modelAnswer": "칭찬만하고과제는주지않음",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "면담이전의변화를묻는질문의 핵심 개념을 설명하시오.",
+    "modelAnswer": "상담이전의변화에관심을가지고가족스스로가인식못한해결방안을찾아내는기법",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "예외질문의 개념을 설명하시오.",
+    "modelAnswer": "일상생활에서성공적으로잘하고있으면서도의식하지못하는것을발견하고성공했던행동을의도적으로하도록강화시키는기법[08,12,17,22]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "기적질문에 대해 설명하시오.",
+    "modelAnswer": "해결된상황을상상해봄으로써해결하기를원하는것을구체화하고,명료화하는데도움을주는질문[06,08,18]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "척도질문의 특징을 서술하시오.",
+    "modelAnswer": "가족에게문제의심각성정도나상담목표,성취정도의측정등을수치로표현하도록하는것[09.13,20]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "대처질문의 주요 내용을 기술하시오.",
+    "modelAnswer": "만성적인어려움과위기에관련된질문으로,어려운상황에서견뎌내고더나빠지지않은것을강조하는기법[12,15]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "[05,11,13]의 핵심 개념을 설명하시오.",
+    "modelAnswer": "메시지구성[08] 칭찬-연결문-과제(상담자와가족과의관계유형고려)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "악몽질문의 개념을 설명하시오.",
+    "modelAnswer": "부정적인생각에사로잡힌내담자에게역설적인질문을함으로써오히려긍정적인변화의의지를일깨우고자하는기법[20]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "관계성질문에 대해 설명하시오.",
+    "modelAnswer": "내담자가문제해결의상황을자기중심적생각에서벗어나중요한타인의시각으로보면서문제해결에관한새로운가능성을찾는질문[12,15]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "보람질문(목표설정을위한질문)의 특징을 서술하시오.",
+    "modelAnswer": "상담이종료될때어떤변화가일어난다면상담을잘받았다고생각하는가를묻는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "간접적인칭찬의 주요 내용을 기술하시오.",
+    "modelAnswer": "내담자의어떤측면이긍정적이라는것을암시하는질문을하는것(‘어떻게그렇게할수있었습니까?’)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "‘그외에또무엇이있습니까?’질문의 핵심 개념을 설명하시오.",
+    "modelAnswer": "예외를더발견하고,장점,자원,성공적경험등긍정적인측면을더이끌어내려는질문",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "문제의외재화의 개념을 설명하시오.",
+    "modelAnswer": "내담자로부터문제를분리하게끔도와서내담자가문제를지나치게심각하게여기지않도록동기를부여하는것[12,15,24]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "이야기치료 문제의영향탐색에 대해 설명하시오.",
+    "modelAnswer": "문제나영향에상세하게질문하는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "독특한결과찾기의 특징을 서술하시오.",
+    "modelAnswer": "일종의‘예외’에해당하는것으로,이런예외적인사건을이야기속에녹아들도록하는것[15,22]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "(삶의)회원재구성의 주요 내용을 기술하시오.",
+    "modelAnswer": "개인이자신의삶이라는무대에등장하는타인과의관계를새롭게조합하는과정(의미있는대상의기여탐색,내담자의기여탐색)[12,18]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "정의예식과정의 개념을 설명하시오.",
+    "modelAnswer": "진술→재진술→재진술에대한재진술",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "질문단계에 대해 설명하시오.",
+    "modelAnswer": "표현질문→이미지질문→공명질문→이동질문",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "거푸집짓기의 특징을 서술하시오.",
+    "modelAnswer": "내담자로하여금익숙한것에서멀어져앞으로알게될가능성이있는것으로움직일수있도록하여풍부한이야기를만들도록돕는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "새로운이야기의강화의 주요 내용을 기술하시오.",
+    "modelAnswer": "내담자가정체성을강화할수있도록청중이나집단을찾기도하고새로운이야기를강화하기위한편지를쓰기도함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "재저작의 핵심 개념을 설명하시오.",
+    "modelAnswer": "내담자의삶에구조화되어강력한영향력을미치고있는이야기의의미와해석을변화시켜새로운의미와해석을부여하는작업",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "오한런의 개념을 설명하시오.",
+    "modelAnswer": "실재란한가지만있는것이아니라다중적으로존재하며,사람들이자신의삶을‘올바르게’사는방법은한가지만있는것이아니다.",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "앤더슨과굴리시안의 특징을 서술하시오.",
+    "modelAnswer": "어떤특정한기법이나틀을갖지않으며,공감적이고보살핌의대화를하면서새로운의미를찾는과정에초점을둔다.",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "이마고부부관계치료 주요개념의 주요 내용을 기술하시오.",
+    "modelAnswer": "알지못함의자세,반영팀,체계의관점(문제가체계를만든다.)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "하빌헨드릭스와헬렌헌트의 핵심 개념을 설명하시오.",
+    "modelAnswer": "부부각자의어린시절미해결과제의치유를통해부부관계에대한긍정적변화를이끌어내고자하는접근법",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "이마고부부관계치료에 대해 설명하시오.",
+    "modelAnswer": "존슨과그린버그에의해개발된것으로경험주의와체계이론을통합한치료법",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "정서중심부부치료의 특징을 서술하시오.",
+    "modelAnswer": "개인의내적인측면과부부의상호작용패턴이라는대인관계적측면을모두고려함\n갈등하는내면의목소리를하나의인격체로의인화하는것(경험적가족치료중하나로슈어츠가개발함)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "목표의 주요 내용을 기술하시오.",
+    "modelAnswer": "개인의내면체계‘부분(관리자,유배자,소방관)’들이‘자기’요인의지도하에균형과조화를이루도록하는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "내면가족체계이론의 핵심 개념을 설명하시오.",
+    "modelAnswer": "각학파의공통적인여러조각을선택한후,하나의형태로만들어가는것(브룬린,슈어츠,막쿤카러)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "6개의핵심영역의 개념을 설명하시오.",
+    "modelAnswer": "심리내적과정,가족구조,가족상호작용의연속,진화,문화,성별",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "통합적모델에 대해 설명하시오.",
+    "modelAnswer": "다양한가족치료와개인치료의접근을통합한것(팽소프와동료들)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "통합적문제중심치료의 특징을 서술하시오.",
+    "modelAnswer": "여러가지모델간의우열을가리고그중하나를선택하기보다는모든모델을동일선상에놓고출발해야한다는입장\nMRI의전략적모델과이야기적기법을연결시킨것으로,에론과룬드가개발함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "이야기해결모델의 주요 내용을 기술하시오.",
+    "modelAnswer": "전략적가족치료의취약한부분을보완하기위해,가족스스로가선호하는것을선택하여해결의장을만들어가는이야기치료를통합시킨것\n의사소통훈련,갈등해결,문제해결을행동주의적으로혼합한것에인본주의적요소를포함한치료법(제이콥슨과크리스텐슨)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "정형화단계의세가지구성요소의 핵심 개념을 설명하시오.",
+    "modelAnswer": "주제,양극화과정,공동의덫",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "동일결과성의 개념을 설명하시오.",
+    "modelAnswer": "다양한출발에서동일한결과에이른다는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "동일잠재성(다귀결성)에 대해 설명하시오.",
+    "modelAnswer": "동일한출발에서다양한결과에이른다는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "모자공생의 특징을 서술하시오.",
+    "modelAnswer": "모자간의정서적관여가병리적으로심해서두명의자아가하나의존재로간주될정도로강렬한정서애착의상태",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "치료적이중구속의 주요 내용을 기술하시오.",
+    "modelAnswer": "증상을계속하라는지시로인해내담자가증상을포기하거나증상에대한자기통제력을인정해야하는딜레마에처하게되는상태",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "가족도식의 핵심 개념을 설명하시오.",
+    "modelAnswer": "가족에대해가지고있는개인의신념과인지[25]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "상위규칙의 개념을 설명하시오.",
+    "modelAnswer": "가족행동을규제하는일반적인규칙위에작용하는‘규칙을총괄하는규칙’을의미",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "가족상담 선호하는이야기에 대해 설명하시오.",
+    "modelAnswer": "개인의목적의식,꿈,희망이깃들어있는,문제이야기와상반된삶의이야기",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "대안적이야기의 특징을 서술하시오.",
+    "modelAnswer": "야기치료를통해만들어지는,문제로가득찬지배적이야기에상반되는이야기",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "지배적이야기의 주요 내용을 기술하시오.",
+    "modelAnswer": "내담자삶에서문제가주가되고내담자가종속적위치에있는이야기",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "공동저작의 핵심 개념을 설명하시오.",
+    "modelAnswer": "치료자와내담자가공조관계속에서대안적이야기를발전시키는행위로이야기치료에서말하는이상적인치료적관계",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "빈약한-풍부한설명의 개념을 설명하시오.",
+    "modelAnswer": "빈약한설명-한가지유형의이야기만으로그사람의정체성을파악하려는시도/풍부한설명-다양한이야기를토대로개인을설명하려는시도",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "지향상태에 대해 설명하시오.",
+    "modelAnswer": "내담자의자기이야기속에서찾아볼수있는삶의원칙,소신,의도,목적,가치,희망,꿈,헌신의대상등내담자가삶에서지향하는바",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "가족비밀의 특징을 서술하시오.",
+    "modelAnswer": "가족또는가족구성원사이에서말해서는안되는것으로되어있는명백한사건과은밀한공상또는생각",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "희생양의 주요 내용을 기술하시오.",
+    "modelAnswer": "양자간의문제를회피하기위해가족내에서증상이나문제를가진사람을만드는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 20,
+    "pageRef": "2-8 마인드맵_가족상담"
+  },
+  {
+    "content": "장점의 개념을 설명하시오.",
+    "modelAnswer": "편안함과안전감,현실검증,소속감,풍부한학습경험,자신과타인의이해,상담에대한긍정적인식,경제적,효율적,자기노출용이,보편성,대리학습 등",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "루시아의전문상담교사 집단상담에 대해 설명하시오.",
+    "modelAnswer": "집단상담의목표 자기이해,건전한자아개념의발달,학습과정의촉진,자기수용,자기개방,대인관계의발달,정서적문제의해소,자기주장",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "단점의 특징을 서술하시오.",
+    "modelAnswer": "비밀보장의한계,현실도피,집단압력,개인초점의제한,집단상담대상의적합성등",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "기둥형의 주요 내용을 기술하시오.",
+    "modelAnswer": "지도자가중심인물이며성원과지도자양자간에의사소통이이루어지는상호작용유형",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "순번형의 핵심 개념을 설명하시오.",
+    "modelAnswer": "지도자가중심에있기는하지만,각성원이돌아가면서이야기하는상호작용유형",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "뜨거운자리형의 개념을 설명하시오.",
+    "modelAnswer": "다른성원이지켜보는가운데서지도자와한성원만이의사소통하는유형",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "자유부동형에 대해 설명하시오.",
+    "modelAnswer": "모든성원이의사소통할책임을지니는유형으로,성원들이주도권을갖는집단중심의상호작용유형",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "과제수행집단의 특징을 서술하시오.",
+    "modelAnswer": "수행을향상시키고집단에서확인된목표를성취하기위해서집단역동의원리와과정을적용함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "심리교육집단(가이던스집단)의 주요 내용을 기술하시오.",
+    "modelAnswer": "구조화된일련의절차를통해집단원들의인지적,정서적,행동적기술들을개발시킴(교육결핍과심리문제예방)[10,26]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "상담집단의 핵심 개념을 설명하시오.",
+    "modelAnswer": "일상적이거나때로는어려운삶의문제를해결하도록돕는집단",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "심리치료집단의 개념을 설명하시오.",
+    "modelAnswer": "뚜렷한고통과기능의장애,심리적문제들을완화시키기위한집단",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "자조집단에 대해 설명하시오.",
+    "modelAnswer": "구성원들이공통된문제를해결하기위해경험과대처기술등의정보와희망을공유하는자발적인모임",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "지지집단의 특징을 서술하시오.",
+    "modelAnswer": "공통적인관심사가있는집단원들로구성되어서로의생각과감정을나누고특정문제와관심사에대해점검해보기위한집단",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "정의의 주요 내용을 기술하시오.",
+    "modelAnswer": "집단체험,자신에대한이해,자신의잠재력개발에관심이있는사람들의인간적성장과발달을촉진하기위한집단",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "성장집단유형의 핵심 개념을 설명하시오.",
+    "modelAnswer": "훈련집단,참만남집단,마라톤집단",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "성장집단의 개념을 설명하시오.",
+    "modelAnswer": "문제해결이나치료가주된목적이아니라삶의경험을원하거나자기자신에대해좀더알기원하는참가자들로이루어진능동적인집단유형",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "문제중심집단에 대해 설명하시오.",
+    "modelAnswer": "사회공포,스트레스대처와같은한가지특정한관심에초점을두고형성된집단",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "민주형의 주요 내용을 기술하시오.",
+    "modelAnswer": "구성원들의의사존중.효과적인의사소통기술을활용하여구성원들과협력하여집단의목표,방향,절차를설정하는작업에참여함(책임공유)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "전념,자기수용,새로운경험추구의 핵심 개념을 설명하시오.",
+    "modelAnswer": "적극적경청,반영하기,명료화,요약하기,촉진시키기,공감하기,해석하기[13],질문하기,연결짓기[07,11,14,15,19,26],직면시키기[05],지지하기(격려하기)\n집단리더십기술 [07],차단하기[07,10,22],진단하기,모범보이기,제안하기,개입하기(지도하기),평가하기,종결짓기,보편화[11],초점맞추기[15,22]행동제한하기[11],\n지금여기상호작용촉진,적극적참여유도,구조화,피드백",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "독단형(독재형,전제형)의 개념을 설명하시오.",
+    "modelAnswer": "리더중심적,구성원들이변화에필요한통찰이나집단행동을독자적으로발전시킬수없다고믿음(전문가의도움이필요함)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "방임형에 대해 설명하시오.",
+    "modelAnswer": "수동적·소극적리더.집단의방향이전적으로구성원들에게있고,집단과정과결과에대한책임역시그들에게달려있다고믿음",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "희생양의 핵심 개념을 설명하시오.",
+    "modelAnswer": "집단원자신이수용하기어려워하는부분이나자신의욕구나문제를다른집단원에게투사함으로써생김",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "영웅의 개념을 설명하시오.",
+    "modelAnswer": "이상화되어떠받들어지는집단원또는가족내에서애지중지하는아이와같은대우를받는집단원이나타남",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "희생양과영웅에 대해 설명하시오.",
+    "modelAnswer": "집단과업이공통적인관심사나주제를선정하고구체화하여해결하는것이라는가정하에집단과업역할을분석한것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "집단과업역할의 특징을 서술하시오.",
+    "modelAnswer": "창안자·공헌자,정보모색자,의견모색자,정보제공자,의견제시자,부연설명자,조정자,방향제시자,평가자·비평자,활력소제공자,진행기술자,기록자",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "집단원의 주요 내용을 기술하시오.",
+    "modelAnswer": "집단을강화하고조절하며지속시키기위해집단작업의방법을변경하거나유지하는역할",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "집단건축및유지역할의 핵심 개념을 설명하시오.",
+    "modelAnswer": "격려자,화합자,타협자,문지기·촉진자,기준설정자,집단관찰자·해설자,추종자\n집단의과업이나기능과상관없이단순히집단원개개인의역할을분류",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "개별역할의 개념을 설명하시오.",
+    "modelAnswer": "공격자,차단자,자기고백자,바람둥이,압제자,도움모색자,특정관심탄원자",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "동질집단에 대해 설명하시오.",
+    "modelAnswer": "사회적성숙도,성,지적능력,교육수준,성격차이,문제영역,그리고사회경제적수준등이비슷한집단[07,08,15]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "이질집단의 특징을 서술하시오.",
+    "modelAnswer": "지능,성숙,동기,가정환경,연령,성별등하나또는여러가지측면에서성질이다른참여자를섞어서만든집단",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "구조화집단의 주요 내용을 기술하시오.",
+    "modelAnswer": "상담자에의해통제되며정해진절차에따라지시적으로진행되는집단[08,15]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "비구조화집단의 핵심 개념을 설명하시오.",
+    "modelAnswer": "정해진활동없이개인의경험과관심을토대로상호작용하는집단",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "[23,26] 개방집단의 개념을 설명하시오.",
+    "modelAnswer": "집단이허용하는한도내에서중도에탈락하는집단원의자리를새로운구성원이대치하는집단의형태[08,20]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "폐쇄집단에 대해 설명하시오.",
+    "modelAnswer": "집단상담의시작시참여했던구성원들만으로끝까지유지되는집단[26]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "코리의 특징을 서술하시오.",
+    "modelAnswer": "집단구성하기→초기단계→과도기단계→작업단계→종결단계",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "집단상담과정 터크만의 주요 내용을 기술하시오.",
+    "modelAnswer": "형성단계(OT)→격동단계(갈등)→규범화단계(규범형성,응집)[10]→수행단계(과제수행)→해체단계",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "서스만의프로그램활동요소선정기준의 핵심 개념을 설명하시오.",
+    "modelAnswer": "수용성,접근성,목표달성에도움이되는정도,목표집단에미치는영향력[20]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "개방집단대폐쇄집단[06]의 개념을 설명하시오.",
+    "modelAnswer": "집단을시작하기전에집단상담자가일정한과정을거쳐선발된집단원들과함께모임을갖는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "예비집단실시이유에 대해 설명하시오.",
+    "modelAnswer": "집단운영계획서공고,집단원의기대명료화,집단규칙선정,집단원의불안감해소및집단효율성높이기등[23]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "예비집단의 특징을 서술하시오.",
+    "modelAnswer": "오리엔테이션과탐색이이루어지는시기로침묵이많고서로어색하게느끼며혼란스러워하는단계",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "초기단계의특징의 주요 내용을 기술하시오.",
+    "modelAnswer": "초기불안,신뢰대불신,목표의확인과명료화[08],집단규범[08,16,20],집단구조화[09]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "[06,08,09,11,12,22]의 핵심 개념을 설명하시오.",
+    "modelAnswer": "집단내에존재하는갈등이나부정적반응,불안에대한방어심리에서나온저항감이나타나는단계",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "과도기단계의특징의 개념을 설명하시오.",
+    "modelAnswer": "불안,방어와저항,상담자에대한도전,문제행동등",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "[05,09,11,13]에 대해 설명하시오.",
+    "modelAnswer": "회기동안제기된중대한문제들을탐색하고자하는집단원들의노력과집단내역동성에대한관심이나타나는단계",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "작업단계의특징의 특징을 서술하시오.",
+    "modelAnswer": "응집력[07],깊은신뢰감,치료적요인,새로운행동시도,직접적인상호작용등",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "작업단계[16]의 주요 내용을 기술하시오.",
+    "modelAnswer": "집단원들이학습을강화하고집단상담을통해배운것을일상생활에적용할수있는전략을발전시키는시기",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "종결단계의특징의 핵심 개념을 설명하시오.",
+    "modelAnswer": "분리감정다루기,피드백주고받기,배운것을실생활에옮기기등",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "침묵과참여부족(소극적참여)의 개념을 설명하시오.",
+    "modelAnswer": "자신의생각을드러내지않고조용히앉아있는등침묵으로일관하는행동[11,13,22,25]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "독점하는행동에 대해 설명하시오.",
+    "modelAnswer": "다른집단원의이야기를자신의세부적인이야기를시작하는실마리로받아들이는등집단의활동을독점하는것[11,23]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "사실적이야기늘어놓기(자신의옛이야기하기,장황하게말하기)의 특징을 서술하시오.",
+    "modelAnswer": "자신이나주변사람들에대해단순히상세하게이야기하는것[12]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "질문하기(질문공세)의 주요 내용을 기술하시오.",
+    "modelAnswer": "다른집단원이질문에대한대답을하기도전에연속해서질문을퍼붓거나심문하듯이질문하는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "조언하기(충고일삼기)의 핵심 개념을 설명하시오.",
+    "modelAnswer": "다른집단원에게어떻게느껴야하고,무엇을하고하지말아야할지를반복적으로이야기하거나결함이나잘못을제시하는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "의존성의 개념을 설명하시오.",
+    "modelAnswer": "집단상담자나집단원들이자신을보살펴주고자신에관한사안을대신결정해줄것으로기대하는행동과태도[20]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "일시적구원(상처싸매기,일시적위안)에 대해 설명하시오.",
+    "modelAnswer": "감정을충분히표현하기전에“괜찮아”하면서고통을표현하려는집단원의주의전환을시도하는것[12,13,19]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "적대적행동의 특징을 서술하시오.",
+    "modelAnswer": "누적된부정적인감정을직접또는간접적인방식으로집단상담자나다른집단원들에게표출하는행동[11]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "우월한사람으로행동하기의 주요 내용을 기술하시오.",
+    "modelAnswer": "우월하고도덕적인태도를보이며,다른사람의행동에대해판단하거나비판할구석을찾는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "하위집단형성(사회화,집단외사교활동)의 핵심 개념을 설명하시오.",
+    "modelAnswer": "집단이분리되어소집단별로전체와는다른주제에대해이야기하거나,전혀집단에참여하지않고침묵하기도하는현상[16,20,23]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "주지화(지성화)의 개념을 설명하시오.",
+    "modelAnswer": "집단에서자신의내면적인세계를개방하기보다는지적인토론을벌이는현상[23]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "보조(공동)지도자가되려는집단원에 대해 설명하시오.",
+    "modelAnswer": "특정집단원이상담자의역할을맡아다른집단원에게질문하고충고하는현상",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "습관적불평의 특징을 서술하시오.",
+    "modelAnswer": "거의매회기마다집단,집단리더및집단원들에대해불평불만을늘어놓는행위를하는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "감정화의 주요 내용을 기술하시오.",
+    "modelAnswer": "인지적·이성적인면은외면한채전적으로감정에초점을맞추는한편,매사감정적으로처리하여집단의흐름을저해하는현상",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "얄롬의치료적요인[10]의 핵심 개념을 설명하시오.",
+    "modelAnswer": "희망고취,보편성[12],정보공유,이타심,일차가족의교정적재현,사회화기법발달,모방행동,대인관계학습[09],집단응집력[13],정화,실존적요인[12]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "코틀러가주장한치료적요인의 개념을 설명하시오.",
+    "modelAnswer": "지지,소속감,정화,대리학습,인식,가족재연,공적책무,과업촉진,모험시도[20],시연,직면·피드백,마법[20],응집력,상호영향",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "코리(Corey)의치료적요인의 특징을 서술하시오.",
+    "modelAnswer": "자기개방(집단원,지도자)[20],피드백[20],직면,응집력과보편성,희망,모험과신뢰,관심과이해,힘(자신의진로를결정할힘이자신에게있다는깨달",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "블로흐(Bloch)와크라우치(Crouch)의치료적요인의 주요 내용을 기술하시오.",
+    "modelAnswer": "수용,이타주의,정화,지도,희망의고취,대인간행동을통한학습,자기노출,자기이해,보편성,대리학습",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "조하리의창 열린창(공개영역)의 핵심 개념을 설명하시오.",
+    "modelAnswer": "자신도알고타인도아는영역,민주형의사소통",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "치료적요인의 개념을 설명하시오.",
+    "modelAnswer": "얄롬(I.Yalom)과레스츠(M.Leszcz)의Q분류법(집단의치료적요인):이타주의,집단응집력,보편성,대인관계입력[15],대인관계출력,지도(제안,조언),정화,동일시,가족재정립,\n자기이해,희망고취[18],실존적요인[15,18]\n음),정화,인지적요인,변화의의지,시도의자유,유머\n정의 나와타인과의관계속에서내가어떤상태에처해있는지를보여주고어떤면을개선하면좋을지를보여주는데유용한분석틀",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "숨겨진창(비밀영역)에 대해 설명하시오.",
+    "modelAnswer": "자신은알지만타인은모르는영역,과묵형의사소통",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "보이지않는창(맹목/맹인영역)의 특징을 서술하시오.",
+    "modelAnswer": "나는모르지만타인은아는영역,독단형의사소통",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "미지의창(미지적영역)의 주요 내용을 기술하시오.",
+    "modelAnswer": "나도모르고타인도모르는영역,폐쇄형의사소통",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-1 마인드맵_집단상담"
   }
 ]

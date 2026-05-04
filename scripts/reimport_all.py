@@ -19,7 +19,8 @@ PARSED_DIR = Path(r"C:\Users\HOSEO\Desktop\임용\Makeup\parsed")
 # subject name → D1 subjectId (교육학 과목)
 FORMATIVE_SUBJECT_MAP = {
     "교육의 이해": 4, "교육과정": 1, "교육방법 및 공학": 2,
-    "교육평가": 3, "교육행정": 5, "교육사회학": 6, "교육심리학": 7, "기타": 1,
+    "교육평가": 3, "교육행정": 5, "교육사회학": 6, "교육심리학": 7,
+    "생활지도와 상담": 8, "기타": 1,
 }
 
 

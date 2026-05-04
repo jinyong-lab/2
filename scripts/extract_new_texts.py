@@ -65,11 +65,15 @@ def main():
 
     # 파일명 → (subject, subjectId) 매핑
     def get_subnote_subject(filename):
-        if '심리학개론' in filename or '가족상담' in filename:
-            # 심리학개론, 가족상담 → 심리학개론(19) 주 과목
+        # 우선순위: 집단상담 > 가족상담(단독) > 심리학개론+가족상담 > 성격심리학 > ...
+        if '집단상담' in filename:
+            return "집단상담", 11
+        elif '특수아상담' in filename or '특수아' in filename:
+            return "상담이론 및 실제", 10
+        elif '심리학개론' in filename:
             return "심리학개론", 19
-        elif '성격심리학' in filename and '진로상담' in filename:
-            return "성격심리학", 18
+        elif '가족상담' in filename:
+            return "가족상담", 20
         elif '성격심리학' in filename:
             return "성격심리학", 18
         elif '이상심리학' in filename:
@@ -83,6 +87,10 @@ def main():
     subnote_files = sorted(SUBNOTE_DIR.glob("*.pdf"))
     for pdf_path in subnote_files:
         key = pdf_path.name
+        # 서브노트 폴더에 있는 예상문제 파일은 스킵 (예상문제 폴더 외)
+        if '예상문제' in pdf_path.name:
+            print(f"  SKIP: {key} (예상문제는 별도 처리)")
+            continue
         if key in existing_keys:
             print(f"  SKIP: {key} (이미 존재)")
             continue
