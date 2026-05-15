@@ -30,6 +30,8 @@ def get_subject_from_filename(filename: str):
     """우선순위 매핑: 집단상담 > 심리학개론(복합) > 가족상담 > ..."""
     if '집단상담' in filename:
         return ("집단상담", 11)
+    if '아동' in filename and '청소년' in filename:
+        return ("발달심리학", 14)
     if '심리학개론' in filename:
         return ("심리학개론", 19)
     if '가족상담' in filename:

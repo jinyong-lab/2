@@ -68,6 +68,8 @@ def main():
         # 우선순위: 집단상담 > 가족상담(단독) > 심리학개론+가족상담 > 성격심리학 > ...
         if '집단상담' in filename:
             return "집단상담", 11
+        elif '아동' in filename and '청소년' in filename:
+            return "발달심리학", 14
         elif '특수아상담' in filename or '특수아' in filename:
             return "상담이론 및 실제", 10
         elif '심리학개론' in filename:

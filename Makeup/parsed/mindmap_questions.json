@@ -9457,5 +9457,770 @@
     "difficulty": 3,
     "subjectId": 11,
     "pageRef": "3-1 마인드맵_집단상담"
+  },
+  {
+    "content": "또래집단인기유형(이스트)[23]의 개념을 설명하시오.",
+    "modelAnswer": "인기형,보통형,고립형,거부형,혼합형",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "사회성측정법을통한인기유형(모레노)에 대해 설명하시오.",
+    "modelAnswer": "인기형,고립형,소외형,배척아,상호적선택형,일방적선택형,파벌,분열",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "T-집단(훈련집단)의 특징을 서술하시오.",
+    "modelAnswer": "소집단의훈련을위주로형성된집단으로실습훈련을목적으로함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "참만남집단(엔카운터집단)의 주요 내용을 기술하시오.",
+    "modelAnswer": "T-집단을보완하기위해실존적이고인도주의적사상을기초로발전시킨집단모형(로저스모형,스톨러모형)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "집단상담자의기능의 핵심 개념을 설명하시오.",
+    "modelAnswer": "지도적기능,자극적기능,확충적역할,해석적기능",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "집단상담자의역할에 대해 설명하시오.",
+    "modelAnswer": "비합리적신념의대치(논박,지시적·설득적·철학적인방법)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "집단상담기법의 특징을 서술하시오.",
+    "modelAnswer": "논박,강의,행동수정,독서치료,시청각적자료,활동중심과제,역할놀이,자기주장훈련등을활용하여인지변화를이룩함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "집단상담방법의 핵심 개념을 설명하시오.",
+    "modelAnswer": "기초선측정후강화와벌,소거등을적용하여바람직한행동을증가시키고부적응행동을약화(제거)시킴",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "집단상담기법(태도)의 주요 내용을 기술하시오.",
+    "modelAnswer": "진실성,무조건적긍정적존중,공감적이해",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "분석방법의 특징을 서술하시오.",
+    "modelAnswer": "구조분석,의사교류분석,게임분석,생활각본분석",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "마술상점기법의 개념을 설명하시오.",
+    "modelAnswer": "마술가게라는상상적인장면을설정해서거기에서어떤물건이라도사거나팔수있게하는기법",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "역할바꾸기기법에 대해 설명하시오.",
+    "modelAnswer": "주인공이상대역을하고상대방이주인공의역할을하는식으로역할을교환하여전개하는기법",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "루시아의전문상담교사 집단상담의 특징을 서술하시오.",
+    "modelAnswer": "구성요소[16] 주인공,연출가,보조자아,관객,무대\n진행과정 준비과정(워밍업,준비단계)→행동(실연,본극)→종합(종결,마무리,통합)\n기본정신 창조성,자발성,즉흥성,텔레,잉여현실,카타르시스,역할이론(역할교대),참만남,현실검증",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "이중자아기법의 주요 내용을 기술하시오.",
+    "modelAnswer": "보조자아가주인공의또다른자아가되어서주인공을대변하고표현하는기법",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "거울기법의 핵심 개념을 설명하시오.",
+    "modelAnswer": "보조자아가주인공이연기를하는동안보여준몸짓,말,자세등을비춰주는역할을하는기법[18]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "역할놀이(역할훈련)의 개념을 설명하시오.",
+    "modelAnswer": "주인공으로하여금자신의위치에서어떠한역할을선택하여연기하도록하는기법",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "빈의자기법에 대해 설명하시오.",
+    "modelAnswer": "빈의자를무대중앙에두어주인공에게의자에누가앉아있는지상상하도록하는기법",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "미래투사기법의 특징을 서술하시오.",
+    "modelAnswer": "주인공이자신의미래상황을연상하여그것을현재에서일어나는것처럼연기하는기법",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "기법 독백기법의 주요 내용을 기술하시오.",
+    "modelAnswer": "주인공의숨겨진생각이나감정이말을통해드러남으로써,주인공의감정을이해하는기법",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "암전기법의 핵심 개념을 설명하시오.",
+    "modelAnswer": "주인공이행동은하고있으나고통스러운경험을관찰당하지않고,혼자있는경험을유지할수있도록전극장을어둡게하는기법",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "죽음장면기법의 개념을 설명하시오.",
+    "modelAnswer": "주인공자신의죽음이나다른중요한인물의죽음이라는가상적상황을극중장면으로사용하는기법",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "등돌리기기법에 대해 설명하시오.",
+    "modelAnswer": "주인공이집단을마주하고연기하여일어나는당혹감,저항을막기위해관중으로부터등을돌리고연기하도록하는기법",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "높은의자기법의 특징을 서술하시오.",
+    "modelAnswer": "의자를사용하여주인공과상대역이자리잡은공간및위치의차원을조정함으로써비언어적으로인물간의관계의모습을과장하는기법",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "심판의장면의 주요 내용을 기술하시오.",
+    "modelAnswer": "철학자,신,부처등의인물을맡은보조자아와주인공이인생의의미,죄의식,가치관등에대해재판형식의비판을하는기법",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "재판기법의 핵심 개념을 설명하시오.",
+    "modelAnswer": "법정장면식으로갈등을전개하는기법",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "다중자아의 개념을 설명하시오.",
+    "modelAnswer": "각보조자아가주인공의전인격의한부분으로연기하는세분화된이중자아기법",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "루시아의전문상담교사 아동청소년심리에 대해 설명하시오.",
+    "modelAnswer": "발달의정의 전생애에걸쳐생활주기에서나타나는신체적,정신적,사회적,경험적인변화\n영향을미치는요소 생물학적·심리적·환경적·사회문화적요소",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "발달의이해의 특징을 서술하시오.",
+    "modelAnswer": "발달은일정한방향으로진행된다.(머리→발끝,중심→말초)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "발달에는결정적시기가있다.의 주요 내용을 기술하시오.",
+    "modelAnswer": "발달단계또는발달시기마다그시기에대한사회적기대가있다.",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "인간발달의원리 발달은점성성을갖는다.의 핵심 개념을 설명하시오.",
+    "modelAnswer": "개개인의발달과정을비교해보면개인차가있다.",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "분화와통합의과정을이룬다.의 개념을 설명하시오.",
+    "modelAnswer": "인간의발달은유전과환경의상호작용에의해서이루어진다.",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "인간발달은연속적인과정이다.에 대해 설명하시오.",
+    "modelAnswer": "연령이증가할수록발달의경향을예측하기힘들다.(환경의영향)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "수정의 특징을 서술하시오.",
+    "modelAnswer": "남성의정자와여성의난자가만나하나가되는현상",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "배아기(배자기)의 핵심 개념을 설명하시오.",
+    "modelAnswer": "태생4주에서8주까지의기간(장기형성,태아의외형정돈)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "태아기의 개념을 설명하시오.",
+    "modelAnswer": "2개월에서출산전까지의시기.태아가여러가지기능을각각발휘하기시작함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "다운증후군에 대해 설명하시오.",
+    "modelAnswer": "21번염색체가3개가되어발생하는선천적기형증후군",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "에드워드증후군의 특징을 서술하시오.",
+    "modelAnswer": "18번염색체가3개가되어발생하는선천적기형증후군",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "염색체이상증후군 파타우증후군의 주요 내용을 기술하시오.",
+    "modelAnswer": "13번염색체가3개가되어발생하는선천적기형증후군",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "클라인펠터증후군의 핵심 개념을 설명하시오.",
+    "modelAnswer": "남아에게발생.X염색체가2개로성염색체가XXY",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "터너증후군의 개념을 설명하시오.",
+    "modelAnswer": "여아에게발생.1개의X염색체만가진것으로성염색체가XO",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "근원반사(젖찾기반사)에 대해 설명하시오.",
+    "modelAnswer": "신생아의뺨을만지면아기는접촉된방향으로고개를돌리고뺨에닿는물건을빨려고함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "빨기반사의 특징을 서술하시오.",
+    "modelAnswer": "신생아의입이나입술을둥근물체로자극하면힘차게빨기시작함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "삼키기반사의 주요 내용을 기술하시오.",
+    "modelAnswer": "입속에음식물이들어오면신생아는그것을삼킴",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "바빈스키반사의 핵심 개념을 설명하시오.",
+    "modelAnswer": "신생아의발바닥을자극하면,발가락을발등위쪽으로부챗살처럼펼침",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "모로반사(경악반사)의 개념을 설명하시오.",
+    "modelAnswer": "갑작스럽게큰소리가나거나머리의위치가변하면,마치무엇을껴안으려는듯이몸쪽으로팔과다리를움츠림",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "신생아반사 파악반사에 대해 설명하시오.",
+    "modelAnswer": "손바닥을가볍게두드리거나얇은물체를사용하여살짝누르면,그것을잡으려고주먹을쥠",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "눈깜박거리기반사의 특징을 서술하시오.",
+    "modelAnswer": "신생아의눈에빛을비추거나물체가신생아를향하여이동해오면신생아는눈을깜빡거림",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "수영반사의 주요 내용을 기술하시오.",
+    "modelAnswer": "아기를물속에넣으면물위에뜨기위해적절한팔다리운동과호흡을함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "걸음마반사의 핵심 개념을 설명하시오.",
+    "modelAnswer": "신생아의겨드랑이를잡고살짝들어올려바닥에발을닿게하면,걸어가듯이무릎을구부려발을번갈아땅에내려놓음",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "재채기반사의 개념을 설명하시오.",
+    "modelAnswer": "콧속을자극하거나간질이면,기도를깨끗하게하기위해재채기를함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "슬개건반사(무릎반사)에 대해 설명하시오.",
+    "modelAnswer": "무릎뼈아래를가볍게두드리면갑자기무릎을뻗음",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "평가영역의 주요 내용을 기술하시오.",
+    "modelAnswer": "심장박동(맥박),호흡,근육긴장(근육운동),반사의민감성(반사),피부색(혈색)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "신생아평청척도의 핵심 개념을 설명하시오.",
+    "modelAnswer": "생후3일~1개월까지의건강한신생아의환경에대한적응방법을행동발달로서파악하는방법",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "브레즐튼행동평정척도에 대해 설명하시오.",
+    "modelAnswer": "환경이아동발달에주도적인영향을미치지못하기때문에아동이지닌능력이상으로아동을교육하는것은아동에게좌절을야기함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "발달의원리의 특징을 서술하시오.",
+    "modelAnswer": "발달방향의원리,상호적교류의원리,기능적비대칭의원리,자기규제의원리",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "결정적시기 정의의 주요 내용을 기술하시오.",
+    "modelAnswer": "어떤특별한심리적특성이나행동의획득이이루어지는특정한시기",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "정의의 핵심 개념을 설명하시오.",
+    "modelAnswer": "유아기에볼수있는여러가지발달에민감한시기",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "성숙이론 5가지민감기의 개념을 설명하시오.",
+    "modelAnswer": "질서에대한민감기,세부에대한민감기,양손사용에대한민감기,걷기에대한민감기,언어에대한민감기",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "아동중심의교육환경강조에 대해 설명하시오.",
+    "modelAnswer": "실제사용이가능한진짜도구의제공,손쉽게교구를이용하기,질서정연하고아름다운환경의조성등",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "몬테소리학교의 특징을 서술하시오.",
+    "modelAnswer": "독립심과집중,자유선택,보상과벌,점진적준비",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "각인(로렌츠) 정의의 주요 내용을 기술하시오.",
+    "modelAnswer": "성장․발달의결정적시기또는감수성이예민한시기에그종의특유한추종반응을학습하는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "지능의 핵심 개념을 설명하시오.",
+    "modelAnswer": "인간이환경에적응하도록하는기본능력",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "도식의 개념을 설명하시오.",
+    "modelAnswer": "유기체가외계의사물을인지하고대응하기위해사용하는기본구조[21]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "동화에 대해 설명하시오.",
+    "modelAnswer": "외부의환경을유기체에맞도록적응시키는과정",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "조절의 특징을 서술하시오.",
+    "modelAnswer": "새로운사상에알맞게기존의도식을변화시키는과정[21]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "평형화의 주요 내용을 기술하시오.",
+    "modelAnswer": "새로운환경을이해할수있는사고의균형상태(동화와조절이반복되면서이루어짐)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "조직화의 핵심 개념을 설명하시오.",
+    "modelAnswer": "행동과사고를조리있는체계로결합하고,배열하고,재결합하고,재배열하는것",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "감각운동기(0~2세)의 개념을 설명하시오.",
+    "modelAnswer": "빨기,쥐기와같은신체적행동양식을조직화함.반사행동에서의도적행동으로발전,대상영속성이해",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "전조작기(2~7세)[25]에 대해 설명하시오.",
+    "modelAnswer": "자아중심성[25],직관적사고,상징적사고,물활론적사고,목적론적사고,전환적추론,인공론적사고,언어발달,타율적도덕성",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "구체적조작기의 특징을 서술하시오.",
+    "modelAnswer": "보존개념[25],유목화,서열화등가역적사고가가능해짐.탈중심화(조망수용능력습득),자율적도덕성",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "형식적조작기의 주요 내용을 기술하시오.",
+    "modelAnswer": "가설적사고,조합적사고,추상적사고,이상주의적사고[25]",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "근접발달영역(ZPD)의 핵심 개념을 설명하시오.",
+    "modelAnswer": "아동이혼자서는할수없으나보다더숙련된파트너가발판이되어도움을주면아동이처리할수있는과제의범위",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "인지발달의 개념을 설명하시오.",
+    "modelAnswer": "아동이타인과의관계에서영향을받으며성장하는사회적존재임을강조하며인간이해에있어서사회,문화,역사적측면을제시함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "언어와사고에 대해 설명하시오.",
+    "modelAnswer": "언어는아동의사고발달에필수적임.의사소통뿐아니라사고과정을이끌기위해언어를사용함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "사적언어의 특징을 서술하시오.",
+    "modelAnswer": "아동이자기지도와자기관리를위하여자신에게혼잣말을하는것으로,아동의사고발달에중요함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "인지발달단계의 주요 내용을 기술하시오.",
+    "modelAnswer": "피아제는모든아동이유사한인지발달단계를거친다고하였으나비고츠키는모든아동이똑같은인지발달단계를거치지않는다고함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "인지발달의결정요인의 핵심 개념을 설명하시오.",
+    "modelAnswer": "피아제는아동의자발적이고능동적인노력을강조했으나비고츠키는사회문화적맥락이인지발달의결정적요소라고함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "4~6세의아동의 특징을 서술하시오.",
+    "modelAnswer": "매우자기중심적인관점으로대답함",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "피아제의세개의산실험결과 6~9세의아동의 주요 내용을 기술하시오.",
+    "modelAnswer": "인형의시각적관점이자신의관점과다를수있다는것을이해하지만인형에게산이어떤모양으로보일지알아맞히는데는어려움",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "9~10세의아동의 핵심 개념을 설명하시오.",
+    "modelAnswer": "인형의시각적관점을정확하게이해함(학령전기아동들이다른사람의관점을정확히이해하지못함)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "수준0(3~6세/3~5세))의 개념을 설명하시오.",
+    "modelAnswer": "자기중심적관점(미분화된조망수용)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "수준1(6~8세/5~9세)에 대해 설명하시오.",
+    "modelAnswer": "사회정보적조망수용(주관적조망수용단계)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "셀만의조망수용단계[19] 수준2(8~10세/7~12세)의 특징을 서술하시오.",
+    "modelAnswer": "자기반영적조망수용(자기반성적조망수용단계)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "수준3(10~12세/10~15세))의 주요 내용을 기술하시오.",
+    "modelAnswer": "상호적조망수용(제3자적조망수용단계)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
+  },
+  {
+    "content": "수준4(12~15세이상/14세~성인)의 핵심 개념을 설명하시오.",
+    "modelAnswer": "사회관습체계적조망수용(사회적조망수용단계)",
+    "type": "essay",
+    "source": "mindmap",
+    "difficulty": 3,
+    "subjectId": 11,
+    "pageRef": "3-2 마인드맵_집단상담, 아동청소년 심리"
   }
 ]
